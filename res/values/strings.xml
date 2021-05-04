@@ -1,0 +1,1291 @@
+<resources>
+	<string name="app_name">TiB Centrul Vechi</string>
+	<string name="TIB.about">TiB Bucureşti - Centrul Vechi \n
+		\n Contact TiB:
+		\n \t email: <a href="mailto:turistinbucuresti@gmail.com">turistinbucuresti@gmail.com</a>   
+		\n \t web: <a href="http://www.turistinbucurestiro.blogspot.com"> turistinbucurestiro.blogspot.com </a>
+		\n
+	</string>
+	
+<!-- Butoane  -->
+	<string name="quit">Doriţi să părăsiţi aplicaţia ?</string>
+	<string name="yes">Da</string>
+	<string name="cancel">Renunţă</string>
+	<string name="btn_back">Înapoi</string>
+	<string name="rate">Evaluează aplicaţia în Google Play</string>
+	<string name="btn_next">Următorul</string>
+	<string name="btn_home">Acasă</string>
+	<string name="btn_select">Mergi la ..</string>
+	<string name="source">surse</string>
+	<string name="picture">poză</string>
+	<string name="menu_about">Despre</string>
+	<string name="menu_exit">Închide TiB</string>	
+	<string name="menu_source">Surse</string>	
+	<string name="menu_feedback">Contact</string>	
+	<string name="menu_settings">Setări</string>	
+	<string name="menu_tts">TTS</string>
+	<string name="font_size">Mărime font: </string>
+	<string name="tts_error">nu s-a putut iniţializa. Repetaţi acţiunea. </string>
+	
+<!-- Traseul Centrul Vechi  -->
+<string name="CV.0.name">.TiB - Centrul Vechi</string>
+<string name="CV.0.info"> \t Vă propunem un ghid turistic pentru a descoperi istoria clădirilor, a străzilor şi a personajelor care au marcat istoria Bucureştiului dar mai ales a Centrului Vechi de la 1386 până în zilele noastre.\n
+Veţi afla care este povestea Curţii Domneşti, a hanului lui Manuc, veţi găsi locul unde s-au inventat micii, veţi afla care este legătura între această zonă şi termenul puşcărie, vom trece pe lângă hotelul unde s-a hotărât Unirea Principatelor Române de la 1859, vom păşi pe strada pe care a locuit Mihai Eminescu sau Toma Caragiu şi multe altele.\n
+</string>
+<string name="CV.0.source"><a href=" http://www.apmnir.ro/map.php"> apmnir.ro </a></string>
+<string name="CV.0.foto">cv_00_han_manuc</string>
+<string name="CV.0.foto_source"></string>
+
+<string name="CV.1.name">Piaţa Unirii</string>
+<string name="CV.1.info">Traseul nostru începe de la gura de metrou Piaţa Unirii 2, de lângă clădirea unde este astăzi sediul BRD Unirii.\n
+Istoria acestui loc a fost marcată de Regulamentul Organic,  reglementat între anii 1831-1832 care preciza că în capitală trebuiesc amenajate 10 pieţe alimentare, astfel, a fost ridicată Piaţa Mare (Piaţa Ghica) vizavi de Hanul lui Manuc.\n
+După un timp, piaţa este considerată insalubră, nepotrivită cu cerinţele unui oraș aflat în plină dezvoltare, este demolată și se ia hotărârea de a se construi o hală în Piaţa Ghica, după modelul celor de la Paris.\n
+În zona Piaţa Unirii, la poalele Dealului Mitropoliei, exista în acea perioadă, Palatul Bibescu care aparţinuse lui Constantin Brâncoveanu, domn al Ţării Româneşti între ani 1688 - 1714.\n
+Gheorghe Bibescu (domnitor între 1843 - 1848) a intrat în posesia palatului prin căsătoria cu Zoe Brâncoveanu, ultima moștenitoare a familiei Brâncoveanu. \n  
+În 1848 este nevoit să abdice deși la presiunea maselor acceptă termenii proclamaţiei de la Islaz din 1848 care prevedea independenţa administrativă și legislativă, separarea puterilor și dezrobirea ţiganilor. Semnarea actului care a devenit Constituţia paşoptistă s-a făcut în Palatul Bibescu.\n
+Palatul Bibescu întră în patrimoniul Primăriei iar între anii 1869-1874 clădirea se degradează iar mai târziu este demolată, în locul ei fiind construită în 1872 piaţa de legume, numită apoi Piaţa Bibescu. \n
+Hala Mare a fost construită pe locul Pieţei Mari, pe lângă vechea Primărie, în timpul lui Alexandru Ioan Cuza, domnitorul Principatelor Unite ale Moldovei și Ţării Românești între anii 1859–1866. Hala Mare a fost redenumită Centrală apoi Hala Unirii în amintirea Unirii de la 24 ianuarie 1859, când în zona Mitropoliei s-au strâns 30.000 de oameni pentru a-și exprima susţinerea faţă de domnitorul Cuza. Clădirea Hala Mare a fost la vremea respectivă cea mai mare construcţie din capitală.\n
+Deoarece în Hala Unirii se comercializa doar carne, s-a construit între anii 1887–1888, în apropiere de locul unde astăzi se află Magazinul Unirea, o hală de peşte, dotată cu bazine pentru păstrarea peștelui viu și depozite. \n
+În 1883 s-a ridicat o hală de fructe, iar mai târziu, în 1889, la halele deja existente se va adăuga și una de păsări. De asemenea, de jur împrejurul clădirilor au fost instalate pavilioane unde se puteau vinde legume, fructe și brânzeturi.\n
+Pe locul unde sunt clădirile de apartamente cu reclame pentru OMV, Siemens și Optinova, a existat Spitalul Brâncovenesc, fondat de Doamna Safta Brâncoveanu la 1835.\n
+Piaţa de astăzi nu semăna deloc cu ceea ce era atunci, fiind mult mai deschisă, mai aerisită. Din piaţă se puteau zări turnurile Bisericii 	Domniţa Bălaşa, acum acoperite de blocurile pomenite mai sus. \n
+În Piaţa Sf. Anton, zona Centrului Vechi, s-a mai construit în 1885 o hală de flori care a fost demolată în anii 1960.\n
+Piaţa Bibescu a fost transformată în 1906 într-una mai modernă și mai civilizată. Ansamblul acestor construcţii va primi denumirea de Halele Centrale.\n
+La inaugurare, Hala Centrală avea 2.700 metri pătraţi de spaţiu comercial, cel pentru tarabe având 10.812 metri pătraţi. Piaţa Bibescu Vodă este desfiinţată în 1936 din ordinul lui Carol al II-lea. \n
+Zona devine una insalubră așa că piaţa și halele, cu excepţia celei mari (Hala Unirii) au fost demolate din dispoziţia lui Carol al II-lea, ocazie cu care se acoperă râul Dâmboviţa cu placă de beton, de la Piaţa Senatului (Naţiunilor Unite) până după Piaţa Unirii.\n
+În perioada interbelică, Halele Centrale îşi vor schimba numele în Piaţa 8 iunie, în amintirea proclamării ca rege a lui Carol al II-lea, ce avusese loc în 1930. \n
+Când generalul Ion Antonescu a fost numit Conducătorul Statului, Piaţa 8 Iunie a devenit Piaţa 6 Septembrie, data \"biruinţei legionare\". Aici și-au ţinut \"cămășile verzi\" marea manifestaţie atunci când România a devenit Stat Naţional-Legionar (14 septembrie 1940). La manifestaţie au participat Generalul Antonescu și Horia Sima, liderul legionarilor.\n
+Venirea la putere a comuniștilor a coincis cu o nouă schimbare a numelui Halelor Centrale, acestea purtând denumirea de Piaţa Unirii până la desfiinţare. \n
+La sfârșitul anilor \'70, din cauză că vreme îndelungata nu au existat lucrări de recondiţionare și de întreţinere specifice, Piaţa Unirii a redevenit un loc neîngrijit și insalubru, preferat însă de bucureșteni nu atât datorită tradiţiei, cât faptului că produsele aveau preţuri accesibile. \n
+În 1977, pe locul unde a fost un cartier evreiesc a fost construit Magazinul Unirea, extins în 1986.\n
+Spitalul Brâncovenesc și Hala au fost demolate la sfârşitul anilor \'80, când în timpul lui Ceaușescu a fost construit Bulevardul Victoria Socialismului, actualul Bulevard al Unirii parte a Centrului Civic.\n
+Piaţa agro alimentară a fost mutată în 1987 în incinta complexului din spatele magazinului Unirea (așa numitul Circ al foamei) unde a fost amenajată o zonă cu tarabe. \n
+Dacă ar fi să identificăm fostele clădiri în funcţie de cele care au supravieţuit până astăzi atunci imaginaţi-vă ca peste drum de Hanul lui Manuc era impunătoarea Hala Unirii, pe locul parcului din faţa Magazinului Unirea era Hala de Pește, pe colţul șirului de clădiri care duce în Piaţa Constituţiei împreună cu Biserica Domniţa Bălașa se găseau Așezămintele Brancovenești (Spitalul Brâncovenesc) iar pe zona unde sunt acum fântânile de la Unirii, porţiunea înspre dealul Mitropoliei se găsea Palatul Brâncoveanu Bibescu unde a fost construită Piaţa de legume Bibescu. \n 
+</string>
+<string name="CV.1.source">
+<a href="http://www.bucharestunknown.blogspot.com/2010/01/piata-unirii.html">bucharestunknown.blogspot.com </a>, 
+<a href="http://www.lecturirecenzate.ro/2011/06/11/hala-unirii-din-bucuresti">lecturirecenzate.ro</a>, <a href="http://www.rezistenta.net/2007/10/nomenclatorul-stradal-partea-iv-1.html">rezistenta.net</a>	, <a href="http://www.metropotam.ro/Locuri-de-vizitat/Atunci-si-acum-Piata-Unirii-art9993853400/">metropotam.ro</a>
+</string>
+<string name="CV.1.foto">cv_01_piata_unirii_1927_via_transira</string>
+<string name="CV.1.foto_source"><a href="http:// transira.ro"> transira.ro </a></string>
+
+<string name="CV.2.name">Strada și bazarul Bazaca</string>
+<string name="CV.2.info"> Pe locul blocului cu sediul BRD de la staţia de Metrou Unirii, a existat până în anii \'30 strada Bazaca care făcea legătura cu strada Halelor (Piaţa Unirii), Piaţa Sf. Anton (numită și Piaţa de Flori) și strada Carol (azi str. Franceză) și se continua peste drum cu strada Calea Moșilor.\n
+Pe această stradă a existat Hanul Bazaca, construit în 1821, cu prăvălii la parter și camere de închiriat la etaj. Numele hanului vine de la Bezaca Anastasie care în sec. XIX era în slujba armatei \rruse, secretarul contelui Prozorovski, stabilit aici în timpul ocupaţiei Principatelor române. \n
+Tot aici se putea vedea magazinul întemeiat de Constantin Panaiot apoi în proprietatea lui Theodor Atanasiu &amp; Co devenit vestitul \"La vulturul de mare cu peștele în gheare\" unde se puteau găsi ţesături, mătăsuri, mercerie etc. Magazinul se va muta mai târziu în spatele actualului magazin Cocor.\n
+În anii \'30 această stradă s-a transformat într-un adevărat bazar, comercianţii își întindeau marfa de la un capăt la altul dar, deși era un loc strâmt și greu de pătruns, strada era un adevărat furnicar al Bucureștiului. \n
+Majoritatea clădirilor de pe Bazaca au fost demolate pentru a se realiza bulevardul Ion C. Brătianu (fost Brâncoveanu, fost b-dul. 1848) în jurul anului 1936, în timpul primarului Dem. I. Dobrescu. \n
+Clădirea de lângă sediul BRD, care se învecinează cu Hanul Manuc, cu o cofetărie la parter, a supravieţuit demolărilor din \'36. \n
+</string>
+<string  name="CV.2.source">
+<a href="http://www.metropotam.ro/Locuri-de-vizitat/Povesti-de-Bucuresti-Strada-Bazaca-un-bazar-de-veselie-art8369057993/"> metropotam.ro </a>,
+<a href="http://www.bucurestiivechisinoi.ro/2011/03/strada-bazaca-bazarul-uitat/">bucurestiivechisinoi.ro</a>
+</string>
+<string name="CV.2.foto">cv_02_strada_bazaca_1930_via_historia</string>
+<string name="CV.2.foto_source"><a href="http:// www.historia.ro">historia.ro</a> </string>
+
+<string name="CV.3.name">Hanul lui Manuc</string>
+<string name="CV.3.info">A fost întemeiat de armeanul Emanuel Mârzaian (1769-1817) zis și Manuc care a obţinut demnităţile de dragoman (traducător) și bei (guvernator) în vremea sultanului Mustafa al	IV-lea iar în anul 1808 a fost numit Bei al Moldovei.\n
+Manuc Bei ajunge în 1806 în capitala Ţării Românești și este silit să se stabilească aici pe termen lung din cauza războiului \rruso-turc (1806-1812). \n
+În a doua jumătate a aceluiași an începe construcţia hanului și va fi terminată în 1808. La vremea aceea, arhitectura sa era inovativă, în stilul caravan - seraiurilor din Algeria, Maroc sau Turcia. Sistemul de închidere tip cetate a fost implementat pentru cazarea clienţilor comercianţi care călătoreau de obicei în căruţe cu coviltir (acoperiș curbat folosit contra ploii) ce erau încărcate cu marfă și care trebuiau să rămână undeva peste noapte în siguranţă.\n
+La vremea respectivă, accesul în han se făcea prin piaţa Sf. Anton, hanul aflându-se pe malurile Dâmboviţei dar lucrările de sistematizare de mai târziu și devierea cursului râului au permis crearea altor căi de acces. Terenul pe care este construit hanul a aparţinut Curţii domnești până la sfârșitul sec. al XVIII-lea. \n
+Nu se cunoaște arhitectura exactă a hanului în configuraţia sa iniţială însă, din descrierile de la începutul sec. al XIX-lea reiese că la subsol se aflau 15 pivniţe boltite, la parter existau 23 de prăvălii, avea două saloane mari, 10 magazii, camere pentru servitori, bucătării și un tunel în care încăpeau cam 500 de persoane. Etajul dispunea de 107 odăi, cele mai multe folosite pentru oaspeţi. În curtea interioară exista o cafenea și o mică gradină cu fântână arteziană. \n
+La 16 mai 1812 se semnează aici Tratatul de pace \rruso-turc, în urma căruia spaţiul dintre Prut și Nistru, denumit mai apoi Basarabia, a fost anexat la Imperiul \RRus.\n
+După terminarea războiului, Manuc se mută cu familia sa la moșia Hîncești. Distanţa mare îl împiedică să mai tragă toate foloasele de pe urma hanului, astfel că hotărăşte să îl vândă. Începe să facă demersuri pentru vânzare la sfârșitul anului 1816, dar moare în împrejurări incerte un an mai târziu, înainte de a găsi un cumpărător. Deoarece toţi copiii săi erau minori la acea vreme, averea este administrată de o epitropie. Cea mai mare parte a averii se afla în Ţara Românească și era greu de administrat, așa că epitropii (tutelarii) moștenitorilor decid să arendeze toate proprietăţile.\n
+În decembrie 1827, toate averile din Ţara Românească, inclusiv hanul, sunt luate în arendă de Dimitrie D. Dedu și Nicolae Alexiu.\n
+În 1838 are loc un cutremur care afectează destul de serios structura clădirii însă Murat, fiul lui Manuc nu o repară invocând costuri prea mari.\n
+În cele din urmă, în 1841 sau 1842, Murat decide să vândă hanul, deoarece presiunile pentru reparaţii erau foarte mari, iar costurile ar fi făcut din păstrarea hanului o afacere neinspirată.\n
+În 1842 aici a fost sediul, pentru puţin timp, a Primăriei Bucureştiului.\n
+Hanul este cumpărat de pitarul (boier care se ocupa cu aprovizionarea curţii domnești cu pâine) Dimitrie Iconomidis (Economu), în asociere cu alte două persoane. \n
+Dimitrie moare în 1854, lăsându-şi averea prin testament, împărţită egal celor 	trei copii care continuă să exploateze hanul până în 1860, când îl dau
+în arendă lui Milan Lomovici. Contractul de arendă nu cuprindea toate încăperile hanului și avea o valabilitate de patru ani, cu termen în aprilie 1864.\n
+În 1861 sau 1862 hanul este vândut din nou, de această dată proprietar devenind Lambru Vasilescu. Acesta investește în reparaţia clădirii și îi schimba numele în Marele Hotel Dacia (Grand Hotel de la Dacie). Clădirea dispunea de două săli mari, care în curând au început să fie folosite pentru petreceri ale lumii bune a Capitalei și pentru diferite evenimente mondene. \n
+Teatrul lui I. D. Ionescu din sala Dacia a încântat publicul bucureştean cu șansonete românești. Aici, între 1870 și 1880, trupa tribunului Beni-Zug-Zug, cânta cuplete (piese satirice) scrise de Pantazi Ghica, Petre Grădișteanu și Ion Mosoiu: \"Cu gologanul un biet birtaș\", \"Cu un picior foarte ușor și cu-o botină de cea mai fină\", \"Pe cine nu-l lași să moară nu te lasă să trăieşti\" etc.\n
+În 1879, la Hotelul Dacia a avut loc spectacolul susţinut de iluzionistului american James Lwone, care s-a bucurat de un mare interes. Tot aici aveau loc, de trei ori pe săptămână, baluri mascate acompaniate de violonistul Ludovic Wiest.\n
+În sala de teatru s-a ţinut primul spectacol de operetă din România.\n
+Sala Dacia a găzduit în anii de dinaintea primului război mondial, întâlnirile politicienilor care doreau intrarea în război și unirea Ţării Românești cu Transilvania și Bucovina (Take Ionescu, Octavian Goga, Barbu Ștefănescu Delavrancea, Nicolae Filipescu etc.).\n
+Clădirea a fost supusă unor restaurări importante în anii: 1848, 1863, 1966-1970, 1991–1992 și 2009.\n
+În anul 1970, când a fost restaurat hanul, au fost scoase la iveală, lângă Biserica Sf. Anton, pivniţele și fundaţiile Curţii Domnești.\n
+După un proces de 10 ani, Hanul Manuc a fost restituit în 2007 familiei prinţului Șerban - Constantin Cantacuzino iar în 2010 a fost redeschis. \n
+Deocamdată, aici se găsesc o grădină de vară, un restaurant cu specific tradiţional românesc și un restaurant libanez. \n
+În curtea hanului se poate intra dinspre strada Franceză de lângă Biserica Curtea Veche. \n
+Facem dreapta pe str. Căldărari, nu înainte de a admira hotelul Europa Royale.\n
+</string>
+<string name="CV.3.source">
+<a href="http://www.bucurestiivechisinoi.ro/2011/10/hanul-manuc-o-poveste-in-imagini/">bucurestiivechisinoi.ro</a>,
+<a href="http://www.ro.wikipedia.org/wiki/Hanul_Manuc"> ro.wikipedia.org </a>
+</string>
+<string name="CV.3.foto">cv_03_hanul_manuc_1841_m_bouquet_via_vederi</string>
+<string name="CV.3.foto_source"><a href="http:// vederi.ro"> vederi.ro</a> </string>
+
+<string name="CV.4.name">Hotelul Europa Royale</string>
+<string name="CV.4.info">A fost construit în sec. XIX și renovat de lituanienii de la Europa Group Investment (EGI), care l-au transformat în hotel de patru stele cu aproape 90 de camere.\n
+</string>
+<string name="CV.4.source"><a href="http://www.egi.ro/commercial/hotel-europa-royale/">egi.ro</a></string>
+<string name="CV.4.foto">cv_04_hotel_europa_royale</string>
+<string name="CV.4.foto_source"><a href="http://www.groupeuropa.com"> groupeuropa.com</a> </string>
+
+<string name="CV.5.name">Strada Căldărari</string>
+<string name="CV.5.info">Strada flancată de Hotelul Europa Royale și Hanul lui Manuc, poartă numele breslei căldărarilor, a celor care fabricau căldări, tigăi, vase sau obiecte din aramă (cupru), sipeturi (cufere) sau cercevele (toc pentru uşă sau fereastră). \n
+Intrăm în strada Franceză unde avem în faţă Biserica Buna Vestire \"Curtea Veche\".  \n
+</string>
+<string name="CV.5.source"></string>
+<string name="CV.5.foto">cv_05_caldarari_via_vederi</string>
+<string name="CV.5.foto_source">
+<a href="http://www.vederi.ro">vederi.ro</a>
+</string>
+
+<string name="CV.6.name">Strada Franceză</string>
+<string name="CV.6.info">Porneşte din zona Unirii (clădirea BRD Unirii) şi se termină la intersecţia cu strada Calea Victoriei (fostă podul Mogoşoaiei).\n
+Din această stradă ai acces la multe monumente istorice cum ar fi Curtea Veche (sf. sec. XIV - sec. XVIII), cercetată şi restaurata în anii \‘70, şi  Biserica Buna Vestire construită de Mihnea Ciobanul (probabil din timpul primei sale domnii 1545-1554) care este cel mai vechi lăcaş din Bucureşti. Tot pe strada Franceză găsești Hanul lui Manuc, Biserica Sfântu Dumitru, Palatul Poştei, casa în care s-a născut Iulia Haşdeu etc.\n
+Prima secţiune, cea de la Curtea Domnească, este amintită în anul 1649 sub numele de \"Uliţa Curţii\", apoi \"Podul cel Mare din Curtea Veche\" (1763), \"Podul Curtea Veche\" (1804) şi \"Uliţa Curţii Vechi\" (1854). Cea de-a doua secţiune, care se desfăşoară între Calea Victoriei şi strada Smârdan, a purtat şi ea, numeroase denumiri: \"Uliţa cea Domnească\" în 1690, \"Uliţa Işlicarilor şi Boiangiilor\" la 1804, nume dat după meşterii şi negustorii de vopseluri şi işlice (căciuli mari purtate de domnitori, boieri şi negustori) care se stabiliseră aici.\n
+În sec. XVIII, sub domnia lui Constantin Brâncoveanu (domnitor între 1688 - 1714), strada se prelungeşte cu fragmentul dintre str. Nicolae Tonitza şi Calea Victoriei (zona cu Muzeul de Istorie) şi asta pentru că voievodul îşi clădise pe locul Bălăcenilor un mare han. Strada care venea dinspre Poarta de Sus a Curţii Domneşti devine astfel \"Podul de la casa Domniţei Văcărescu la Curtea Veche\". \n
+Această stradă a fost acoperită o vreme cu lemn, probabil în acelaşi timp cu Podul Mogoşoaiei (Calea Victoriei). Strada Franceză a fost printre primele străzi pavate din Bucureşti chiar înaintea bulevardului Elisabeta.\n
+Când pe această uliţă şi-a stabilit reşedinţa consulul Franţei la Bucureşti, tinerimea bucureşteană progresistă a cerut numaidecât schimbarea numelui străzii în \"Uliţa Franţuzească\".\n
+După 1867, când se uniseră deja cele două secţiuni, este redenumită Carol, după numele suveranului Carol I, păstrându-l până după abolirea monarhiei la data de 30 decembrie 1947. În 1949, ca o supremă batjocură, se dă străzii ce amintea de primul rege al românilor un nume care evoca distrugerea monarhiei: 30 decembrie.\n
+Imediat după 1989, în graba de a şterge urmele dictaturii comuniste, străzii i s-a atribuit numele fruntaşului ţărănist Iuliu Maniu (1873-1953), prim-ministru al României, președinte al Partidului Naţional-Ţărănesc, deţinut politic după 1947 care a decedat în închisoarea politică de la Sighet.\n
+În 2007, socotindu-se probabil că acest personaj istoric merită un bulevard, i s-a redat străzii numele istoric de Franceză, pe care îl poartă şi astăzi.\n
+De numele acestei străzi se leagă unul dintre cele mai tragice evenimente ce au afectat capitala: marele incendiu pornit, după cum spune maiorul Papazoglu \"în ziua Sfintei Învieri, anul 1847, la 12 ore, în miezul zilei\". Peste 2000 de clădiri, mai bine de o treime din oraş, a căzut pradă flăcărilor pornite din casele stolnicesei (soţia dregătorului domnesc) Drugănescu, aflate chiar lângă biserica Sf. Dimitrie. Focul îl iscase fiul stolnicesei care, tot Papazoglu ne povesteşte: \"luând un pistol plin, al tatălui său, a mers în şopron, unde se ţinea trăsura, ca să nu-i vază nimenea isprava, şi a descărcat pistolul în tavanul şopronului. Podul, fiind din paie, a luat foc îndată şopronul şi grajdul\". \n
+Traseul continuă în perimetrul Curţii Vechi. \n
+</string>
+<string name="CV.6.source">
+<a href=" http://silviacolfescu.blogspot.com/2011/11/plimbare-pe-strada-franceza.html"> silviacolfescu.blogspot.com </a>
+</string>
+<string name="CV.6.foto">cv_06_franceza_via_vederi</string>
+<string name="CV.6.foto_source"><a href="http://www.vederi.ro">vederi.ro</a></string>
+<string name="CV.7.name">Curtea Veche</string>
+<string name="CV.7.info">Construită în timpul lui Mircea cel Bătrân (domnitor între 1386 - 1394(5), 1397-1418), la sf. sec. al XIV-lea şi  începutul sec. al XV-lea când se ridică aici o cetăţuie cu rol de apărare împotriva turcilor, construcţie care avea fundaţii și ziduri din cărămidă înconjurate de şanţuri de apărare și o suprafaţă de cca. 160 mp.\n
+În timpul lui Vlad Ţepeş (1448, 1455-1462 şi 1476), pe locul vechii cetăţi a fost construită între anii 1458-1459, pe o suprafaţă de vreo 700 mp, o nouă cetate cu ajutorul meşterilor braşoveni. \n
+Curtea Veche avea atunci formă dreptunghiulară (30, 45m lungime şi 22m lăţime), înălţată din bolovani de râu şi mortar, subsoluri înalte, un parter şi ziduri ce închideau o curte interioară.\n
+Tot Vlad Ţepeş este cel care o ridică la rang de reşedinţă domnească, alternativa celei de la Târgovişte. Nici acesta din urmă nu a rezistat prea multă vreme, cel care l-a succedat fiind Basarab cel Tânăr (1477-1482), poreclit Ţepeluş care în toţi cei 5 ani de domnie, la fel ca Vlad Ţepeş, apelează la meşterii braşoveni şi reconstruieşte cetatea Bucureştilor. Conform documentelor în această perioadă cetatea suferă refaceri ample, astfel că în unele surse este chiar numită Noua Cetate.\n
+Curtea Domnească ajunsese astfel la o suprafaţă de 25.000 mp.\n
+În această perioadă, cetatea era cunoscută sub diferite nume: Castrum Bokoryscha, Bocerestya, Bocoresth.\n
+Primele date certe despre Curtea Veche le avem din documentele de pe vremea lui Radu al III-lea cel Frumos - frate vitreg cu Vlad Ţepeş care a mutat scaunul domnesc la Bucureşti numind-o \"Cetatea de scaun Dâmboviţa\". \n
+Ştefan cel Mare (domn al Moldovei între anii 1457 - 1504) cucereşte cetatea şi îl urcă pe scaunul domnesc pe Basarab Laiota, dar după o scurtă perioadă acesta se aliază cu turcii.\n
+În 11 noiembrie 1476, Ştefan atacă şi cucereşte din nou cetatea Bucureştilor ajutându-l pe Vlad Ţepeş să revină la domnie. În acest fel, Ştefan şi-a plătit datoria pe care o avea faţă de Vlad Ţepeş care l-a alungat din Suceava pe Petru Aron, ucigaşul tatălui lui Ştefan.\n
+După doar câteva săptămâni de domnie, Vlad Ţepeş cade victimă unui complot pus la cale de boierii filo-otomani.\n
+Porecla Ţepeş i s-a atribuit în urma execuţiilor frecvente prin tragere în ţeapă pe care le ordona. Victor Hugo în \"Legende de Siecles\", redă felul în care Vlad Ţepeş a întâmpinat armata sultanului Mahomed al-II-lea venită să cucerească Ţara Românească: \"înaintând spre Târgoviște, oştenii armatei turceşti au fost îngroziţi de priveliştea oferită de Ţepeş: case arse, câmpii pârjolite şi fântâni cu apă otrăvită. Totul a culminat însă cu imaginea de lângă zidurile cetăţii unde se adăpostise Vlad Ţepeş: o imensă pădure de cadavre. Cuprinşi de frică şi îngroziţi de mirosul celor 20.000 de cadavre ale prizonierilor turci înfipţi în ţepe, ofiţerii lui Mahomed s-au retras recunoscând victoria voievodului\". Vlad Ţepeş a fost la fel de crud şi cu supuşii săi, aproape orice infracţiune, de la minciună, furt până la omor, putea fi pedepsită prin trasul în ţeapă. În acea perioadă, la fântâna cetăţii Târgovişte era un pocal din aur masiv cu care puteai bea apă, legenda spune că în timpul domniei lui Vlad Ţepeş nimeni cu a avut curaj să-l fure.\n
+Vlad Ţepeş a fost subiectul multor creaţii, atât literare, cât şi istorice, cea mai cunoscută fiind celebrul roman \"Dracula\" al scriitorului irlandez Bram Stoker, publicat în 1897. Se spune că transformarea lui Vlad Ţepeş în Contele Dracula însetat de sânge se datorează faptului că, potrivit obiceiului din acea vreme, învingătorul unei lupte îşi potolea setea bând sângele celor învinşi.\n
+Numele Dracula i se datorează tatălui lui Vlad Ţepeș care a făcut parte din Ordinul Dragonului ce avea ca scop lupta împotriva ereticilor, a necredincioșilor și păstrarea valorilor catolicismului occidental. De la numele acestui ordin, dar și faptul că noţiunea de dragon nu era cunoscută celor din Ţara Românească, au apărut tot felul de derivaţii: Dragulia, Draculea, Dracula.\n
+După moartea lui Vlad Ţepeș, pe scaunul din Cetatea Bucureștilor a fost instaurat din nou Basarab Laiota. \n
+Din cancelaria domnească a acestei reşedinţe a fost emis documentul din 20 septembrie 1459 care atestă pentru prima dată numele de Bucureşti. Documentul a fost descoperit în 1906, cu ocazia unei expoziţii desfășurate la București cînd printre obiectele aduse din toată ţara a fost descoperit un hrisov scris pe pergament, fără sigiliu, dar cu un șnur din mătase roșie și albastră. \n
+Deşi de-a lungul istoriei mulţi din domnitorii Ţării Româneşti au ales ca cetate de scaun Curtea Domnească din Târgovişte, unii din ei au folosit şi cetatea Bucureştilor.\n
+Este şi cazul lui Vlad Călugărul (1482-1495), care deşi avea Curtea Domnească la Târgovişte semna documente (s-au păstrat peste 30 de astfel de documente) din Cetatea Bucureştilor. \n
+La mijlocul sec. al XVI-lea, Mircea Ciobanul (1545-1552, 1553-1554, 1558-1559) angajează meşteri pentru refacerea curţii domneşti pe vechile temelii, transformând astfel vechea construcţie într-un palat cu puternice ziduri de bolovani şi piatră, vaste pivniţe, ctitorind, pentru nevoile curţii, Biserica Buna Vestire (Biserica Domnească) de vizavi, care a servit timp de două secole drept loc de încoronare a domnitorilor Ţării Româneşti.\n
+În încăperile boltite ale subsolurilor Palatului Domnesc, Mircea Ciobanul i-a ucis, în februarie 1558, pe boierii şi pe reprezentanţii clerului care-l trădaseră.\n
+Chiajna, doamna lui Mircea Ciobanul, l-a închis în hrubele palatului pe Dumitru, fiul adoptiv al lui Despot-Vodă, ce ameninţase că va lua domnia fiului ei, Petru cel Tânăr.\n
+Alexandru al II-lea Mircea (1568 - 1577) a sporit şi el suprafaţa curţii adăugând case şi acareturi (construcţii secundare) pe latura de est.\n
+Reşedinţa domnească va deveni nucleul Bucureştiului în veacul al XVI-lea, concentrând în jurul ei întreaga viaţă a capitalei când s-au 	construit aici \'case\', astfel că, în perioada sa de maximă extindere, curtea domnească ajunsese să se întindă pe nu mai puţin de 30.000 mp incluzând palatul şi construcţiile care găzduiau nu numai familia voievodală ci şi Sfatul, Logofeţia, Visteria, Spătăria, Vornicia şi toate celelalte.\n
+De la Curtea Domnească din Bucureşti a ridicat steagul luptei antiotomane Mihai Viteazul, domnitor în Ţara Românească între anii 1593 - 1601, fiind primul domnitor care a reuşit să unească, deşi pentru o scurtă perioadă, în 1600, cele trei ţări româneşti: Ţara Românească, Moldova şi Transilvania ce alcătuiesc astăzi România. \n
+Reşedinţa domnească a fost arsă de turci în cursul luptelor din 1595 și va fi complet rezidită de Matei Basarab (1632 - 1654), când domnul mută reşedinţa la Târgovişte, de unde ea va reveni în mod definitiv în 1659.\n
+Venit la scaunul Ţării Româneşti, Constantin Brâncoveanu (1688 - 1714) construieşte Casa Domnească, numită \"Cea mare\", a înfrumuseţat palatul
+cu scări de marmură, cu un balcon numit \"bella loggia\" ce era susţinut de coloane din piatră dăltuite de meşteri pricepuţi, cu foişoare pentru ceasurile de odihnă, refăcând de asemenea clopotniţa, adăugând odăi, poarta principală de intrare fiind prevăzută cu turn de pază. \n
+Elegantă, \"Casa cea mare\" impresionează pe mulţi străini veniţi la curte.\n
+Ştefan Cantacuzino (1714 - 1716), care i-a urmat lui Brâncoveanu, a ridicat la rândul său Palatul Doamnei Păuna şi al Coconilor care cuprindea opt odăi şi un colţ de grădină, în zona din spatele Curţii Sticlarilor.\n
+Curtea a devenit nefuncţională după incendiul din 1718, care a distrus o mare parte din Bucureşti dar şi după cutremurul din 1738.\n
+Alexandru Vodă Ipsilanti a construit între 1775-1776 o curte domnească (Curtea Nouă) la marginea oraşului, în Dealul Spirii (Arsenalului), nu departe de mănăstirea Mihai Vodă, care a devenit reşedinţa domnitorilor din Ţara Românească în perioada 1776 - 1812. \n
+Clădirea a ars în anul 1812, iar de atunci i s-a spus \"Curtea Arsă\". Ruinele pot fi văzute pe strada Sapienţei, lângă Biserica Mihai Vodă în colţul dinspre sud-est al Parcului Izvor de lângă Casa Poporului.\n
+Terenul pe care se afla Curtea Veche a fost vândut în timpul domnitorului Constantin Hangerli, construindu-se aici case, prăvălii, hanuri şi alte acareturi.\n
+În timpul domniei lui Alexandru Moruzzi (1793-1796), în încăperile Curţii Vechi funcţiona \"departamentul criminalion\" iar în pivniţă era închisoarea zapciilor (executorilor domneşti). Încercările acestuia de restaurare a unor clădiri şi de alungare \"a tot felul de netrebnici\" care se pripăşiseră acolo au dat greş. Complet ruinată, Curtea Veche rămâne în ultimii ani ai sec. al XVIII-lea refugiul \"Crailor\" şi haimanalelor oraşului.\n
+În vremurile bune, Curtea Domnească era formată din Palatul Voievodal, Biserica Curtea Veche (Biserica Domnească sau Buna Vestire) care este cea mai veche clădire a oraşului păstrată în formă ei iniţială, case cu saloane de recepţie, cancelarii domneşti, grajduri şi grădini. Curtea Domnească se întindea pe suprafaţa cuprinsă între străzile Halelor (fostă Carol), Şelari, Lipscani, Bărăţiei și Calea Moşilor. De-a lungul timpului, oraşul Bucureşti a suferit diverse modificări urbanistice, astfel că vechea Curte Domnească nu mai corespunde întru totul cu vechile descrieri.\n
+Când a fost construită, Curtea Veche era aşezată pe o colină destul de înaltă, înconjurată la sud de malul foarte înalt al râului Dâmboviţa şi Dâmbovicioara, iar în celelalte puncte cardinale de ziduri puternice.\n
+Accesul în curtea domnească era posibil prin două porţi opuse: prima poartă, amplasată la intersecţia străzilor Smârdan cu Halelor, a avut mai multe denumiri: Poarta de Sus, Turnul dinspre Nemţi, Clopotniţa Domnească, iar mult mai târziu după ce turnul de piatră s-a ruinat, Foişorul Roşu (probabil numele a fost luat de la culoarea în care a fost vopsit turnul), a doua poartă, Poarta de Jos, era situată în locul în care porneşte strada Moşilor.\n
+Astăzi la Curtea Veche se mai pot desluşi urmele primei cetăţui, un turn de pază pe drumul Giurgiului, nu mai mare de 160 mp, făcut din cărămidă şi mortar, acoperit cu olane susţinute de bârne de stejar.\n  
+În prezent, ruinele Palatului Voievodal au devenit sit arheologic protejat, fiind amenajat aici şi Muzeul Curtea Veche ce a fost deschis în 1972.\n
+Locul unde era localizată cetatea lui Vlad Ţepeș a stârnit numeroase controverse pe parcursul istoriei acestea luând sfârșit în urma cercetărilor arheologice desfășurate între anii 1967-1973, care au scos la iveală Cetatea lui Vlad Ţepeș dar și construcţia anterioară.  \n  
+Cercetările au fost conduse de arh. Panait I. Panait, secondat de dr. Aristide Ştefănescu fiind una dintre cele mai ample investigaţii arheologice din Bucureşti, s-au decopertat străzi, s-au desfiinţat case, s-au efectuat numeroase săpături şi lucrări de consolidare, completare şi restaurare.\n
+Se zvoneşte că între Hanul lui Manuc, Biserica Domnească şi Curtea Veche, pe o lungime de circa 300 de metri exista un tunel subteran folosit de domnitori în cazul invaziilor.\n
+Traseul continuă cu Biserica Buna Vestire "Curtea Veche" de lângă perimetrul Curţii Domnești. \n
+</string>
+<string name="CV.7.source">
+<a href="http://ro.wikipedia.org/wiki/Curtea_Veche"> ro.wikipedia.org </a>, 
+<a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a>, 
+<a href="http://museum.ici.ro/mbucur/romanian/curteaveche.htm">museum.ici.ro</a>,
+<a href="http://www.misiuneacasa.ro/curtea_veche1.html">misiuneacasa.ro</a> ,
+<a href="http://www.ghidbucuresti.ro/despre-bucuresti-curtea-veche.php">ghidbucuresti.ro</a> ,
+<a href="http://www.bucurestiivechisinoi.ro/2011/07/viaC89Ba-la-curtea-domneasca-din-bucureC899ti/">bucurestiivechisinoi.ro</a>,
+<a href="http://snagov.ro/ro/Vlad-Tepes-Dracula-Snagov-677.htm">snagov.ro</a>,
+<a href="http://www.historia.ro/exclusiv_web/portret/articol/vlad-tepes-dracula-legenda-adevar-istoric">historia.ro</a>,
+<a href="http://ghidcentrulistoric.wordpress.com/">ghidcentrulistoric.com</a>
+</string>
+<string name="CV.7.foto">cv_07_curtea_veche_via_wiki</string>
+<string name="CV.7.foto_source"> <a href="http://ro.wikipedia.org">ro.wikipedia.org</a> </string>
+
+<string name="CV.8.name">Biserica Buna Vestire</string>
+<string name="CV.8.info">Mai este cunoscută ca şi Biserica Domnească Sfântul Anton sau Biserica Buna Vestire Curtea Veche.\n
+Este ctitorie a domnitorului Mircea Ciobanul (1545- 1554) care între anii 1558- 1559 a refăcut Curtea Domnească unde şi-a stabilit reşedinţa. Fiii săi Pătraşcu Vodă, Radu şi Mihnea Turcitul au continuat lucrările de construcţie. \n
+Matei Basarab o reface după ce a fost incendiată şi jefuită în 1611 dar are aceeași soartă în timpul invaziei turco-tătară astfel că Biserica Sfântul Anton este reconstruită de domnitorii Grigore Ghica între 1660- 1664, Gheorghe Duca între 1673- 1678 şi de Constantin Brâncoveanu între 1688- 1714, perioadă în care s-a ridicat o nouă clopotniţă unde s-a instalat primul ceas public din Bucureşti.\n
+Biserica Sf. Anton a fost grav afectată de cutremurele şi incendiile din prima jumătate a sec. XIX fiind reparată de arh. J. Schlatter care îi aduce numeroase modificări.\n
+Forma originală şi-a recăpătat-o în urma restaurării din perioada 1928-1935 condusă de arh. Horia Teodoru care a restaurat Palatul Cotroceni, Biserica Colţea, Biserica Sf. Gheorghe și a condus lucrările la ridicarea Academiei Dalles.\n
+Catapeteasma Bisericii Sfântul Anton datează din 1852 fiind realizată cu influenţe post brâncoveneşti de sculptorul Babic, pictura în stil neoclasic datează din 1852 și le aparţine lui Constantin Luca şi Mişu Popp iar fresca turlei este creaţia pictorului I. Mihail (1935).\n
+La intrarea în Biserică se găsește un frumos portal ce datează din timpul lui Ştefan Vodă Cantacuzino (1714 - 1716). Din vechea pictură (realizată la cerinţa fiilor lui Mircea Ciobanul şi mai târziu, a lui Şerban Cantacuzino) nu au mai rămas decât fragmente.\n
+Biserica Curtea Veche a avut timp de 400 de ani hramul Buna Vestire, până în 1847 când i s-a adăugat hramul Sf. Anton după ce a ars bisericuţa Sf. Anton(ie) cel Mare. Aceasta mai era numită (în secolul XVI) şi Biserica Domniţelor, servind drept paraclis (capelă) Puşcăriei Domneşti.\n
+Biserica Sf. Anton este considerată cea mai veche construcţie din Bucureşti, fiind locul unde erau încoronaţi și unși cu mir domnitorii Ţării Româneşti.\n
+Aici se află primul muzeu parohial din capitală, care adăposteşte obiecte de cult ce aparţin celor mai vechi Biserici din București. Dintre acestea unele datează de la sfârşitul sec. al XVII-lea, din timpul sfântului domnitor martir Constantin Brâncoveanu, iar altele au fost donate de domnitorul Nicolae Mavrocordat la jumătatea sec. al XVIII-lea la care se adaugă o icoană din vechea catapeteasmă de la 1715, o anaforniţa şi cărţi de cult vechi.\n
+La ieşirea din perimetrul Bisericii Sf. Anton, facem stânga pentru a vizita curtea Hanului Manuc. \n
+</string>
+<string name="CV.8.source">
+<a href="http://www.basilica.ro/ro/stiri/la_biserica_sfantul_antonie_cel_mare_curtea_veche_va_fi_inaugurat_primul_muzeu_parohial_din_bucuresti_.html"> basilica.ro </a>, 
+<a href="http://ro.wikipedia.org/wiki/Biserica_Curtea_Veche">ro.wikipedia.org</a>
+</string>
+<string name="CV.8.foto">cv_08_biserica_curtea_veche_via_wiki</string>
+<string name="CV.8.foto_source"><a href="http://ro.wikipedia.org/wiki/Biserica_Curtea_Veche">ro.wikipedia.org</a> </string>
+
+<string name="CV.9.name">Piaţa Anton</string>
+<string name="CV.9.info">În această piaţă a funcţionat între 1842-1880 cea dintâi primărie a Bucureştiului, construită de arh. Xavier Villacrosse, cunoscut pentru planurile clădirilor: Palatul Ghica, Casa Golescu și Mănăstirea Radu Vodă. Clădirea Primăriei a fost demolată pentru sistematizarea cursului Dâmboviţei, instituţia mutându-se pe spaţiul unde este acum parcul din faţa TNB (Teatrul Naţional București \"Ion Luca Caragiale\") de la Universitate.\n
+Numele Sf. Anton este preluat de la biserica zidită în 1735, pe locul numit Piaţa de Flori, de către Petre (fiul lui Enciu din Serbi), şi care servea drept paraclis (capelă) Puşcăriei Domneşti. Biserica şi puşcăria au fost distruse de incendiul din 23 martie 1847 iar pe locul unde a fost altarul a fost ridicată o cruce. În 2011, cu ocazia reabilitării Centrului Vechi, s-a amenajat aici un părculeţ împrejmuit cu un zid de cărămizi, ce amintește de forma bisericuţei Sf. Anton(ie).\n
+Traseul continuă pe strada Şepcari, prin Piaţa Anton. \n
+</string>
+<string name="CV.9.source"> 
+<a href="http://http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a>,
+<a href="http://www.humanitas.ro/humanitas/str%C4%83zi-vechi-din-bucure%C5%9Ftiul-de-azi"> Alexandru Ofrim - Străzi vechi din Bucureştiul de azi</a> 
+</string>
+<string name="CV.9.foto">cv_09_piata_sf_anton_1900_via_vederi</string>
+<string name="CV.9.foto_source"><a href="http://vederi.ro"> vederi.ro </a> </string>
+
+<string name="CV.10.name">Strada Şepcari</string>
+<string name="CV.10.info">Este strada pe care se află Piaţa Sf. Anton și care duce în bulevardul Ion C. Brătianu. Pe această stradă au existat ateliere cu meşteri şi comercianţi de calpacuri adică niște căciuli sferice sau cilindrice, tivite cu blană scumpă, pe care le purtau domnul şi boierii mari. După schimbarea modei, meșterii au început să fabrice şepci şi pălării, ultimul atelier care se ocupă cu așa ceva, moştenit din tată în fiu, mai există încă pe această stradă.\n
+Aici s-a aflat puşcăria, turnul Curţii Domnești, unde era păstrată muniţia, tunurile dar şi \"puşcile\" cu care se trăgeau salve la diferite ceremonii. Unele încăperi din turn erau folosite ca loc de detenţie (puşcărie), în beciuri erau ţinuţi ţăranii iar clopotniţa era rezervată boierilor. De aici a fost preluat termenul de puşcărie cu sensul de închisoare. \n
+Lângă zidul Puşcăriei exista locul \"La Butuc\", unde erau executaţi răufăcătorii prin spânzurare sau tăierea capului, trupurile osândiţilor fiind expuse în ţepe timp de 3 zile. După 1840 a fost abolită pedeapsa cu moartea însă au continuat pedepsele corporale aplicate în public.\n 
+Acum facem stânga pe strada Covaci. \n
+</string>
+<string name="CV.10.source">
+<a href=" http://www.avantaje.ro/Timp-liber/Vacanta-Turism/Prin-Bucurestiul-de-altadata-Curtea-Veche-568969?p=4"> avantaje.ro </a>,
+<a href="http://www.humanitas.ro/humanitas/str%C4%83zi-vechi-din-bucure%C5%9Ftiul-de-azi"> Alexandru Ofrim - Străzi vechi din Bucureştiul de azi</a>  
+</string>
+<string name="CV.10.foto">cv_10_strada_sepcari</string>
+<string name="CV.10.foto_source"><a href="http://badorgood.com/articole/2010-in-imagini-70/1">badorgood.com de Ba\rrus Mihai</a> </string>
+
+<string name="CV.11.name">Strada Covaci</string>
+<string name="CV.11.info">În secolele al XV-lea şi al XVI-lea străzile Covaci şi Şepcari făceau parte din perimetrul Curţii Domneşti, pe locul lor găsindu-se o grădină şi o zonă pentru odihnă.\n 
+La 1804 străzile erau unite, fiind cunoscute sub numele de \"Podul Nou din mahalaua Curtea Veche\". \n
+Strada Covaci începe să fie cunoscută sub acest nume de la 1852, purtând numele vechii bresle meşteşugăreşti a fierarilor (de la kovacs, fier din limba slavă). \n
+O vreme, această stradă a fost pavată cu piatră şi luminată cu lămpi cu ulei de rapiţă, aici având sediu ziarul România Liberă, fondat în 1877 de către politicianul liberal Mihail Kogălniceanu (1817 – 1891), imediat după intrarea României în războiul \rruso-turc care pentru români va lua forma Războiului pentru Independenţă. \n
+Traseul continuă pe strada Covaci, colţ cu Şepcari, unde se găsește Cafeneaua Veche.\n
+</string>
+<string name="CV.11.source">
+<a href=" http://www.ringincentrulvechi.ro/bucuresti/istoric/covaci-paradisul-negustorilor-si-al-bisnitarilor-119;"> ringincentrulvechi.ro </a>, 
+<a href="http://www.romanialibera.ro/actualitate/fapt-divers/strada-covaci-este-locul-unde-au-fost-inventati-micii-95535.html"> romanialibera.ro</a>
+</string>
+<string name="CV.11.foto">cv_11_strada_covaci</string>
+<string name="CV.11.foto_source"><a href="http://www.avantaje.ro">avantaje.ro</a> </string>
+
+<string name="CV.12.name">Cafeneaua Veche</string>
+<string name="CV.12.info">A fost restaurată odată cu Hanul lui Manuc şi Palatul Voievodal, păstrând şi astăzi obloanele şi uşile din fier specifice
+acelei epoci.\n 
+Cafeneaua amintește prin numele său, de cea de-a doua cafenea atestată documentar la Bucureşti, deschisă de \"baş alai ceauş\"-ul Ştefan Altentop la 7 august 1781 în Curtea Veche.\n
+După moartea sa în 1797, cafeneaua intră în posesia soţiei sale, care o va vinde cincisprezece ani mai târziu, lui Hagi Tudose Gabrovolin, de la care va trece, mai târziu, în anul 1825, în posesia lui Hrişti Emanuel Papazoglu, dată după care a continuat să existe fără a mai fi amintită în documente.\n
+Acum se găsește aici restaurantul \"Vecchio 1812\".\n
+</string>
+<string name="CV.12.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/CafeneauaVeche-75.html"> bucurestiulintrozi.ro</a>,
+<a href="http://www.librarie.net/carti/131575/Bucuresti-ghid-turistic-istoric-artistic-editia-Silvia-Colfescu">Bucuresti - ghid turistic,istoric, artistic de Silvia Colfescu</a>
+</string>
+<string name="CV.12.foto">cv_12_cafeneaua_veche_via_wiki</string>
+<string name="CV.12.foto_source"> <a href="http://ro.wikipedia.org">ro.wikipedia.org</a> </string>
+
+<string name="CV.13.name">Casa lui Eminescu</string>
+<string name="CV.13.info">La nr 14, lângă Cafeneaua Veche, este o casă ce datează din prima jumătate a sec. al XIX, unde a locuit Mihai Eminescu, pe vremea când era redactor la ziarul Timpul (ziarul oficial al Partidului Conservator) între anii 1880-1881.\n
+Eminescu, născut ca Mihail Eminovici în anul 1850 la Botoșani, este considerat poetul nepereche al literaturii române, caracterizat de criticul literar George Călinescu ca fiind cel care \"exprimă cel mai bine și cel mai complet spiritualitatea românească\". \n
+A publicat primul său poem la vârsta de 16 ani, iar 3 ani mai târziu a plecat să studieze la Viena. Manuscrisele poetului Mihai Eminescu (46 de volume, aproximativ 14.000 de file), au fost dăruite în 1902 Academiei Române de eseistul și criticul literar Titu Maiorescu. \n
+Eminescu a fost internat în 1889 la spitalul Marcuţa din București (zona spitalul Sf. Pantelimon) și apoi a fost transportat la sanatoriul Caritas. În data de 15 iunie 1889, poetul a murit fiind înmormântat la umbra unui tei în cimitirul Bellu din București.\n
+În anii \'90 se găsea aici magazinul de antichităţi \"Craii de Curtea Veche\".\n 
+</string>
+<string name="CV.13.source">
+<a href=" http://raiffeisencomunitati.ro/2011/03/31/despre-centrul-vechi"> raiffeisencomunitati.ro</a>
+</string>
+<string name="CV.13.foto">cv_13_eminescu_via_wiki</string>
+<string name="CV.13.foto_source"> <a href="ro.wikipedia.org">ro.wikipedia.org</a> </string>
+
+<string name="CV.14.name">Hanul Gabroveni</string>
+<string name="CV.14.info">Continuăm pe strada Covaci, unde pe partea dreaptă este str. Pasajul Francez care apare în Planul Bucureștilor din 1895 sub numele Pasagiul Bulgaria și unde s-au descoperit în 2008, zidurile unor case din sec. XVII - XVIII. \n
+Pe partea dreaptă exista o clădire veche cu sigla Universal, pe locul Hanului Gabroveni, ridicat între anii 1804-1818. La începutul sec. XX, în perioada în care Bucureștiul era sub influenţă franceză, hanul a fost redenumit Hotel Gabroveni-Universal.\n
+Clădirea a avut felurite întrebuinţări, dintre care: negoţ propriu (familial), sediul bancar al lui Morena Solomon Archer și activităţi comerciale etc.\n
+Sunt istorici și arhitecţi care sunt de părere că Hanul Gabroveni a existat pe locul unei clădiri care are zidurile înspre străzile Lipscani și Gabroveni, înspre Piaţa Roma. Acea clădire a intrat într-un program de reabilitare, dorindu-se reconversia sa în Centru Cultural. \n
+De pe strada Covaci, facem stânga pe strada Soarelui.\n
+</string>
+<string name="CV.14.source">
+<a href="http://www.hanulgabroveni.ro"> hanulgabroveni.ro </a>,
+<a href="http://ro.wikipedia.org/wiki/Hanul_Gabroveni">ro.wikipedia.org</a>,
+<a href="http://www.bucurestiivechisinoi.ro/2010/07/unde-se-afla-hanul-gabroveni-2/">bucurestiivechisinoi.ro</a>
+</string>
+<string name="CV.14.foto">cv_14_hanul_gabroveni_via_bucharestunknown</string>
+<string name="CV.14.foto_source">
+<a href="http://libersaspun.3netmedia.ro/cultura/din-bucurestiul-de-altadata-hanuri-din-secolul-al-xix-lea/">libersaspun.ro</a> </string>
+
+<string name="CV.15.name">Palatul Doamnei Păuna, Hotelul Fieschi</string>
+<string name="CV.15.info">Pe strada Soarelui, pe partea dreaptă, putem admira vitraliile clubului Bordello şi o parte din terasa restaurantului Curtea Berarilor fost Sticlarilor.\n
+Pe locul acestora a existat Palatul Doamnei Păuna şi al Coconilor construit de Ştefan Cantacuzino (1714-1716), ultimul domn regent pământean până la instituirea domniilor fanariote din 1711/1716. \n 
+Palatul se întindea din strada Şelari (unde este intrarea în restaurante) până în strada Soarelui de astăzi.\n 
+Ștefan Cantacuzino, din dragoste pentru soţia sa, i-a construit acest palat, ce va deveni cu timpul un fel de sanatoriu-închisoare pentru domniţa Păuna, care sfârşeşte prin a înnebuni. Istoria acestei clădiri se termină odată cu decapitarea lui Ștefan Cantacuzino în 1716 de către turci.\n
+Pe locul fostului palat s-a deschis un bordel în anul 1795, când Curtea Domnească şi-a mutat sediul, iar Centrul Vechi a devenit un loc al desfrânărilor şi plăcerilor carnale. Bordelul a funcţionat până în 1847, când un incendiu a distrus o mare parte din această zonă.\n
+În anul 1857, pe locul fostului bordel a fost construit Hotelul Fieschi, unul dintre cele mai elegante ale Bucureştiului de altădată, rămas faimos datorită cafenelei frecventate de studenţimea avidă de distracţie şi de ziare sau reviste străine. Hotelul a fost deschis în 1857 de italianul Giovanni Fieschi având restaurant, cafenea şi o sală de biliard.\n
+</string>
+<string name="CV.15.source">
+<a href=" http://timp-liber.acasă.ro/unde-iesim-16/selari---strada-cu-bordel-din-centrul-vechi-15066.html"> timpliber.acasă.ro</a>
+</string>
+<string name="CV.15.foto"> cv_15_palatul_doamnei_pauna_via_picasa</string>
+<string name="CV.15.foto_source"> <a href="http://turistinbucurestiro.blogspot.com">turistinbucurestiro.blogspot.com</a> </string>
+
+<string name="CV.16.name">Curtea Sticlarilor</string>
+<string name="CV.16.info">A fost amenajată în jurul anilor 1710, atunci când domnitorul Ştefan Cantacuzino construieşte Palatul Doamnei Păuna.  \n
+Curtea adăpostea în trecut cuptoare de prelucrat sticla care se aflau într-un colţ al grădinii palatului (azi strada Soarelui).\n
+Odată cu construcţia acestui edificiu, în zonă apar şi numeroase prăvălii ale meşteşugarilor diferitelor bresle cum ar fi blănarii, şelarii, covacii şi evident, sticlarii. \n
+După marele incendiu din martie 1847, s-a dat lege ca sticlarii, cărămidarii şi cei care lucrează cu foc să îşi mute prăvăliile la marginea oraşului.\n
+Acum aici este restaurantul Curtea Berarilor, unde vă puteţi delecta cu o porţie de mici și bere.\n
+Părăsim strada Soarelui și intrăm din nou în strada Covaci.\n
+</string>
+<string name="CV.16.source">
+<a href="http://www.zf.ro/ziarul-de-duminica/marele-foc-din-martie-1847-3039334/">zf.ro</a>,
+<a href="http://timp-liber.acasă.ro/unde-iesim-16/selari---strada-cu-bordel-din-centrul-vechi-13066.html"> timpliber.acasă.ro</a>
+</string>
+<string name="CV.16.foto">cv_16_curteasticlarilor_via_bucurestiulintrozi</string>
+<string name="CV.16.foto_source">
+<a href="http://www.bucurestiulintrozi.ro/"> bucurestiulintrozi.ro </a></string>
+
+<string name="CV.17.name">Restaurantul lui Iordache Ionescu</string>
+<string name="CV.17.info">Pe strada Covaci, la nr. 3, pe locul unde sunt acum clădiri de locuinţe, a existat restaurantul lui Iordache Ionescu, locul unde au fost inventaţi micii.\n
+Legenda spune că într-o seară, cârciumarul a realizat că s-au terminat maţele pentru prepararea cârnaţilor şi pentru că erau mulţi clienţi a hotărât să frige amestecul de carne şi condimente direct pe grătar, ba mai mult, \"la tocătura obişnuită Iordache mai adăugă câte ceva: chimen, piper, cimbru, bicarbonat şi puţin salpetru (sare)\", după cum istorisea un contemporan.\n
+Numele delicatesei culinare a fost dată de umoristul N. T. Orăşanu, un client obişnuit al restaurantului care a dat numele de mititei, cârnaţilor mici iar celor mari le spunea patricieni plus alte denumiri haioase cum ar fi pentru \"ardei roşu: o torpilă, varza acră: origină de Belgrad, sticluţa de vin: o pricină, ocaua de vin cu borviz (apă minerală) la răcitoare: o baterie, apă: o naturală, paharele pentru vin: semi- plutoane, cafeaua neagră turcească: un taifas\".\n
+Faima restaurantului nu era dată doar de bucătăria de excepţie, ci și de cele mai alese \"vinuri şi spirtoase indigene şi streine\", iar atmosfera era întreţinută de cei mai renumiţi lăutari ai vremii: Cristache Ciolac, Lică Ştefănescu, Jean Marcu, Fănică Luca și alţii.\n
+Aproape nicio celebritate venită la Bucureşti nu părăsea oraşul fără să fi trecut pe la cârciuma lui Iordache să-l asculte pe Ciolac. Atât de mare era faima localului de pe Covaci încât, la restaurantul din pavilionul românesc, organizat la expoziţia de la Paris din 1900, fuseseră trimişi \"nea Radu\", bucătarul care i-a cucerit pe francezi cu micii săi gustoşi şi Cristache Ciolac a cărui vioară a făcut mare mare senzaţie.\n
+Continuăm pe Covaci apoi facem dreapta spre strada Şelari. \n
+</string>
+<string name="CV.17.source">
+<a href=" http://www.evz.ro/detalii/stiri/la-iordache-locul-unde-s-a-petrecut-metamorfoza-carnatilor-861218.html"> evz.ro</a>
+</string>
+<string name="CV.17.foto">cv_17_la_iordache_via_portalio</string>
+<string name="CV.17.foto_source">
+<a href=" http://stiri-sociale.portalio.ro/2011/05/expozitie-de-afise-publicitare-de-la-inceput-de-secol-xx/"> stiri-sociale.portalio.ro </a> 
+</string>
+
+<string name="CV.18.name">Strada Șelari</string>
+<string name="CV.18.info">A fost menţionată pentru prima dată la 4 martie 1678 și este socotită a fi una dintre cele mai vechi ale oraşului, existenţa ei începând o dată cu stabilirea în vechea mahala a Bălăceanului, din imediata apropiere a Curţii Domneşti, a meşterilor care fabricau şei împodobite cu ornamente de aur si de argint, hamuri şi hăţuri. Este totodată şi strada cu cele mai bătrâne case din Centrul Vechi, a căror vârstă se măsoară începând cu prima jumătate a sec. al XIX-lea.\n
+În 1899, pe această stradă, dramaturgul Ion L. Caragiale (1852 - 1912) a deschis berăria \"Academia Bene Bibendi\" devenită loc de întâlnire al scriitorilor, avându-i clienţi pe Barbu Ștefanescu Delavrancea (1858-1918) cunoscut pentru nuvela \"Hagi Tudose\", basmul \"Neghiniţă\", drama istorică \"Apus de soare\", Alexandru Vlahuţă (1858 - 1919) care a scris jurnalul de călătorie \"România pitorească\" , George Coșbuc ( 1866 - 1918) cunoscut pentru poeziile \"La oglindă\", \"Vestitorii primăverii\", \"Iarna pe uliţă\", \"Nunta Zamfirei\", \"Trei, Doamne, și toţi trei\", \"Pașa Hassan\". Doi ani mai târziu, în 1901, Caragiale inaugurează cea mai cunoscută berărie din vremurile respective, Beraria Gambrinus de la fostul Teatru Naţional (azi Hotelul Novotel de pe Calea Victoriei). \n
+Continuăm pe Șelari apoi facem dreapta pe strada Gabroveni. \n
+</string>
+<string name="CV.18.source">
+<a href="http://timp-liber.acasă.ro/unde-iesim-16/selari---strada-cu-bordel-din-centrul-vechi-13066.html"> timpliber.acasă.ro </a>
+</string>
+<string name="CV.18.foto">cv_18_selari_via_vederi</string>
+<string name="CV.18.foto_source">
+<a href="http://www.vederi.ro">vederi.ro</a>
+</string>
+
+<string name="CV.19.name">Strada Gabroveni şi Zarafi</string>
+<string name="CV.19.info">Numele străzii Gabroveni indică oraşul Gabrovo din Bulgaria, locul de origine al neguţătorilor ce formaseră aici o mică comunitate.\n
+Pe la 1893, pe această stradă, a fost deschisă \"Beraria Mihalcea și Caragiale\" deţinută de însuși dramaturgul Ion L. Caragiale (1852 - 1912) împreună cu un consilier comunal. Caragiale a avut mai multe berării, cea mai cunoscută fiind Beraria Gambrinus inaugurată pe strada Ion Câmpineanu, vizavi de fostul Teatru Naţional și Hotelul Continental (zona Hotelului Novotel de pe Calea Victoriei).\n
+Mergem pe Gabroveni după care facem prima la stânga pe Strada Zarafi. \n
+Zarafii erau persoanele care se îndeletniceau cu schimbul banilor sau care erau casieri ai visteriei domneşti. \n
+Intrăm în strada Lipscani unde pe partea dreaptă se poate observa clădirea care a fost inclusă în 1992 în \"Lista Monumentelor Istorice\" sub numele de Hanul Gabroveni deși sunt voci care spun că aici a fost hanul Hagi Tudorachi. Se pare că această clădire a adus în peisajul orașului pentru prima dată elementul \"pasaj\" datorită culoarului lung de aproape 50 m din faţa prăvăliilor.\n
+</string>
+<string name="CV.19.source">
+<a href="http://www.gandul.info/reportaj/in-sfarsit-au-inceput-lucrarile-la-hanul-gabroveni-cum-va-arata-in-2014-un-loc-istoric-dupa-o-investitie-de-5-milioane-de-euro-galerie-foto-9396032">gandul.info</a>
+</string>
+<string name="CV.19.foto">cv_19_gabroveni_zarafi</string>
+<string name="CV.19.foto_source"><a href="http://www.jurnalul.ro">jurnalul.ro</a></string>
+
+<string name="CV.20.name">Strada Lipscani</string>
+<string name="CV.20.info">Se numără printre cele mai vârstnice din Bucureşti, fiind atestată documentar la 5 iunie 1589, sub numele de \"Uliţa cea Mare\" ca limită între Târgul din Năuntru ce înconjura Curtea Domnească şi Târgul de Afară, centre negustoreşti ce funcţionau încă de la începutul sec. al XVI-lea.\n
+Mai târziu, după construirea Hanului Șerban Vodă, strada a preluat numele hanului pe porţiunea dintre Șelari şi Podul Mogoşoaiei (Calea Victoriei). \n
+Numele Lipscani denotă originea negustorilor care aduceau şi comercializau marfă pe această stradă, adică Lipsca, denumirea veche a orașului Leipzig (Germania). \n
+Strada este pomenită pentru prima dată la 1852 desemnând segmentul cuprins între Smârdan şi Șelari, celălalt, de la Șelari la b-dul I. C. Brătianu fiind cunoscut pe atunci drept Marchitani după denumirea negustorilor ambulanţi.\n
+Abia după 1947 i s-a statornicit numele sub care o cunoaştem şi astăzi. \n
+Continuăm pe Lipscani apoi facem dreapta spre Piaţa Roma, unde este statuia cu lupoaica.\n
+</string>
+<string name="CV.20.source">
+<a href="http://timp-liber.acasă.ro/unde-iesim-16/strada-lipscani-marire-si-decadere-14440.html">timpliber.acasă.ro</a>,
+<a href=" http://www.bucurestiulintrozi.ro/harta/locatie/PalatulfosteiSocietăţideAsigurări DaciaRomânia-60.html"> bucurestiulintrozi.ro </a>	
+</string>
+<string name="CV.20.foto">cv_22_strada_lipscani_1932_via_vederi</string>
+<string name="CV.20.foto_source">
+<a href="http://vederi.ro">vederi.ro</a>
+</string>
+
+<string name="CV.21.name">Lupoaica din Piaţa Roma</string>
+<string name="CV.21.info">În 1906 a fost oferită comunei Bucureştilor de primăria oraşului Roma, drept recunoaştere a apartenenţei românilor la ginta latină, cu ocazia împlinirii a 1800 de ani de la cucerirea Daciei de către Imperiul Roman dar şi pentru că se împlineau 40 de ani de domnie pentru regele românilor, Carol I (1866 – 1914). \n
+Iniţial, vreme de trei săptămâni, statuia a fost adăpostită în sălile nou construitului Palat al Artelor care se găsea în Parcul Carol, aproximativ pe locul unde se ridică mausoleul de astăzi, fiind apoi instalată în incinta Arenelor Romane că mai apoi să fie adusă în piaţa Roma de la marginea străzii Lipscani.\n
+Statuia o reprezintă pe legendara lupoaică despre care se spune că i-ar fi alăptat pe Romulus şi Remus, întemeietorii oraşului Roma. Realizată de un sculptor grec anonim, Lupoaica este o copie din bronz a celebrului monument roman Lupa Capitolină care se găseşte la \"Museo Nuovo din Palazzo dei Conservatori\" din capitala Italiei. Statuia purta în vremea respectivă acronimul SPQR (Senatus Populus Que Romanus - Senatul şi Poporul Roman).\n
+De-a lungul timpului, statuia Lupoaicei a fost \"plimbată\" prin mai multe zone din Bucureşti: Piaţa Roma (1906), Dealul Mitropoliei (1931), Piaţa Dorobanţi (1965) şi apoi în Piaţa Romană (1997) unde a stat timp de 13 ani.\n
+În 2010, statuia Lupoaica Capitolină a fost readusă în Piaţa Sfântul Gheorghe care şi-a schimbat numele în Piaţa Roma aşa cum a fost în 1906.\n
+În 2012, pasajul pietonal care face legătura între Piaţa Roma şi zona Sf. Gheorghe a fost redenumit Pasajul Latin. \n
+</string>
+<string name="CV.21.source"> 
+<a href=" http://www.adevarul.ro/locale/bucuresti/Bucuresti-_Mutarea_-Lupoaicei-_reinvie_Piata_Roma_0_274772944.html">adevarul.ro </a>
+</string>
+<string name="CV.21.foto">cv_20_lupoaica_1930_via_wiki</string>
+<string name="CV.21.foto_source"><a href="http://ro.wikipedia.org">ro.wikipedia.org</a></string>
+
+<string name="CV.22.name">Magazinul Voaleta</string>
+<string name="CV.22.info">Ne întoarcem pe Lipscani, nu înainte de a admira Magazinul Voaleta de pe partea dreaptă. Construit în anul 1890, clădirea îngustă cu trei etaje, a suferit de-a lungul timpului o serie de renovări, ultima fiind finalizată în anul 2005.\n 
+În urma reabilitării, magazinul Voaleta se prezintă cu aceleaşi detalii de faţadă datând din 1890 dar cu o configuraţie interioară modernă.\n
+Pe locul clădirilor de lângă magazin existase cel mai vechi han neguţătoresc din Bucureşti, construit pe la începutul sec. XVIII, Hanul Zamfir care purta numele celui ajuns staroste de neguţători pe la 1700. Un secol mai târziu, hanul ajunsese în proprietatea Mănăstirii Sărindar (aflată pe locul unde este acum Cercul Militar) care îl dăduse în arendă către diverşi negustori. Hanul a rezistat aici multă vreme, fiind demolat abia în 1935.\n
+Acum ne întoarcem înapoi pe strada Lipscani, unde pe partea dreaptă găsim Hanul cu Tei.\n 
+</string>
+<string name="CV.22.source">
+<a href="http:// monumenteromania.ro"> monumenteromania.ro </a>,
+<a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a>
+</string>
+<string name="CV.22.foto">cv_21_magazinul_voaleta_via_voaleta</string>
+<string name="CV.22.foto_source"><a href="http://www.voaleta.ro"> voaleta.ro </a></string>
+
+
+<string name="CV.23.name">Hanul cu Tei</string>
+<string name="CV.23.info">A fost construit în 1833 de către Anastasie Hagi Gheorghe Polizu şi Ştefan Popovici \"cu toată cheltuiala de tovărăşie pă din două, frăţeşte\". Este sigurul han din Bucureşti care şi-a păstrat intactă arhitectura iniţială, păstrând deasupra celor 2 porţi de acces blazonul original al celor care au construit hanul cu însemnele A.P. şi S.P. .\n
+Fiecare proprietar avea 14 prăvălii cu obloane de fier, situate în partea de sus a pivniţelor cu boltă, Anastasie Polizu deţinea cele 14 prăvălii dinspre apus (partea stângă), iar tovarăşul său Ştefan Popovici cele situate în partea de răsărit a hanului. Doar trotuarul şi camera gardianului erau proprietate comună. Pe mijloc, şirul de bănci din bârne solide de lemn sporesc pitorescul locului aducând aminte de vremurile de odinioară. \n
+Negustori importanţi ai vremii respective au locuit în acest han, printre care şi Constantin Anastasiu, care a înfiinţat magazinul \"La Vulturul de Mare cu Peştele în Ghiare\", George San Marin care avea mai multe prăvălii, Gheorghe Cuiumgiu argintar şi feciorul său Gheorghe Coemgiopol, cu numele schimbat, ce a adus pentru prima oară \"meşteri croitori străini pentru croitul hainelor nemţeşti\", fraţii Popp cu firma \"Popp Freres\" ce publicau zilnic în ziarul Românul cota bursei, Mihalache Hagi Pandele mare negustor de manufactură en-gros, Ilie Lipatti negustor de manufactură şi bancher și mulţi alţii.\n
+Lăţimea hanului, cât să treacă o căruţă, era suficientă pentru aprovizionarea cu mărfuri a prăvăliilor.\n
+Ocolit în mod miraculos de Focul cel mare, a atras în timp şi negoţul financiar, care până atunci era conncentrat la Hanul Zlătari. Aici va funcţiona Banca lui Alexandru Kirilof, care se extinde, cumpărând spaţiu de la proprietari.\n
+În 1838, o parte din han este preluată de bancherii Leon Munoach şi George San Marin. \n
+Porţile de fier, bogat ornamentate oferă acces atât de pe strada Lipscani, cât şi de pe Blănari. De asemenea, faţada de sticlă este tipică Ţării Româneşti din sec XVIII.\n
+Numele a fost dat după teii care se aflau odinioară în curtea hanului.\n
+Vechiul han a fost restaurat în întregime în anii 1970 de prof. arh. Constantin Joja, în aceeaşi manieră pe care a folosit-o şi la Hanul lui Manuc.\n
+La ieșirea din han, înspre strada Blănari, pe peretele din dreapta, este o placă ce amintește faptul că acest han a fost imortalizat de scriitorul Isac Peltz (1899-1980) în nuvela \"Foc în hanul cu tei\".\n
+În 2004, fotbalistul Ilie Dumitrescu a cumpărat acest han, transformându-l în cea mai mare consignaţie de artă din ţară, cu peste 60.000 de obiecte.\n
+Mergem înainte până ajungem în faţa Teatrului de pe Lipscani.\n
+</string>
+<string name="CV.23.source">
+<a href=" http://ro.wikipedia.org/wiki/Hanul_cu_Tei">ro.wikipedia.org</a>,
+<a href="http://www.zf.ro/ziarul-de-duminica/hanul-cu-tei-la-1910-3068309/"> zf.ro </a>,
+<a href="http://metropotam.ro/Locuri-de-vizitat/Locul-saptamanii-Hanul-cu-Tei-art7847202745/"> metropotam.ro </a>,
+<a href="http://timp-liber.acasă.ro/unde-iesim-16/ce-vizitam-azi-hanul-cu-tei-4808.html"> timpliber.acasă.ro </a>,
+<a href="http://libersaspun.3netmedia.ro/cultura/din-bucurestiul-de-altadata-hanul-cu-tei-1/"> libersaspun.ro</a>,
+<a href=" http://www.artline.ro/Hanul-cu-Tei-12906-1-n.html"> artline.ro </a></string>
+<string name="CV.23.foto">cv_23_hanul_cu_tei_via_wiki</string>
+<string name="CV.23.foto_source"><a href=" http://ro.wikipedia.org/wiki/Hanul_cu_Tei">ro.wikipedia.org</a></string>
+
+<string name="CV.24.name">Teatrul de pe Lipscani</string>
+<string name="CV.24.info">A fost din 1994 până în 2010 gazda Teatrului de Revistă \"Constantin Tănase\" - Sala Rapsodia, până când s-a mutat pe Calea Victoriei nr. 33 în Sala SAVOY. \n 
+Din 2010 aici îşi prezintă spectacolele Teatrul  \"Ion Creangă\". \n
+</string>
+<string name="CV.24.source"> 
+<a href=" http://www.teatrultanase.ro/PROGRAM_SPECTACOLE_SALA_RAPSODIA_STR__LIPSCANI_NR_53-newsmore1-i2"> teatrultanase.ro </a>
+</string>
+<string name="CV.24.foto">cv_24_teatrul_de_pe_lipscani_via_irene_brizo</string>
+<string name="CV.24.foto_source"> <a href=" http://irene-brizo.blogspot.com/2011/03/teatrul-de-pe-lipscani.html"> irene-brizo.blogspot.com </a> </string>
+
+<string name="CV.25.name">Case istorice</string>
+<string name="CV.25.info">După ce trecem de Teatrul de pe Lipscani, găsim pe partea dreaptă Pasajul Nicolae Șelari, un pasaj îngust, îngrădit de două clădiri istorice.\n
+Casa din stânga, cu magazinul Bizon la parter, a fost construită în anul 1887 de arh. I. I. Râșnovanu cunoscut pentru planurile \"Grand Hotel Continental\" de pe bdul. Elisabeta. Clădirea a fost proprietatea Elenei Dalles (1849 - 1921), ultima moştenitoare a familiei Dalles, una dintre marile familii de la sfârşitul sec. al XIX-lea, care lasă în 1918, prin testament, o parte din marea ei avere în vederea înfiinţării unei fundaţii culturale care să poarte numele fiului ei Ioan I. Dalles, pentru amintirea lui. \n
+În anul 1932, clădirea Fundaţiei Ioan I. Dalles a fost construită de E. Prager, după planurile arh. Horia Teodoru cuprinzând săli speciale pentru expoziţii de pictură, sculptură, arhitectură, ţesături etc., pentru audiţii muzicale şi pentru cursurile Universităţii Populare din Bucureşti. Clădirea se află pe b-dul Nicolae Bălcescu, aproape de hotelul Intercontinental. \n
+E. Prager a fost arhitectul Palatului Senatului - fostul sediu al Comitetului Central al Partidului Comunist Român din Piaţa Revoluţiei și a Bibliotecii Central Universitare din Iași.\n
+Casa din dreapta este o casă cu prăvălie din 1900, construită după proiectul arh. Wilhelm Bast.\n 
+Continuăm pe Lipscani, mergem până aproape de Palatul BNR şi facem prima la dreapta, pe strada Smârdan.\n
+ </string>
+<string name="CV.25.source">
+<a href=" http://www.jurnalul.ro/jurnalul-national/tu-ce-poveste-stii-despre-bucuresti-554199.htm"> jurnalul.ro </a>
+</string>
+<string name="CV.25.foto">cv_25_casa_dupa_arh_wilhelm_bast_via_wikimapia </string>
+<string name="CV.25.foto_source"> <a href=" http://wikimapia.org/#lat=44.4319565"> wikimapia.org </a> </string>
+
+<string name="CV.26.name">Strada Smârdan</string>
+<string name="CV.26.info">Este o veche uliţă medievală, creată prin sec. XVII şi cunoscută în 1710 sub numele \"Uliţa Târgului din Năuntru\", pentru ca, un veac mai târziu, să ajungă a fi botezată sub lungă titulatură de \"Podul ce merge de la Curtea Veche spre Hanul Șerban Vodă\". A mai purtat şi denumirea de Uliţa Nemţească, apoi Germană.\n
+În Războiul de Independenţă din 1877, lupta de la Smârdan (Bulgaria) a avut un rol foarte important deoarece acest oraş era unul dintre cele mai puternice puncte de apărare ale Vidinului (port la Dunăre în vestul Bulgariei), soldaţii români reuşind în câteva ore să cucerească trei redute puternice, alungând trupele inamice din localitate.\n
+După 1878, odată cu câştigarea independenţei, strada a fost redenumita Smârdan, care atunci se prelungea cu strada Calea Rahovei - alt nume dat după portul Bulgăresc unde trupele române au avut o victorie importantă în noiembrie 1877. \n
+Pe această stradă, într-un gang de la nr. 5 bis, îşi desfăşoară activitatea unul dintre cei mai iscusiţi meşteri bucureşteni: Aurel Ambrozie, fost ucenic la Casa Scânteii, care conduce o legătorie de artă ce se ocupă printre altele de recondiţionarea Bibliilor şi a Evangheliilor vechi. Pe timpul lui Ceaușescu, la venirea delegaţiilor străine era chemat pentru a realiza mape sau casete de bijuterii personalizate, ajungând să lucreze la cadourile pentru regina Angliei, Nikita Hrușciov, secretarul General al Partidului Comunist din Uniunea Sovietică după moartea lui Stalin în 1953, Indira Gandhi, prim ministru al Indiei etc..\n
+Avansăm pe lângă Banca Naţională, iar pe dreapta, în clădirea unde există acum \"Grand Cafe Van Gogh\", putem admira fostul sediul al Băncii Româno - Elveţiene, deschis în 1910. \n
+</string>
+<string name="CV.26.source">
+<a href="http://ro.wikipedia.org/wiki/Rahova">ro.wikipedia.org</a>,
+<a href="http://libersaspun.3netmedia.ro/cultura/din-bucurestiul-de-altadata-strada-smardan-2"> libersaspun.3netmedia.ro </a>,
+<a href="http://fiieficient.com/2008/06/unde-poti-sa-iti-legi-lucrarea-de-diploma-sau-lucrarea-de-disertatie-in-bucuresti-la-un-pret-decent-si-la-calitate-foarte-ok"> fiieficient.com </a>,
+<a href="http://www.librarie.net/carti/131575/Bucuresti-ghid-turistic-istoric-artistic-editia-Bucuresti">Bucuresti - ghid turistic,istoric, artistic de Silvia Colfescu</a>
+</string>
+<string name="CV.26.foto">cv_26_smardan_de_nicolae_grigorescu_via_wiki</string>
+<string name="CV.26.foto_source"><a href="http://ro.wikipedia.org/wiki/Nicolae_Grigorescu">ro.wikipedia.org</a>,</string>
+
+<string name="CV.27.name">Societatea de Asigurări Naţionala</string>
+<string name="CV.27.info">Înainte de a ajunge în strada Doamnei, găsim pe partea dreaptă un imobilul părăsit şi părăginit, fost sediu al \"Societăţii de Asigurări Naţionala\".\n 
+În sec. XIX când Bucureştiul era numit Micul Paris pentru arhitectura elegantă şi elita bucureşteană, a apărut necesitatea înfiinţării unei societăţi de asigurări de bunuri şi imobile după moda franţuzească şi vieneză.\n
+Astfel, în 1881 s-a înfiinţat \"Societatea Generală de Asigurări Naţionala\" având la început un capital de 3.000.000 de franci, subscrise de către persoane din toată ţara, printre care: Ion Marghiloman, Dimitrie Sturdza, Petre Grădişteanu, G.C. Filipescu, Jacques M. Elias, Vasile Pogor, Nicolae Ioanid etc.\n 
+În 1886, a fost construit sediul societăţii, în stil eclectic (îmbinare de stiluri), după planurile arh. austriac Adolf Lang, şi nu întâmplător în Centrul Vechi mai ales că era cea mai veche zonă comercială a oraşului. În perioada interbelică clădirii i s-a mai adăugat încă un etaj.\n 
+La sfârşitul anului 1906, societatea a ajuns la fonduri de garanţie de 20 milioane franci iar despăgubirile plătite de la înfiinţare până la primul Război Mondial au format un capital de 83 milioane de franci.\n
+În timpul ocupaţiei germane dintre 1916 - 1918, \"Societatea Generală de Asigurări Naţionala\" a cunoscut un recul, amplificat şi de devalorizarea monetară ce a urmat anilor de război, însă a supravieţuit până la naţionalizarea din 1948. \n
+</string>
+<string name="CV.27.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/FostulsediualSocietăţiideAsigurări Naţionala -51.html">bucurestiulintrozi.ro</a>,
+<a href="http://www.capital.ro/detalii-articole/stiri/societatea-generalx103-de-asigurx103ri-laquonax163ionalaraquo-104310.html">capital.ro</a>
+</string>
+<string name="CV.27.foto">cv_27_societatea_de_asigurarinationala_via_bucurestiulintrozi</string>
+<string name="CV.27.foto_source"><a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a></string>
+
+<string name="CV.28.name">Strada Doamnei</string>
+<string name="CV.28.info">Vechea stradă şi-a primit numele după Doamna Maria, soţia lui Șerban Cantacuzino, domnul Ţării Româneşti între anii 1678-1688. Strada se numea în trecut \"Uliţa Bărcănescului\", după proprietarul terenului din această zonă apoi, în perioada interbelică, Paris şi Mauriciu Blank, după numele bancherului român de etnie evreiască, cofondator alături de Jacob Marmorosch al Băncii Marmorosch Blank de pe această stradă. \n
+Pe locul Palatului Bursei a existat, până în preajma anului 1900, o clădire de mari proporţii – casa marelui 	logofăt Scarlat Bărcănescu, unde copilărise Nicolae Filimon, autorul romanului \"Ciocoii vechi și noi\" şi care, la 1869, devenise sediul \"Direcţiei Centrale a Poştelor şi Telegrafelor\" mutată apoi în palatul de pe Calea Victoriei devenit astăzi Muzeul Naţional de Istorie. \n
+Puţini ştiu că la subsolul acestei clădiri a funcţionat renumitul \"Cabaret Alcazar\", deschis aici doar în sezonul rece, vara se deschidea la şosea, sub numele \"Alcazar d’Eté\", unde cânta Grigoraş Dinicu (1889 - 1949) - violonist şi compozitor român de origine romă, care s-a remarcat prin interpretarea vechilor piese muzicale din repertoriul lăutăresc. Este cunoscut mai ales pentru compoziţia sa din 1906, \"Hora staccato\". \n
+</string>
+<string name="CV.28.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/BibliotecaNaţională,fostulPalatalBurseişiCamereideComerţ-50.html"> bucurestiulintrozi.ro </a>,
+<a href="http://ro.wikipedia.org/wiki/GrigoraC899_Dinicu">ro.wikipedia.org</a>
+</string>
+<string name="CV.28.foto">cv_28_serban_voda_cantacuzino_si_maria_doamna</string>
+<string name="CV.28.foto_source">
+<a href="http://ro.wikipedia.org/wiki/C898erban_Cantacuzino">ro.wikipedia.org</a>
+</string>
+
+<string name="CV.29.name">Palatul Bursei</string>
+<string name="CV.29.info">La intersecţia străzii Smârdan cu strada Doamnei, pe partea stângă, se găsește fostul Palat al Bursei.\n
+În 1904 s-a promovat Legea Burselor de Comerţ iar câţiva ani mai târziu se hotărăşte construirea unui sediu al Bursei. Piatra de temelie a fost pusă de Principele Ferdinand (regele României între anii 1914 - 1927) şi principesa Maria la 11 mai 1908, fiind inaugurat trei  ani mai târziu la 27 mai 1911 printr-o ceremonie solemnă în prezenţa regelui Carol I (rege din 10 mai 1866 până în 1914, unchiul lui Ferdinand I).\n
+Clădirea impunătoare, dovadă a dezvoltării comerţului din acea vreme, a fost construită după planurile arh. Ştefan Burcuş care a mai contribuit la construcţia Catedralei ortodoxe Sf. Nicolae din Galaţi (1917), Castelul Ţepeş şi fostul Palat al Artelor, ambele construite în Parcul Carol (1906).\n
+Acoperişul clădirii, cu dantelării, a fost realizat de meşterul tinichigiu Alexandru Dimitriu care a mai realizat impresionantul acoperiş de pe Ateneul Român la care se adaugă alte lucrări pentru Palatul Patriarhiei, Gara de Nord, Palatul Fundaţiei Regale Carol I, Palatul Culturii din Iaşi, Palatul Sturdza din Miclăuşeni dar şi cavalerul de pe Primăria Sectorului 1. Casa unde a locuit, care are pe acoperiş un cavaler de aramă de 3,5 m, poate fi admirată pe strada Episcop Radu la nr. 29 în zona Obor - Calea Moșilor.\n
+Sculpturile exterioare de pe Palatul Bursei sunt realizate de Emil Wilhelm Becker (1881-1952), sculptorul Curţii Regale care a creat și monumentul din piaţa Valter Mărăcineanu, decoraţiuni la Mausoleul din Mărăşeşti şi câteva sculpturi de pe faţada Universităţii Bucureşti.\n
+Sculptura de pe fronton înfăţişează în partea stângă simbolul Industriei având un ciocan în mână, iar în dreapta zeul Mercur cu un caduceu în mâna dreaptă şi în cealaltă o ancoră. Caduceul reprezintă un baston înaripat, cu doi şerpi încolăciţi în jurul lui, fiind folosit din antichitate drept simbol al comerţului.\n
+La parterul clădirii erau \"o serie întreagă de prăvălii, cantoare, un local de café, berărie\". Etajul I era rezervat pentru Camera de Comerţ şi Industrie, cu o impozantă sală de şedinţe în formă eliptică şi o galerie de tablouri. Etajul II era rezervat cercului de comerţ şi industrie.\n
+În februarie 1949 este dat un decret care suspendă activitatea Bursei astfel că în 1955, palatul este preluat de Biblioteca Centrală de Stat.\n
+Biblioteca Naţională a României îşi are originea în Biblioteca Colegiului Sfântu Sava din Bucureşti, care a fost dată în folosinţă în anul 1838 însumând 1000 de volume, majoritatea în limba franceză. După Unirea din 1859, biblioteca colegiului este denumită Biblioteca Naţională şi ulterior Biblioteca Centrală.\n
+În anul 1864, prin legea Reglementărilor publice este numită Biblioteca Centrală a Statului, denumire şi statut păstrate până în anul 1901. După acest an, până în 1955, biblioteca a fost desfiinţată, colecţiile sale fiind transferate la Biblioteca Academiei Române, aceasta primind statutul de Biblioteca Naţională.\n
+În această clădire s-a ţinut Conferinţa de pace din 1913, la sfârşitul celui de al doilea război balcanic dintre Bulgaria, Grecia şi Serbia.\n
+În anul 1955 fondul de carte revine instituţiei Biblioteca Centrală de Stat, ca principală bibliotecă publică a ţării, cu sediul în fostul Palat al Bursei. \n
+După evenimentele din decembrie 1989, mai exact în ianuarie 1990, Biblioteca Centrală de Stat primeşte numele de Biblioteca Naţională a României, denumire păstrată până astăzi.\n
+La sfârşitul lui 2011, Biblioteca s-a mutat în noul sediu de pe Bulevardul Unirii, cu o suprafaţă construită de 112.000 mp care cuprinde 14 săli de lectură, cinci săli pentru audiţii şi proiecţii, o aulă pentru conferinţe, restaurante şi cafenele.\n 
+Acum biblioteca adăposteşte cca. 13.000.000 de unităţi bibliografice cu caracter enciclopedic.\n
+Clădirea Bursei a reintrat în posesia Camerei de Comerţ şi Industrie a României. \n
+</string>
+<string name="CV.29.source">
+<a href=" http://bucurestiinoisivechi.blogspot.com/2009/12/biblioteca-nationala-romaniei-palatul.html"> bucurestiinoisivechi.blogspot.com </a>,
+<a href="http://ro.wikipedia.org/wiki/Bibliotecă_NaC89BionalC483_a_RomC3A2niei">ro.wikipedia.org</a>,
+<a href="http://www.jurnalul.ro/jurnalul-national/palatul-fostei-burse-de-valori-a-bucurestiului-503291.htm"> jurnalul.ro </a>
+</string>
+<string name="CV.29.foto">cv_29_palatul_bursei_1912</string>
+<string name="CV.29.foto_source"> <a href="http://www.vederi.ro">vederi.ro</a> </string>
+
+<string name="CV.30.name">Creditul Funciar Rural</string>
+<string name="CV.30.info">Peste drum de Palatul Bursei se afla clădirea Creditul Funciar Urban, construită între 1938 - 1940 după planurile arh. Constantin Pomponiu servind astăzi drept sediu al Universităţii Spiru Haret. \n
+</string>
+<string name="CV.30.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/Universitatea SpiruHaret, CladireaCreditulFunciarRural-49.html"> bucurestiulintrozi.ro </a>
+</string>
+<string name="CV.30.foto">cv_30_creditul_funciar_rural_via_bucurestiulintrozi</string>
+<string name="CV.30.foto_source"> <a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a> </string>
+
+<string name="CV.31.name">Centrul Ceh</string>
+<string name="CV.31.info">De pe strada Smârdan continuăm înainte pe strada Ion Ghica (fostă Vestei) unde la nr. 11, lângă Universitatea Spiru Haret, se află clădirea fostei Bănci Franco - Române, ridicată în stil eclectic cu elemente neo - româneşti după planurile arh. Cristofi Cerchez care a mai construit si Muzeul de artă populară Dr. Nicolae Minovici.\n
+Astăzi aici funcţionează Centrul Ceh, organizaţie non-profit, care promovează imaginea Republicii Cehe în România şi sprijină dezvoltarea relaţiilor ceho - române în toate domeniile culturii, ştiinţei, învăţământului, comerţului şi turismului. \n
+</string>
+<string name="CV.31.source">
+<a href=" http://bucharest.czechcentres.cz/despre-noi"> bucharest.czechcentres.cz </a>
+</string>
+<string name="CV.31.foto">cv_31_centrul_ceh_via_picasa</string>
+<string name="CV.31.foto_source"> <a href="http://turistinbucurestiro.blogspot.com">turistinbucurestiro.blogspot.com</a></string>
+
+<string name="CV.32.name">Biserica Sf. Nicolae</string>
+<string name="CV.32.info">Lângă Centrul Ceh se află Biserica Sf. Nicolae (fostă Biserica \rrusă) construită între anii 1905 - 1909 din iniţiativa lui Ghiers, ambasadorului \RRusiei, pe cheltuiala Romanovilor, pentru credincioşii ruşi din capitală. Planurile au fost întocmite de arhitectul  M. Preobrajenschi.\n
+Lăcaşul înfăţişează cel mai autentic stil rusesc având şapte turle în formă de bulb ce fuseseră acoperite iniţial cu foiţă de aur. Bogata decoraţie exterioară cu motive de inspiraţie rusă şi georgiană a fost realizată de meşteri italieni şi ruşi. Pictura interioară în ulei, este executată în stil bizantin de pictorul Vasiliev iar catapeteasma a împodobit-o Viktor Vaşneţov (1848-1926), pictor al faţadei Galeriilor Tretyiakov, al Bisericii Învierii din Sankt Petersburg şi autor al mai multor tablouri celebre: \"Cei trei bogătani\", \"Cavaler la răscruce\".\n 
+Pictura a fost renovată în 1948 de Anatolie Cudinov, iar la reparaţiile din 1967 de pictorii Eugen Profetă, Victor Zenlicica şi Victor Costiurin. După cutremurul din 1977, turla mare s-a fisurat, făcându-i-se consolidări ale întregului edificiu şi recondiţionarea picturii. Lucrările de reparaţii au început în anul 2000 apoi pictura este restaurată dar mult timp sistată din lipsă de fonduri.\n
+Din ianuarie 1992 este paraclis universitar de unde şi numele de Biserica Studenţilor.\n 
+Peste drum de Biserică, pe partea dreaptă, existau blocurile Continental și Gradiniţa, ambele prăbușite după cutremurul din 1977, de numele cărora se leagă dispariţia a doi mari artişti: actorul Toma Caragiu (n. 1925 Grecia - 1977, a jucat în 38 de filme) şi regizorul Alexandru Bocăneţ (1944 - 1977). În timpul cutremurului de pe 4 martie, cei doi au fost surprinşi de dărâmăturile blocului Continental în timp ce încercau să fugă pe scări. Strada Colonadelor, pe care se afla blocul unde locuia marele actor, a primit numele Toma Caragiu. \n
+Cutremurul din 4 martie 1977 s-a produs la ora 21:22 și a durat circa 55 de secunde având o magnitudine de 7,2 grade pe scara Richter. Cutremurul a făcut 1.570 victime, din care 1.390 numai în București unde peste 33 de clădiri și blocuri mari s-au prăbușit. \n
+</string>
+<string name="CV.32.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/Biserica SfNicolae–ă-47.html">bucurestiulintrozi.ro</a>
+</string>
+<string name="CV.32.foto">cv_32_biserica_nicolae</string>
+<string name="CV.32.foto_source"> <a href="http://www.vederi.ro">vederi.ro</a></string>
+
+<string name="CV.33.name">Cinematograful Doina</string>
+<string name="CV.33.info">Ne întoarcem pe strada Doamnei să admirăm următorul imobil de lângă Palatul Bursei care a fost construit pe la   sfârşitul sec. al XIX-lea, cunoscut drept Cinematograful Doina sau Terra. \n
+În perioada interbelică era o \"sală promiscuă\", loc de întâlnire a unui public interlop şi unde, în afară de filme cu bandiţi, \"se produceau în antracte (pauze) comici de periferie ca D\'Ayol, Burmoz, Rony, Florea Mateescu, Iulian şi Costin, Titi Mihăilescu\", după cum îşi aminteşte publicistul şi compozitorul I. A. Mânzatu. \n
+</string>
+<string name="CV.33.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/Cinematograful Doina (Terra)-52.html">bucurestiulintrozi.ro</a>
+</string>
+<string name="CV.33.foto">cv_33_cinematograful_doina_via_picasa</string>
+<string name="CV.33.foto_source"> <a href="http://turistinbucurestiro.blogspot.com">turistinbucurestiro.blogspot.com</a></string>
+
+<string name="CV.34.name">Banca Naţională - corpul Nordic (nou)</string>
+<string name="CV.34.info">Peste drum de Cinematograful Doina, se impune noua clădirea a Băncii Naţionale a României (BNR), instituţie publică independentă, singura autorizată şi responsabilă de emiterea bancnotelor şi monedelor valabile pe teritoriul României.\n
+La o jumătate de secol după apariţia primului proiect de înfiinţare a unei bănci naţionale, în aprilie 1880, a fost publicată în Monitorul Oficial, legea pentru înfiinţarea unei bănci de \"scont şi circulaţiune\".\n
+Era înfiinţată astfel Banca Naţională a României având capital în întregime românesc în valoare de 30 milioane lei (din care 10 milioane capital de stat, iar restul de 20 milioane fiind capital privat cu precădere al familiei Brătianu). \n
+Banca aparţinea în proporţie de o treime statului şi două treimi particularilor fiind controlată cu mână de fier de către acţionarii care, nu o dată, au sfidat guvernul propriului partid, PNL.\n
+Între 1900 şi 1925, statul s-a retras dintre acţionarii băncii, fapt pentru care BNR a devenit o instituţie particulară privilegiată, dar care avea aceleaşi responsabilităţi naţionale.\n 
+Prima bancnotă emisă de BNR a fost cea de 1000 lei, care a circulat până în anul 1933. \n
+În timpul Războiului de Reîntregire, BNR a susţinut financiar efortul de război al guvernului român. Evoluţia evenimentelor militare a obligat Administraţia centrală a BNR să plece în refugiu la Iaşi şi să accepte transferul tezaurului său la Moscova, fără ca acesta să mai poată fi recuperat nici până astăzi.\n
+Imediat după 1918, BNR a trebuit să răspundă altor provocări, printre care: criză economică postbelică, restabilirea convertibilităţii leului, unificarea monetară şi extinderea reţelei sale de sucursale şi agenţii la nivelul întregii ţări. \n 
+După revenirea statului între acţionarii săi în 1925, BNR a fost implicată în proiectul stabilizării monetare din 1929, în controlul comerţului cu aur şi devize, precum şi în organizarea şi reglementarea comerţului de bancă începând din 1934.\n
+Regimul comunist a impus etatizarea (naţionalizarea) BNR în 1946 şi apoi reorganizarea sa, potrivit noilor imperative politice. În 1948, BNR devenea Banca RPR (Republicii Populare Române), Bancă de Stat, subordonată iniţial Ministerului de Finanţe, iar din 1957, Consiliului de Miniştri. \n
+În 1965, titulatura băncii de emisiune s-a transformat în Banca Naţională a Republicii Socialiste România. În toţi aceşti ani, Banca Naţională a îndeplinit un rol important în evoluţia sistemului monetar şi de credit prin implicarea în realizarea reformelor monetare din 1947 şi 1952, în planificarea circulaţiei monetare, în controlul asupra utilizării creditelor acordate etc.\n
+Din 1990, BNR şi-a reluat titulatura iniţială, implicându-se în tranziţia de la economia centralizată la economia de piaţă şi asumându-şi funcţiile normale ale unei bănci centrale, similare băncilor din Europa şi din lume, obiectivul său fundamental fiind asigurarea şi menţinerea stabilităţii preţurilor.\n
+Clădirea de pe strada Doamnei este corpul nou al Băncii Naţionale, ridicat între 1940-1955 după planurile arh. Radu Dudescu (pe atunci şeful serviciului de arhitectură al Băncii Naţionale) în stil neoclasic. Din grupul de arhitecţi însărcinaţi cu realizarea lucrării mai făceau parte I. Al. Davidescu, N. Creţoiu, Gh. Nichitovici şi G. Vidrăşcu. \n
+Noul corp întregea Palatul Băncii Naţionale ce fusese construit în urmă cu jumătate de veac răspunzând necesităţilor legate de extinderea atribuţiilor instituţiei, mai ales în legătură cu organizarea şi supravegherea comerţului cu devize (1935) şi a circulaţiei metalelor preţioase (1938). \n
+Din strada Doamnei se poate face accesul la Muzeul Băncii Naţionale care găzduieşte o importantă colecţie numismatică ce reflectă circulaţia monetară pe teritoriul României, de la monedele cetăţilor greceşti de pe ţărmul vest-pontic (din sec. V î. Hr.), la denominarea leului din anul 2005. Vizitarea Muzeului este gratuită şi se face sub formă de grup organizat, prin programare (e-mail la info@bnro.ro), urmată de confirmare. \n
+</string>
+<string name="CV.34.source">
+<a href=" http://www.bnr.ro/Istorie-BNR-1052.aspx"> bnr.ro </a>,
+<a href="http://www.revista22.ro/bucurestiul-cultural-nr-94-cladirile-centrale-ale-bancii-nationale--8527.html"> revista22.ro </a>,
+<a href="http://ro.wikipedia.org/wiki/Banca_NaC89BionalC483_a_RomC3A2niei">ro.wikipedia.org</a>,
+<a href="http://www.apmnir.ro">www.apmnir.ro</a>,
+<a href="http://www.librarie.net/carti/131575/Bucuresti-ghid-turistic-istoric-artistic-editia-Bucuresti">Bucuresti - ghid turistic,istoric, artistic de Silvia Colfescu</a>
+</string>
+<string name="CV.34.foto">cv_34_bnr_corp_nou</string>
+<string name="CV.34.foto_source"> <a href="http://ro.wikipedia.org">ro.wikipedia.org</a> </string>
+
+<string name="CV.35.name">Grădina Blanduziei</string>
+<string name="CV.35.info">Se află lângă blocul turn cilindric de pe strada Doamnei fiind cunoscută de-a lungul istoriei și sub numele de Grădina Gagea şi apoi Edison.\n
+În această zonă se deschisese la 1667 prima \"cahvenea\" din Bucureşti, loc al Mănăstirii Cotrocenilor, din Târgul de Sus aflată în proprietatea unui anume Hamie sau Hamid.\n
+Pe locul grădinii a existat până pe la jumătatea sec. XIX Hanul Golgota al mănăstirii Butoiul, loc unde poposeau poştalioanele şi călătorii mai nevoiaşi. \n 
+Tot pe strada Doamnei a funcţionat cinematograful Elysée, unul din primele cinematografe bucureştene, deschis pe la 1909, sau la nr. 2, un fost hotel, prima clădire cu lift din Bucureşti. \n
+</string>
+<string name="CV.35.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/GrădinaBlanduziei (fostăGagea, Edison)-53.html">bucurestiulintrozi.ro</a>
+</string>
+<string name="CV.35.foto">cv_35_gradina_blandaluziei</string>
+<string name="CV.35.foto_source"> <a href="http:// metropotam.ro">metropotam.ro</a> </string>
+
+<string name="CV.36.name">Clădirea Tehnoimport</string>
+<string name="CV.36.info">Blocul turn cilindric a fost proiectat în 1935 de către arhitecţii Harry Stern, Rudolf Frenkel și Marcel Locar.\n 
+Încă din anul 1985, clădirea conţine apartamente, peste 60 de ateliere şi spaţii de expoziţie ale Uniunii Artiştilor Plastici (UAP).\n 
+Din păcate construcţia are bulina roşie cu risc seismic de gradul unu.\n
+</string>
+<string name="CV.36.source">
+<a href=" http://reptilianul.blogspot.com/2011/03/tehnoimport.html"> reptilianul.blogspot.com </a>,
+<a href="http://povesti-cu-plimbari.blogspot.com/2011/08/blocul-tehnoimport.html"> povesti-cu-plimbari.blogspot.com </a>
+</string>
+<string name="CV.36.foto">cv_36_cladirea_tehnoimport_via_wikimapia</string>
+<string name="CV.36.foto_source"> <a href="http://wikimapia.org"> wikimapia.org </a> </string>
+
+<string name="CV.37.name">Banca Marmorosch-Blank</string>
+<string name="CV.37.info">Traseul continuă pe strada Doamnei, unde pe partea stângă, se observă palatul fostei Bănci Marmorosch- Blank, una dintre cele mai vechi și importante bănci din România. \n
+Palatul a fost construit între anii 1912-1922 după planurile arh. Petre Antonescu, acelaşi care a proiectat Arcul de Triumf, Primăria Capitalei, Palatul Creţulescu, Cazinoul din Sinaia, Facultatea de Drept şi Cazinoul din Constanţa (împreună cu Daniel Renard). \n
+Decoraţiunile interioare în stil art nouveau şi art deco poartă amprenta Ceciliei Cuţescu Storck. În anul 1993, după un proiect al arh. Tiberiu Boitan, clădirea a fost extinsă spre Centrul Vechi.\n
+Banca Marmorosch- Blank are o istorie veche al cărei punct de plecare trebui căutat pe la 1848 când cupeţul (negustor) zaraf Jacob Marmorosch îşi deschisese o firmă la întretăierea străzilor Băcani cu Blănari, unde mai târziu s-a ridicat Hotelul Kiriazi (aproape de Piaţa Roma), iar mai târziu a pornit o colaborare cu Jacob Löbel, director la \"Banque de Roumanie\", sucursală a \"Băncii Imperiale Otomane din Constantinopol\". \n
+Cumnatul acestuia din urmă, Mauriciu Blank, a fost angajat în 1863 de Marmorosch, care avea să se retragă de la conducere, şapte ani mai târziu, lăsând afacerea în mâna tânărului Mauriciu care a condus instituţia până în 1928. La 1874 ia fiinţă \"Banca Marmorosch-Blank et. Co.\", bancă ce avea să susţină financiar eforturile militare ale României în Războiul de Independenţă finanţând ulterior proiecte de mare însemnătate pentru statul modern ce tocmai se năştea: modernizarea căilor ferate, a industriei petroliere, a portului 	Constanţa etc. \n
+În anii 1920, Banca Marmorosch Blank era cea mai puternică bancă comercială din România ajungând în anul 1923 la 25 de sucursale în Regat şi patru în străinătate (Paris, Istanbul, Viena şi New York).\n
+Lui Mauriciu Blank i-a succedat la conducere fiul său Aristide, care cu tot sprijinul primit din partea lui Carol al II-lea, căruia îi era colaborator apropiat, n-a putut împiedica răsunătorul faliment al băncii în toamna anului 1931, când s-a intrat în incapacitate de plată şi nu s-a mai putut face faţă cererilor de restituire a depozitelor. \n 
+Banca Naţională a României a intervenit puternic pentru a salva banca, preluându-i debitele insolubile şi acordându-i credite preferenţiale. Ulterior Banca Marmorosch a obţinut concesiunea pentru desfacerea de tutun şi sare care au fost până atunci monopolul exclusiv al Statului.\n 
+Firma Discom, cea care a preluat, în numele băncii monopolul statului în domeniul tutunului şi ţigărilor, s-a angajat să achite creditul acordat de către BNR într-un termen de 14 ani. Banca Marmorosch a reuşit astfel să se menţină până în 1948, anul împlinirii a 100 de ani de la înfiinţare, când a fost naţionalizată.\n
+În perioada comunistă, dar şi după aceasta, până prin anul 2004, a adăpostit sediul Băncii de Investiţii, actuala BRD.\n 
+Pe peretele clădirii, înspre str. Eugen Carada, este o placă memorială care ne anunţă că aici a locuit filantropul sârb Misa Anastasievici. \n 
+În zilele noastre, clădirea face obiectul unui litigiu între Banca Naţională a României, BRD, Ministerul Finanţelor, RA-APPS dar şi o firmă privată.\n
+Ne întoarcem spre clădirea BNR şi facem dreapta pe strada Eugen Carada, fostă Karagheorghevici. \n
+</string>
+<string name="CV.37.source">
+<a href=" http://ro.wikipedia.org/wiki/Banca_Marmorosch_Blank">ro.wikipedia.org</a>,
+<a href="http://www.umblarici.ro/2010/10/10/balaurii-de-la-marmorosch-blank/"> umblarici.ro </a>,
+<a href="http://bucurestiinoisivechi.blogspot.com/2010/01/banca-marmorosch-blank-arhitect-petre.html">bucurestiinoisivechi.blogspot.com</a>
+</string>
+<string name="CV.37.foto">cv_37_palatul_bancii_marmorosch_blank_via_wiki</string>
+<string name="CV.37.foto_source"> <a href="http://ro.wikipedia.org">ro.wikipedia.org</a> </string>
+
+<string name="CV.38.name">Strada Eugen Carada</string>
+<string name="CV.38.info">Poartă numele lui Eugen(iu) Carada (1836 – 1910) fost economist politic şi scriitor român care alături de C. A. Rosetti, Ion C. Brătianu şi alţi politicieni ai vremii, a pus bazele presei şi economiei româneşti. A avut roluri importante în Unirea de la 1859, Independenţa de la 1877, a redactat Constituţia din 1866 alături de I. C. Brătianu şi a susţinut financiar lupta românilor din teritoriile asuprite. De asemenea, a fost un scriitor talentat, scrierile lui fiind compuse mai ales din articole din ziare, dar şi din piese de teatru şi poezii.\n
+După terminarea activităţilor legate de recunoaşterea independenţei în cadrul Congresului de la Berlin, Carada înfiinţează în 1880, alături de Ion C. Brătianu, Banca Naţională a României. Deşi nu acceptă funcţia de Guvernator, o preia într-un final pe cea de director, după ce Brătianu l-a ameninţat că îşi dă demisia din Guvern.\n 
+Eugen Carada a fost cel care s-a ocupat de tot ce înseamnă începuturile Băncii Naţionale a României prin, organizarea numeroaselor filiale şi centre din toată ţara, el însuşi mergând la Paris pentru a supraveghea tipărirea bancnotelor. Din Franţa s-a întors cu primii bani româneşti: 900.000 de bilete de 20 de lei, 300.000 de bilete de 100 de lei şi 25.000 de bilete de 1.000 de lei. Tot Carada a ales culoarea albastră a banilor, efigia împăratului Traian şi personificarea României ca mamă în mijlocul fiilor ei. Toate acestea au fost desenate de pictorul francez Georges Duval, tocmit tot de Carada.\n
+Remarcabil este însuşi faptul că s-a implicat în realizarea planurilor de construcţie pentru Palatul Băncii Naţionale. \n
+Pe strada Lipscani, la intersecţia cu strada Eugen Carada, a fost amplasat în 1924 un grup statuar încoronat cu bustul în bronz al lui Carada, așezat pe un soclu în formă de trunchi de piramidă care, la rândul lui, era fixat pe o bază mai largă, cu colţurile rotunjite. Ansamblul conţinea, de asemenea, lucrate în bronz, figuri alegorice și trei basoreliefuri reprezentând momente importante ale vieţii acestuia. Monumentul principal a fost realizat de sculptorul francez Ernest Dubois, iar soclul de piatră de Dimitrie Măţăoanu.\n
+Ernest Dubois a mai realizat în 1903 statuia lui I.C. Brătianu de la Universitate, din intersecţia bulevardelor Colţei (azi bdul. I. C. Brătianu) și Carol I iar în 1904 monumentul lui Gheorghe Grigore Cantacuzino din Grădina Icoanei. \n
+Din păcate, în anul 1948, comuniștii au hotărât distrugerea monumentului care îl reprezenta pe Eugen Carada. \n
+</string> 
+<string name="CV.38.source">
+<a href=" http://ro.wikipedia.org/wiki/Eugeniu_Carada">ro.wikipedia.org</a>,
+<a href="http://www.adevarul.ro/actualitate/Povesti_vesele_si_triste_din_epoca_leului_0_628137475.html"> adevarul.ro </a>,
+<a href="http://orasulluibucur.blogspot.com/2011_05_01_archive.html"> orasulluibucur.blogspot.com</a>,
+<a href="http://marapopa.blogspot.com/2010/02/evocarea-lui-eugeniu-carada-de-la.html"> marapopa.blogspot.com</a>
+</string>
+<string name="CV.38.foto">cv_38_eugen_carada_via_urbanismul</string>
+<string name="CV.38.foto_source"> <a href="http://urbanismul.blogspot.com">urbanismul.blogspot.com</a> </string>
+
+<string name="CV.39.name">Pasajul Macca Villacrosse</string>
+<string name="CV.39.info">Construit în 1891, este un pasaj acoperit care face legătura dintre Calea Victoriei şi strada Eugen Carada.\n
+La începutul sec. al XIX-lea, Scarlat Câmpineanu a ridicat pe acest loc un han pentru \"muşteriii înstăriţi\" ce este cumpărat pe la sfârșitul sec. al XIX-lea, de doctorul Ion Serafim şi fratele acestuia, Petrache Serafim, traducător pe lângă Consulatul Franţei la Bucureşti, tălmaci al lui Napoleon în campania din \RRusia.\n
+Polixenia, fiica lui Serafim, se căsătorește cu arhitectul francez de origine catalană, Xavier Villacrosse (arhitect şef între 1837- 1841) primind ca zestre moşia dinspre strada Karagheorghevici (acum Eugen Carada), iar sora ei, Anastasia, primește partea dinspre Calea Victoriei la căsătoria cu Mihail Macca, negustor de blănuri şi politician grec.\n    
+Societatea Filarmonică a dorit să cumpere acest loc pentru a construi un \"Palat Filarmonic\" cu bibliotecă, săli de conferinţe şi o sală de teatru în vederea găzduirii Teatrului Naţional însă proiectul a căzut din cauza opoziţiei agentului consular \rrus.\n
+Terenul este cumpărat în 1850 de un anticar evreu- ungur care ridică pe locul hanului un mic hotel numit Stadt Pesth (oraşul Pesta) cu 9 camere la etaj, iar la parter cu o cafenea cu şantan (spectacole) despre care Gh. Crutzescu spune în volumul \"Podul Mogoşoaiei\" că \"a fost locul de întâlnire a tot ce era femei de viaţă şi «jeunesse dorée» în Bucureşti, iarna, într-o sală lungă şi joasă, vara într-o grădină aflată între pasagiile de azi cântau şi jucau artiste ungare şi germane\". Stadt Pesht a rămas în amintirea bucureştenilor nu neapărat ca un loc cu servicii hoteliere de top, ci unul unde \"serviciile\" erau o combinaţie de lux şi plăceri specifice unei case de toleranţă.\n
+La sfârşitul sec. al XIX-lea capitala devine din ce în ce mai aglomerată, aşa că municipalitatea hotărăşte să construiască în mijlocul oraşului un pasaj pietonal după modelul celor existente în capitalele occidentale.\n
+Primăria cumpără casele lui Xavier Villacrosse şi Mihail Macca însă nu poate cumpăra şi hotelul Stadt Pesh, proprietarul refuzând vânzarea acestuia. Arhitectul Felix Xenopol, desemnat cu realizarea acestei lucrări, se vede nevoit să creeze un pasaj în formă de potcoavă care să înconjoare
+hotelul rămas în mijloc. \n
+Bogatul prinţ sârb Alexis Karagheorghevici, care avea proprietăţi în zona palatului BNR, a participat şi el la amenajarea pasajelor, financiar şi cu partea sa de proprietate.\n 
+Încă de la începuturile pasajului se puteau găsi aici diferite magazine la parter precum şi instituţii publice, cum ar fi primul sediu al Bursei de Valori Bucureşti.\n
+Construcţia, acoperită cu sticlă galbenă pentru a crea o atmosferă de intimitate şi bogat ornamentată cu stucaturi (amestec de ipsos cu praf de marmură) la care se adaugă portalul monumental de la intrarea dinspre strada Eugen Carada, reprezintă o adevărată capodoperă arhitecturală.\n
+Între 1960-1980 pasajul era cunoscut sub denumirea de pasajul Bijuteria după numele magazinului de pe Calea Victoriei. Pasajul mai este numit în zilele noastre şi Valea Regilor, nume provenit de la o cafenea egipteană deschisă aici, unde se putea fuma narghilea şi bea cafea egipteană.\n
+După 1989, pasajul şi-a reluat numele iniţial de Macca- Villacrosse.\n
+Traseul continuă în bulevardul Calea Victoriei, la ieşirea din Pasaj. \n
+</string>
+<string name="CV.39.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/AnsambluldearhitecturăPasajulMaccaVillacrosse-193.html">bucurestiulintrozi.ro</a>, 
+<a href="http://ro.wikipedia.org/wiki/Pasajul_Macca-Villacrosse">ro.wikipedia.org</a>,
+<a href="http://www.bucurestiivechisinoi.ro/2010/12/pasajul-macca-villacrosse/"> bucurestiivechisinoi.ro </a>,
+<a href="http://www.zf.ro/ziarul-de-duminica/documentar-marirea-si-decaderea-pasajului-villacrosse-6866568/">zf.ro</a>,
+<a href="http://www.librarie.net/carti/131575/Bucuresti-ghid-turistic-istoric-artistic-editia-Bucuresti">Bucuresti - ghid turistic,istoric, artistic de Silvia Colfescu</a>
+</string>
+<string name="CV.39.foto">cv_39_pasajul_vilacrosse_1940</string>
+<string name="CV.39.foto_source"> <a href="http://www.life.com">life.com</a> </string>
+
+
+<string name="CV.40.name">Prefectura Poliţiei</string>
+<string name="CV.40.info">La ieșirea din pasaj, peste drum de Calea Victoriei, se găsește palatul Prefecturii Poliţiei.\n
+În 1758, pe terenul ocupat astăzi de magazinul Victoria şi de Poliţia Capitalei, existau nişte case aflate în proprietatea lui Dumitraşcu Racoviţa vel Vistier (administratorul finanţelor domnești).\n
+La începutul ocupaţiei \rruse (1806-1812), cneazul Al. Prozorovski, comandantul trupelor ţarului, rechiziţionează Casele Racoviţă şi construiește pe locul lor Comitetul Poliţiei. Clădirile distruse de un incendiu în 1808, au rămas câţiva ani în ruină, după care au fost reparate de noul proprietar, Ştefan Bellu.\n
+Terenul este cumpărat în 1866 de Gheorghe Meitani, un bogat negustor şi bancher austriac, care a dărâmat clădirea principală şi a construit altă nouă, în care a locuit până la următoarea ocupaţie \rrusă (1828-1834), când clădirile au fost din nou rechiziţionate.\n
+Până în 1834, casele au fost reşedinţa generalului Pavel Kiseleff, conducătorul administraţiei \rruseşti şi şeful divanurilor Ţării Româneşti şi Moldovei.\n
+Începând cu 1854, intrată în proprietatea statului, clădirea principală a adăpostit în timp, mai multe instituţii militare: Ministerul de Război,  Comandamentul Diviziei şi Consiliul de Război. În octombrie 1866, în fosta Casă Meitani s-a instalat, printr-o hotărâre a Consiliului de Miniştri, Poliţia Capitalei, unde a coexistat o vreme cu Ministerul de Război. Pe harta Papazoglu din 1871 se observă Prefectura Poliţiei, iar alături, Statul Major al Geniului şi Tribunalul Militar funcţionând în clădirea anexă.\n 
+Între anii 1935-38, înglobându-se vechea clădire, s-a construit Palatul Prefecturii Poliţiei Capitalei, care se găseşte şi astăzi lângă Magazinul Victoria. Finanţarea ridicării uriaşei construcţii a fost asigurată prin subscripţie publică, dar şi cu ajutorul bănesc al unor mari industriaşi ai vremii, ca Max Auschnitt, Nicolae Malaxa şi Dumitru Mociorniţă.\n
+În clădirea Prefecturii a fost sediul SRI, incendiat în timpul mineriadei din 13 iunie 1990. \n
+</string>
+<string name="CV.40.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/PoliţiaCapitalei-192.html">bucurestiulintrozi.ro</a>,
+<a href="http://ceascadecultura.ro/ServesteArticol.aspx?idart=2336"> ceascadecultura.ro </a>
+</string>
+<string name="CV.40.foto">cv_40_politia_capitalei</string>
+<string name="CV.40.foto_source"><a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a> </string>
+
+<string name="CV.41.name">Magazinul Victoria</string>
+<string name="CV.41.info">În 1856, Ioan Socec, discipolul marelui librar George Ioanid, a cumpărat de la baronul Meitani un teren pe care avea să ridice câteva case în care va funcţiona librăria proprie. \n
+După moartea sa, în 1896, afacerea rămâne fiilor săi, Ioan şi Emil care au hotărât mai târziu ridicarea unui nou sediu pe locul vechii librării. Aşa a luat fiinţă clădirea Galeriilor Lafayette, cunoscută şi ca Magazinul Victoria, construcţia fiind realizată între 1929 – 1931 după planurile arh. Herman Clejan care a mai construit în Bucureşti Imobilul SUN de lângă blocul Dalles. \n
+În stil art nouveau parizian şi imitând marele magazin cu acelaşi nume din capitala franceză, Victoria a fost primul mare magazin universal din România, având parte de foarte multă publicitate în ziare şi reviste, la radio şi în cinematografe.\n
+În 1979 a fost afectat grav de un puternic incendiu fiind renovat în anii \’90, fără însă a se reînvia specificul de odinioară al Galeriilor Lafayette. \n
+</string>
+<string name="CV.41.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/MagazinulVictoria (fost Socec–GaleriileLafayette-191.html">bucurestiulintrozi.ro</a>
+</string>
+<string name="CV.41.foto">cv_41_magazinul_victoria_1958</string>
+<string name="CV.41.foto_source"><a href="http://www.ebay.com">ebay.com</a></string>
+
+<string name="CV.42.name">Hotel de France</string> 
+<string name="CV.42.info">Pe locul unde este acum clădirea de birouri Bucharest Financial Plaza a existat casa Damaris, numită după boierul grec Ion Damaris, a cărui fată, Maria, se măritase cu fratele lui Alexandru Ipsilanti (domnitor între 1774-1788), cel care s-a stabilit în aceste case devenite scurtă vreme \"palat domnesc\" şi transformate ceva mai târziu în Hanul Damari.\n 
+La 1831, aici se instalase, pentru scurtă vreme, Agia (Prefectura) în beciurile căreia \"împărăţea\" groaznicul căpitan Costache Chihaia Chiorul, figură de pomină în istoria Bucureştilor. \n 
+În clădirile ce aparţinuseră hanului, în vara anului 1852 se deschisese firma \"La doi fraţi, Anton şi Vasile Capşa\", precursoare a celebrului restaurant Casa Capşa de mai târziu.\n
+Pe la 1860 casele au fost cumpărate de Tănăsache Iliad care a construit aici, în 1881, \"Hotel de France\", o impunătoare clădire proiectată de arh. George Rosnovanu (1851-1896), devenită \"Grand Hotel\". Aici se afla berăria \"Vârful cu Dor\", \"prăvălioara halviţarului, vestită printre elevii de la Sf. Sava\" şi \"un cinematograf care se instalase în holul hotelului pe la 1905\" (Gh. Crutzescu). \n
+După primul război mondial, hotelul şi-a schimbat denumirea în \"Grand Hotel Lafayette\", berăria transformându-se în restaurant iar după 1948, hotelul a fost rebotezat \"Hotel Victoria\". La subsolul în care se intra de pe strada Mihai Vodă a funcţionat, până în 1940, localul de noapte \"Tunel de France\". \n 
+Hotelul a fost avariat în urma cutremurului din 1940, când i s-au ataşat bârne de lemn pentru a-i susţine parterul. Autorităţile nu au încercat refacerea lui, iar la puternicul cutremur din martie 1977, palatul a fost grav avariat, prăbuşindu-se chiar o latură a sa, cea dinspre intersecţia străzilor Lipscani şi Domniţa Anastasia. Nici de această dată conducerea nu şi-a arătat interesul faţă de o clădire monument pentru Bucureşti, hotărând mai degrabă să o demoleze în 1979.\n
+Între Palatul CEC şi Magazinul Victoria a rămas doar un teren viran până în anul 1995 când a început construcţia turnului băncii Bancorex, înfiinţată în 1968 sub denumirea de \"Banca Română de Comerţ Exterior\" (BRCE) şi lichidată în 1999. \n 
+Turnul a fost terminat în 1997 şi a fost prima clădire de birouri de clasa A din România cu o înălţime de 83 de metri, el deţinând recordul de cea mai înaltă clădire din România până când a fost terminat BRD Tower din Piaţa Victoriei, cu o înălţime de 87m. \n
+În acest moment, cea mai înaltă clădire din ţară este Bucharest Tower Center Internaţional cu o înălţime de 120 de metri.\n
+În clădirea Bucharest Financial Plaza se află acum sediul B.C.R. (Banca Comercială Română).\n
+Facem stânga pe Lipscani unde, pe colţ, a existat Palatul Societăţii Dacia.\n
+</string>
+<string name="CV.42.source">
+<a href=" http://metropotam.ro/Locuri-de-vizitat/Atunci-si-acum-Hotelul-Francez-Lafayette-art4326944997/"> metropotam.ro </a>,
+<a href=" http://ro.wikipedia.org/wiki/Bancorex">ro.wikipedia.org</a>
+</string>
+<string name="CV.42.foto">cv_42_hotel_francez_via_wiki</string>
+<string name="CV.42.foto_source"> <a href="http://wikimapia.org">wikimapia.org</a> </string>
+
+<string name="CV.43.name">Palatul Societăţii Dacia</string>
+<string name="CV.43.info">A fost construit la sfârşitul sec. al XVII-lea, pe un teren care aparţinuse iniţial boierilor Craioveşti, trecut apoi în proprietatea Cantacuzinilor şi în sfârşit, a Filipeştilor unde căpitanul Constantin Filipescu a construit un han. \n
+După moartea acestuia, survenită în 1696, soţia sa, jupâneasa Rada Filipescu, vinde hanul marelui clucer (demnitar) Iordache, boier aflat în slujba lui Constantin Vodă Brâncoveanul. Hanul Filipescu (zis şi Sf. Gheorghe), care de-a lungul timpului va avea mai mulţi proprietari, îşi păstrează totuşi numele iniţial. \n
+În sec. al XVIII-lea devine proprietatea Mănăstirii Văcăreşti, însă prin legea secularizării averilor mănăstireşti din 1863 intră în posesia statului. Este scos la vânzare în 1871 şi cumpărat de nou înfiinţata Societate de Asigurări Dacia-România.\n
+Această societate a fost înfiinţată în martie 1871 având drept membri în consiliul de administraţie pe V. Boerescu (preşedinte), G. Gr. Cantacuzino zis Nababul, A. Halfon, Th. Mehedinţeanu şi V. G. Porumbaru.\n
+Societatea de Asigurări a fuzionat în 1881 cu Societatea România, formând astfel Societatea de Asigurări \"Dacia – România\".\n
+Fostul han, devenit Palatul Dacia-România, a fost înălţat cu un etaj şi a fost recondiţionat după planurile arh. Alexandru Orăscu care a mai construit Universitatea din București (sediul vechi), Biserica Domniţa Bălașa, Hotelul Continental din Constanţa și Mitropolia Nouă din Iași.\n
+În birourile Palatului Dacia a funcţionat între 1877-1879 redacţia ziarului Timpul, un important ziar apărut la Bucureşti între 1876-1884, apoi între 1889-1900, precum şi între 1919-1922, ca ziar oficial al Partidului Conservator.\n 
+La ziarul Timpul a activat între anii 1877-1879 poetul naţional Mihai Eminescu fiind coleg cu Ion Luca Caragiale şi Ioan Slavici. Acest fapt este întărit de prezenţa unei plăcuţe comemorative la intrarea în curtea clădirii. \n
+Până la Primul Război, la parter a funcţionat una dintre cele mai importante bănci româneşti, Banca Agricolă (Creditul Naţional Agricol), care apoi s-a mutat în Blocul Prager de lângă Muzeul Naţional de Istorie. \n
+Clădirea, care a înglobat o parte din construcţiile vechiului han Filipescu, se păstrează astăzi într-o formă foarte apropiată de cea iniţială, cu excepţia elegantului lanternou (turn cu ferestre) de deasupra colţului clădirii, de la întretăierea străzii Lipscani cu Calea Victoriei, care a dispărut după cutremurul din 1940.\n
+</string>
+<string name="CV.43.source">
+<a href=" http://www.muzeuldefotografie.ro/2009/12/bucuresti-1916-1918-rara-vedere-aeriana;"> muzeuldefotografie.ro </a>,
+<a href="http://www.tvtravel.ro/shy_guy/blog/post/1430/Strada-Lipscani-Bucuresti-Romania.html"> tvtravel.ro </a>
+</string>
+<string name="CV.43.foto">cv_43_palatul_societatii_dacia_via_wikimapia</string>
+<string name="CV.43.foto_source"> <a href="http://wikimapia.org">wikimapia.org</a></string>
+
+<string name="CV.44.name">Banca Chrissovelloni</string>
+<string name="CV.44.info">Continuăm pe Lipscani, unde, pe partea dreaptă, lângă agenţia băncii BRD, aproape de intersecţia cu strada Eugen Carada, se află imobilul financiar al fostei Bănci Chrissovelloni. \n 
+Amplasată în districtul financiar al Capitalei, vizavi de Banca Naţională a României, a fost sucursală a Băncii omonime înfiinţată în 1848 la Galaţi de Zanis Manolis Chrissoveloni. \n
+Edificiul, cu o arhitectură a Renaşterii italiene târzii, având două subsoluri şi cinci etaje, a fost ridicat între anii 1923-1928 de arh. August Schmiedigen şi George M. Cantacuzino care a mai construit Hotelul Rex de la Mamaia împreună cu arh. Vasile Arion.\n
+Clădirea, cu expunere pe două străzi, str. Lipscani şi str. Stavropoleos a fost restaurată în anii 1996-1998, de arh. Gabriel Tureanu şi Constantin Rulea, respectând finisajele originale, în interior fiind incluse subtile referinţe neoromâneşti şi art nouveau. \n
+La vremea respectivă a fost considerată una dintre cele mai moderne clădiri de bănci din Europa având generator propriu de curent, centrală termică şi ventilaţie, telegraf propriu şi un puţ de mare adâncime pentru alimentarea cu apă.\n
+În jurul anului 1940 a intrat în patrimoniul Băncii Naţionale a României. \n
+</string>
+<string name="CV.44.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/ClădireafosteiBănciChrissovelloni-59.html">bucurestiulintrozi.ro</a>,
+<a href="http://art-historia.blogspot.com/2009/03/banca-chrissoveloni-lipscani-nr-8_23.html"> art-historia.blogspot.com </a>,
+<a href="http://bucurestiinoisivechi.blogspot.com/2010/03/banca-chrissoveloni-arhitecti-gm.html"> bucurestiinoisivechi.blogspot.com </a>,
+<a href="http://www.bucuresteanul.net/vizitati-bucurestiul/monumente-statui/banca-chrissoveloni.html"> bucuresteanul.net </a>
+</string>
+<string name="CV.44.foto">cv_44_banca_chrissovelloni_via_bucurestiulintrozi</string>
+<string name="CV.44.foto_source"> <a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a> </string>
+
+<string name="CV.45.name">Banca de Scont</string>
+<string name="CV.45.info">Pe partea stângă a străzii, la intersecţia Lipscani cu strada Eugeniu Carada, este frumoasa clădire a Băncii de Scont, construită în 1903 după planurile arh. Otto Maugsch.\n 
+Scont înseamnă operaţie bancară prin care se plăteşte cuiva anticipat valoarea unei poliţe, reţinându-se un procent care reprezintă dobânda până la scadenţă. \n
+</string>
+<string name="CV.45.source">
+<a href=" http://www.bucurestiulintrozi.ro/harta/locatie/ClădireafosteiBăncideScont-58.html"> bucurestiulintrozi.ro</a>
+</string>
+<string name="CV.45.foto">cv_45_banca_de_scont_via_bucurestiulintrozi</string>
+<string name="CV.45.foto_source"> <a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a></string>
+
+<string name="CV.46.name">Banca Naţională - corpul Sudic</string>
+<string name="CV.46.info">A fost construit între anii 1884-1890 de arh. Cassien Bernard, arh. Podului Alexandru al III-lea de pe Sena din Paris şi de arh. Albert Galleron care a făcut planurile Ateneului Român.\n
+Arhitecţii francezi au fost ajutaţi de cei români, Constantin Băicoianu şi Grigore Cerchez care a construit Bursa, Palatul Institutului de Arhitectură \"Ion Mincu\", Casa Dissescu, faţada Muzeului Naţional de Istorie Naturală \"Grigore Antipa\".\n 
+În şedinţa din octombrie 1881, Consiliul de administraţie a autorizat pe guvernatorul I. I. Câmpineanu să trateze cu Ministerul de Finanţe achiziţionarea terenului pe care se afla Hanul Șerban Vodă. \n 
+Construit între anii 1683-1685, în timpul domniei lui Șerban Cantacuzino (1678-1688) şi consolidat în vremea lui Constantin Brâncoveanu (1688-1714), acest ansamblu arhitectural a fost principalul han al oraşului datorită mărimii sale şi al siguranţei oferite negustorilor în incinta de tip cetate.\n 
+În 1863, prin Legea secularizării averilor mănăstireşti, într-o vreme când era aproape abandonat, hanul a trecut în proprietatea statului pentru că fusese închinat mănăstirii Cotroceni, o altă ctitorie a lui Șerban Cantacuzino. Cu imaginea lui de cetate orientală în mijlocul unui oraş care începea să se europenizeze, în ciuda deschiderii vitrinelor magazinelor spre străzile Smârdan şi Lipscani, Hanul Șerban Vodă nu a mai putut reveni la gloria de altădată. \n
+În 1883, s-a decis dărâmarea clădirilor pentru eliberarea terenului, iar la 12 iulie 1884 a avut loc inaugurarea oficială a lucrărilor, prilej cu care în fundaţia clădirii s-a depus un document în care erau menţionaţi regele Carol I, prim-ministrul I. C. Brătianu şi membrii guvernului, conducerea BNR.\n 
+Tonul entuziast din acest raport nu s-a concretizat prin finalizarea lucrărilor în 1889, aşa cum s-a prevăzut, deşi pe frontispiciul clădirii, în zona celor două pavilioane terminale ale faţadei centrale tocmai acest an este trecut în caractere latineşti (MDCCCLXXXIX). De altfel, în acest an, străduinţa de a termina construirea Palatului a fost dublată de lucrările de sistematizare a împrejurimilor clădirii BNR, pentru alinierea străzii Smârdan cu localul băncii. În vederea lărgirii străzii în discuţie, Consiliul general a cedat Primăriei Bucureşti o porţiune de teren din proprietatea băncii, fără despăgubire, condiţionând ca terenul respectiv să servească doar în acest scop.\n
+În imediata apropiere a impunătoarei clădiri, se afla deja clădirea Societăţii de Asigurări Dacia (1874), dar palatul BNR de pe strada Lipscani a schimbat modul de percepere a centrului comercial, prin impunerea componentei bancare. Nu întâmplător, în deceniile următoare, în jurul acestei clădiri s-au ridicat construcţii ale sediilor celor mai importante bănci şi instituţii financiare: Societatea de Asigurare Dacia - România, Societatea de  Asigurare Naţională, Banca de Scont, Camera de Comerţ şi Industrie - Bursa, Casa de Depuneri, Banca Marmorosh-Blank, Banca Agricolă, ceea ce a dus la constituirea centrului financiar-bancar bucureştean.\n
+Statuile de pe faţada dinspre strada Lipscani, care reprezintă Agricultura și Justiţia sunt realizate de sculptorul Ion Georgescu (1856-1898) care a mai creat monumentul funerar din Biserica Domniţa Bălașa și mulajul basoreliefului aflat pe mormântul lui Mihai Eminescu din Cimitirul Bellu. Sculpturile care reprezintă Industria și Comerţul sunt făcute de Ștefan Ionescu Valbudea (1859-1918) care a realizat relieful \"Ştiinţa\" de pe frontul Palatului Universităţii Alexandru Ioan-Cuza din Iaşi. Două personaje, un bărbat şi o femeie, care încadrează lucarna (fereastră în acoperiş) în care se află un ceas sunt realizate, se pare, de Athanasie Constantinescu care a mai creat partea sculpturală a clădirii C.E.C.. 
+Spaţiile laterale adăpostesc patru din cele şase sculpturi decorative ale faţadei, realizate în ronde-bose (sculptură pe piedestal), în centru Justiţia (Thermis) şi Agricultura (Ceres) de Ion Georgescu, iar în lateral se află Comerţul (Mercur) şi Industria (Vulcan) de Ștefan Ionescu Valbudea.\n 
+La etaj, în Sala Consiliului de Administraţie se găsesc patru tablouri ale unor pictori români celebri: \"Rodica\", tablou realizat în 1894 de Nicolae Grigorescu (1838- 1907), \"Prometeu\" și \"Mercur\" de G. D. Mirea (1852- 1934) și \"Marina\" care reprezintă o scenă din portul Constanţa, opera lui Eugen Voinescu (1842- 1909). \n 
+</string>
+<string name="CV.46.source">
+<a href=" http://www.bnr.ro/Vechiul-palat-BNR--1064.aspx"> bnr.ro </a>
+</string>
+<string name="CV.46.foto">cv_46_bnr_corp_sudic_via_picasa</string>
+<string name="CV.46.foto_source"><a href="http://turistinbucurestiro.blogspot.com">turistinbucurestiro.blogspot.com</a></string>
+
+<string name="CV.47.name">Hanul Şerban Vodă</string>
+<string name="CV.47.info">În faţa B.N.R.-ului se pot observa ruinele Hanului Şerban Vodă, ridicat de domnul Ţării Româneşti, Șerban cu scopul de a constitui \"o cetate de negoţ\" care să ocrotească visteria Mănăstirii Cotroceni. Construcţia hanului a durat un deceniu, în 1685 avea clienţi deşi nu era gata.\n 
+Moartea voievodului, venită pe neaşteptate în 1688 şi lipsa de implicare a egumenilor (conducătorilor) Cotrocenilor a amânat terminarea hanului până pe la 1803.\n
+Hanul avea numeroase prăvălii spre uliţe, apartamente, grajduri, un paraclis şi chiar o moară de măcinat cereale trasă de cai pentru trebuinţele celor 17 bucătării ce urmau să potolească foamea clienţilor. Neavând ferestre spre exterior, fiind construit în formă de patrulater cu laturi de 100 de metri, cu ziduri groase, de cetate şi existând doar o singură poartă care se închidea pe timpul nopţii, hanul oferea protecţie şi găzduire atât negustorilor străini, cât şi celor autohtoni. La vremuri de restrişte, chiar şi locuitorii oraşului veneau aici pentru a-şi pune la adăpost lucrurile de preţ.\n 
+Precum fusese voinţa ctitorului, hanul rivaliza cu marile construcţii de acest gen de la Constantinopole, Viena, Lipsca şi Padova, cunoscute de învăţatul stolnic şi frate al Măriei Sale, Constantin Cantacuzino.\n
+În 1829 ocupanţii ruşi au transformat hanul în spital militar, motiv pentru care va fi vizitat aproape zilnic de Pavel Kiseleff, guvernatorul Moldo- Valahiei. A fost redusă drastic activitatea comercială, moara cu cai funcţiona doar pentru băcanii sudiţi, iar paraclisului din mijlocul curţii i s-au pus lacăte grele. Provizoriu, au fost aduse şi câteva instituţii de prim rang, precum Colegiul Sf. Sava şi Sfatul Orăşenesc. \n 
+În Hanul Șerban Vodă se va instala provizoriu Casa de Depuneri şi Consemnaţiuni şi Direcţia Monitorului Oficial, ambele idei ale lui Ion C. Brătianu.\n
+În acest han şi cu binecuvântarea stareţului de la Cotroceni, doamna Elisabeta Știrbei fondase în 1843 un cămin pentru 100 de fete sărace, o prefigurare a Azilului Elena Doamna, de mai târziu. Tot aici şi-a găsit refugiu şi principele Grigore Ghika în 1768, după ce Pârvu Cantacuzino cucerise Curtea Veche, rezistând până la intrarea ruşilor în Bucureşti, fiind apoi arestat şi trimis în \RRusia.\n 
+În 1848 a existat atelierul de dagherotipie (fotografiere folosind plăci de cupru și iod) al lui Johan Baumann, în 1867 ardeleanul Ioan V. Socec a deschis prima sa librărie, Hagi Arbut a înfiinţat aici prima spiţerie din Capitală, apoi prima băcănie, prima tutungerie şi primul magazin de coloniale (ceai, cafea, piper).\n
+La 1853 funcţiona aici firma \"Crucea de aur\" deţinută de George Assan (1821 - 1866) și a lui Ioan Martinovici (1820-1882 ), cei care pun bazele în anul 1853 a primei mori cu aburi din România, construită în zona Obor - Lizeanu, aflată acum într-un avansat stadiu de degradare deși este monument istoric de valoare naţională. Moara a fost construită folosind materiale din Viena, fiind ridicată din cărămidă deși, prima fabrică din capitală care producea așa ceva, a fost înfiinţată 2 ani mai târziu. Moara putea măcina 7 vagoane de grâu în 24 de ore iar datorită dimensiunii neobișnuite, moara a fost botezată de locuitorii Bucureștiului sub diverse forme: Moara lui Assan, Moara cu valţuri (cilindri), Moara de foc sau Vaporul lui Assan. În 1903 se construiește un nou siloz de grâne, care a fost la acea dată cea mai înaltă clădire din București având 41 metri înalţime și încă o clădire principală care avea un turn cu ceas ce a fost zeci de ani măsuratorul timpului pentru toţi oamenii din cartierul Obor - Colentina. \n
+Revenim la povestea Hanului Șerban Vodă, a căror zile de glorie au apus odată cu legea secularizării dată de domnitorul Alexandru Ioan Cuza în 1863. Hanul Șerban Vodă, care fusese închinat de domnul Cantacuzino, Mănăstirii Cotroceni, a intrat astfel în proprietatea statului.\n 
+Lăsat în paragină, este demolat în 1883 lăsând locul noului edificiu al Băncii Naţionale, ridicat între 1884-85. \n
+Arheologii au găsit aici pivniţe întregi de 5,5 metri adâncime, cu podea de cărămidă pe jos, şi două fresce: Buna Vestire şi o frescă cu sfinţi, ambele din secolul XVII.\n
+În apropiere de Hanul Șerban Vodă de mai târziu, așezată strategic pe lângă \"Casele de Beilic\" unde era reședinţa oficială a delegaţiilor turcești, se găsea în anul 1667, pe vremea domnitorului Radu Leon (1664-1669), prima \"cahveneaua\" atestată documentar din București, aflată în proprietatea lui Kara Hamie, fost oltean în garda palatului împărătesc din Constantinopol (Istanbul, Turcia de astăzi). După moartea lui Hamie, care nu avea moștenitori, cafeneaua a trecut în proprietatea Imperiului otoman, pâna în luna decembrie a anului 1691, când din ordinul lui Hamid, aga ienicerilor, ceaușul (funcţionarul) Mustafa, serdarul (comandantul) Rusciucului (Ruse - Bulgaria) a fost trimis la București care a vândut-o unui turc, lui Kavaz bașa cu 65 piaștri (monedă turcească de argint). În 1872, potrivit indicaţiilor Dicţionarului topografic și statistic al României întocmit de Dimitrie Frunzescu, existau în capitală \"o sută de cafenele\" mari și mici.\n 
+În urma reabilitării Centrului Istoric din anul 2010, când s-au redescoperit ruinele Hanului Șerban Vodă s-a hotărât acoperirea unei porţiuni de pe strada Lipscani, zona BNR, cu un acoperiş de sticlă pentru a putea fi admirate de către turişti. \n
+</string>
+<string name="CV.47.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/PalatulBănciiNaţionale(Corpvechi)-55.html"> bucurestiulintrozi.ro </a>,
+<a href="http://www.zf.ro/ziarul-de-duminica/hanul-serban-voda-de-emanuel-badescu-8631529"> zf.ro </a>,
+<a href="http://www.bnr.ro/Vechiul-palat-BNR–1064.aspx"> bnr.ro </a>,
+<a href="http://www.historia.ro/exclusiv_web/general/articol/cafenele-vechiul-bucure-ti-secolele-xix-xx">historia.ro </a>
+</string>
+<string name="CV.47.foto">cv_47_hanul_serban_voda_1882_via_zf</string>
+<string name="CV.47.foto_source"> <a href="http:// /www.zf.ro">zf.ro</a> </string>
+
+<string name="CV.48.name">Hanul Grecilor</string>
+<string name="CV.48.info">Pestre drum de Hanul Şerban Vodă, pe locul clădirii B.C.R. (Palatul Băncii Generale Române) a existat Hanul Grecilor, ale cărui ziduri sunt marcate pe asfalt cu cărămidă roşie.\n 
+Hanul Greci se afla împrejurul Bisericii Grecilor construită în 1560, cunoscută şi sub numele de \"a lui Ghiorma Banul\", după cel care o construise. 
+Biserica era închinată Muntelui Athos, aici venind mulţi călugări greci de unde i s-a dat şi numele. Stareţul din primii ani de domnie a lui Constantin Mavrocordat (1730-1769) s-a gândit să ridice un han care să aducă venituri bisericii.\n 
+Din cauza spaţiului meschin, aproape triunghiular, clădirea nu putea să rivalizeze cu Hanul Şerban Vodă din vecinătate.\n 
+Hanul Grecilor era în 1837 deja în pragul ruinării, lipsindu-i părţi însemnate din acoperiş, demolarea producându-se mai târziu, sub sceptrul lui Al. I. Cuza.\n
+În locul acestui han a fost construită, pe la 1882, de către Societatea Dacia-România, frumoasa clădire pe care o admirăm astăzi.\n
+</string> 
+<string name="CV.48.source">
+<a href="http://www.evz.ro/detalii/stiri/hanurile-de-pe-lipscani-unde-istoria-s-a-impiedicat-de-hartii--video-852418.html"> evz.ro </a>,
+<a href="http://www.9am.ro/stiri-revista-presei/Social/68071/Vizitati-Bucurestiul-subteran.html">9am.ro </a>
+</string>
+<string name="CV.48.foto">cv_48_biserica_si_hanul_greci_raffetcv_1837</string>
+<string name="CV.48.foto_source"> <a href="http://www.show.ro/bucuresti/index.htm"> show.ro </a> </string>
+
+<string name="CV.49.name">Banca Generală Română</string>
+<string name="CV.49.info">Secularizarea averilor mănăstireşti aduce după sine şi paragina hanului Grecilor, astfel că, la 1882, terenul e cumpărat la licitaţie de Societatea de Asigurări Dacia-România care va ridica aici clădirea fostei Bănci Generale, cu faţade pe străzile Lipscani, Smârdan şi Stavropoleos.\n
+A fost construită între 1882-1889 în stil eclectic, cu o bogată ornamentaţie a faţadelor: statui, stucaturi (mortar și ipsos), coloane, ancadramente (chenare ce înconjoară uși sau ferestre).\n
+Clădirea a fost restaurată între anii 1977 şi 1983 de arh. Octav Dimitriu şi Constandin Rulea care a realizat şi planurile pentru Palatul Fundaţiei Universitare Carol I şi ale Circului de Stat. În holul central sunt picturi murale cu scene din mitologia greacă.\n 
+Clădirea a fost şi sediul Băncii Berliner Gesellschaft iar astăzi reprezintă sucursala B.C.R. Lipscani. \n 
+Din Lipscani facem de două ori dreapta până ajungem în strada Stavropoleos. \n
+</string>
+<string name="CV.49.source">
+<a href=" http://www.bucurestiulintrozi.ro/harta/locatie/PalatulfosteiSocietăţideAsigurăriDaciaRomânia -60.html">bucurestiulintrozi.ro</a>, 
+<a href="http://bucurestiinoisivechi.blogspot.com/2010/03/o-banca-de-pe-strada-lipscani.html"> bucurestiinoisivechi.blogspot.com </a>
+</string>
+<string name="CV.49.foto">cv_49_palatul_bancii_generale_romane_via_bucurestiulintrozi</string>
+<string name="CV.49.foto_source"> <a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a> </string>
+
+<string name="CV.50.name">Strada Stavropoleos</string>
+<string name="CV.50.info">Numele provine de la biserica pe care o vedem lângă Muzeul de Istorie, pe partea stângă. \n
+Tot numele unei biserici l-a purtat şi în 1669 când e amintită documentar pentru prima oară ca fiind \"Uliţa dinspre Biserica Grecilor\" şi când pe ea se formase o adevărată comunitate a elenilor veniţi în Bucureşti. \n
+Numele Stavropoleos este forma românească a cuvântului grecesc \"stauropolis\", care se traduce prin \"Oraşul Crucii\". \n
+</string>
+<string name="CV.50.source"> 
+<a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a> 
+</string>
+<string name="CV.50.foto">cv_50_strada_stavrolopeos_via_picasa</string>
+<string name="CV.50.foto_source"><a href="http://vederi.ro">vederi.ro</a> </string>
+
+<string name="CV.51.name">Banca Fortuna şi Hotelul Brenner </string>
+<string name="CV.51.info">La intersecţia străzilor Stavropoleos cu Smârdan a fost sediul Băncii Fortuna.\n
+La început, banca a folosit drept sucursală o clădire mai veche, ridicată pe locul primului hotel din Bucureşti, Hotelul Brenner ce purta numele proprietarului austriac. Hotelul a mai fost numit şi \"Hotel D`Europe\" mai ales pentru condiţiile de cazare europene, superioare celor oferite de hanurile bucureștene. Este amintit în cartea \"An Account on the Principalities of Wallachia and Moldavia\" de William Wilkinson apărută la Londra în 1820, carte ce i-a servit drept inspiraţie lui Bram Stoker pentru celebrul roman \"Dracula\".\n 
+Vienezul Brener deschisese aici şi un restaurant unde, în vara anului 1854 venea aproape zilnic nimeni altul decât marele Lev Tolstoi, pe atunci locotenent de artilerie în Armata a 12-a \rrusă pusă sub comanda cneazului Mihail Dimitrievici Gorceakov, cu care de altfel Tolstoi era rudă. Aici obişnuia să ia masa şi să-şi petreacă serile citind, schimbând impresii cu comesenii, ori jucând biliard. \n
+</string>
+<string name="CV.51.source">
+<a href=" http://www.bucurestiulintrozi.ro/harta/locatie/ClădireafosteiBănciFortuna-62.html"> bucurestiulintrozi.ro </a>
+</string>
+<string name="CV.51.foto">cv_51_cladirea_fostei_banci_fortuna_via_wikimapia</string>
+<string name="CV.51.foto_source"> <a href="http://wikimapia.org">wikimapia.org</a> </string>
+
+<string name="CV.52.name">Banca Creditul Român</string>
+<string name="CV.52.info">Lângă Biserica Stavropoleos este palatul Băncii Creditul Român, construit în anul 1904 în stil eclectic cu influenţe neoclasice evidente prin prezenţa frontonului (partea ornamentată de deasupra intrării), a grupurilor statuare şi a pilaştrilor (stâlpilor).\n
+A fost realizată după planurile arh. Oskar Maugsch care a mai proiectat Palatul Băncii de Scont din str. Lipscani cu str. Carada şi ale arh. Ernst Gotthilf care a proiectat edificii în Viena dar şi în Timişoara, iar sculpturile de pe faţada clădirii sunt realizare de Frederic Storck.\n
+Încă din 1911, cu ocazia transformări în societate anonimă (pe acţiuni) a Fabricii de bere Luther (viitoare Fabrică Czell, apoi Griviţa), Banca de Credit devine acţionar principal, în 1918 cumpără masiv acţiuni la Uzinele Vulcan iar în 1921 achiziţionează participaţii la Casa Capșa care devenea şi ea societate anonimă. \n
+Datorită politicii comisioanelor moderate şi a garanţiilor ferme, Banca de Credit Român depăşeşte în bune condiţii anii crizei 1929-1933, fără a intra în faliment sau a fi nevoită să fuzioneze cu alte bănci aşa încât în anii \"40 se număra încă printre cele mai puternice bănci româneşti, alături de Banca Comercială, Banca Românească şi Societatea Bancară Română.\n 
+Acum în această clădire este sediul Consiliului Naţional de Soluţionare a Contestaţiilor Bucureşti. \n
+</string>
+<string name="CV.52.source">
+<a href=" http://bucurestiinoisivechi.blogspot.com/2010/03/banca-de-credit-roman.html"> bucurestiinoisivechi.blogspot.com </a>
+</string>
+<string name="CV.52.foto">cv_52_banca_creditul_roman_via_picasa</string>
+<string name="CV.52.foto_source"> <a href="http://turistinbucurestiro.blogspot.com">turistinbucurestiro.blogspot.com</a> </string>
+
+<string name="CV.53.name">Biserica Stavropoleos</string>
+<string name="CV.53.info">Este o biserică ortodoxă, construită în stil brâncovenesc cu hramul Sf. Arhangheli Mihail şi Gavril.\n
+Biserica a fost înălţată în 1724, în timpul domniei lui Nicolae Mavrocordat (domnitor al Munteniei între 1719-1730), de către arhimandritul Ioanichie Stratonikeas, din satul Ostaniţa din Epir (Grecia).\n 
+Ioanichie, sărac şi umil, s-a stabilit în Mahalaua Grecilor (Mahalaua Ghiorma Banul) pe la 1700 ca să adune danii (donaţii) şi milostenii pentru arhiepiscopia Pogonianei (regiune din Grecia) al cărei metoc (sucursală) era Biserica Ghiormei Banul. Aici, Ioanikie devine în scurt timp duhovnic, cunoscând astfel enoriaşii, de la care a avut priceperea să adune îndeajuns de mulţi galbeni încât să cumpere un loc al jupânesei Despa (născută Brezoianu), la care i-a adăugat încă un teren cumpărat de la Grigorie Greceanu.\n
+Pe aceste terenuri a construit mai întâi un han (1722-1724) cu două niveluri, iar în curtea hanului o biserică pe care o termină în vara anului 1729 şi pe care, ajuns mitropolit al Stavropolei o închină mănăstirii Goura din Epir (Grecia). Mănăstirea pe care a construit-o poartă de atunci numele Stavropoleos, după numele vechii mitropolii. Intrarea în curtea hanului se făcea prin intermediul unei porţi mari, aflată pe locul străzii Poștei de acum, din spatele Muzeului de Istorie.\n
+Biserica era susţinută economic de către han, o situaţie frecventă în epocă. Avea plan dreptunghiular, fără turlă, abside şi pridvor. Între anii 1728- 1733 a fost mărită, în formă treflată, ornată în exterior cu un brâu. \n
+Ioanichie moare în 1742 la vârsta de 61 de ani şi este îngropat în biserica sa.\n
+Zdruncinat de cutremure, mărunţit de incendii, hanul a ajuns în stare de ruină și a dispărut pe la 1871. Cutremurele au produs avarii grave şi bisericuţei, fiind consolidată în 1852 însă mai târziu este din nou ameninţată cu ruinarea. Turla a fost dărâmată prin 1840 iar biserica a fost lăsată în paragină până în 1888 când devenise deja o ruină.\n 
+Restaurarea bisericii începe în anul 1904 când i-a fost redată forma originală, a căpătat o turlă nouă, brâul din piatră și acoperişul iar pictura veche a  fost reparată în 1909 de pictorul preot V. Damian. Cel care a condus lucrările de restaurare a fost arh. \n
+Ion Mincu cunoscut pentru planul Școlii Centrale de fete, interiorul Palatului de Justiţie, Casa Vernescu, Casa Monteoru etc.. Ion Mincu a construit în armonie cu stilul bisericii şi clădirile care adăpostesc un interesant lapidariu unde se găsesc frumoase pietre tombale (funerare), cruci, fragmente de frescă recuperate de la bisericile demolate în timpul regimului comunist ba chiar și câteva bucăţi din vechiul Turn al Colţei. După moartea arh. Mincu, lucrările au fost continuate de arh. Al. Zagorit, fiind terminate de prof. C. Dumitrescu, în 1921.\n 
+Între anii 1996-2000 s-a efectuat o nouă consolidare, scoaterea igrasiei din fundaţii şi restaurarea picturilor sub îndrumarea prof. Dan Mohanu. În prezent din vechea mănăstire nu a mai rămas decât biserica, alături de care există o construcţie de la începutul sec. al XX-lea care adăposteşte o bibliotecă, o sală de conferinţe şi o colecţie de icoane vechi (de la începutul sec. al XVIII-lea) şi obiecte de cult.\n
+Din anul 1991 biserica este păstorită de părintele Iustin Marchiş, primul ieromonah al bisericii în ultima sută de ani. Comunitatea care locuieşte aici, pe lângă slujbele zilnice, se ocupă cu restaurarea carţilor vechi, a icoanelor şi hainelor sacerdotale (preoţești). Corul bisericii cântă muzică (neo) bizantină (o singură voce susţinută de un sunet prelungit numit ison - acompaniament), acum rar întâlnită în bisericile din România.\n 
+Lăcaşul a redevenit Mănăstire de maici, prin grija părintelui paroh Iustin Marchiş. Tot aici este \"Fundaţia Stavropoleos\" şi \"Centrul social pentru copii Sf. Dimitrie\". \n
+Traseul continuă pe Lipscani, spre b-dul Victoriei, pe lângă zidul Băncii Chrissovelloni până ajungem la restaurantul Caru\' cu bere. \n
+</string>
+<string name="CV.53.source">
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/AnsamblulBisericiiStavropoleos-63.html">bucurestiulintrozi.ro </a>, 
+<a href="http://ro.wikipedia.org/wiki/Biserica_Stavropoleos">ro.wikipedia.org</a>,  
+<a href=" http://www.stavropoleos.ro/index.php?lang=ro">stavropoleos.ro </a>,
+<a href="http://www.librariasophia.ro/carti-enciclopedia-lacasurilor-de-cult-din-bucuresti---editie-bilingva-(2-volume)-stoica-lucia-ionescu-ghinea-neculai-so-602.html"> Lucia Stoica şi Neculai Ionescu - Ghinea: \"Enciclopedia lăcaşurilor de cult din Bucureşti\"</a>,
+</string>
+<string name="CV.53.foto">cv_53_stavropoleos_1900_via_vederi</string>
+<string name="CV.53.foto_source"> <a href="http://vederi.ro"> vederi.ro </a> </string>
+
+<string name="CV.54.name">Caru\' cu bere</string>
+<string name="CV.54.info">Clădirea pe care o vedem astăzi a fost ridicată la 1888, în stil neogotic, cu fonduri de la Banca Albina şi după planurile arh. polonez Zigfrid Kofczinsky, care a făcut parte din echipa de arhitecţi a Castelului Peleş şi a Palatului Culturii din Iaşi. Berăria a fost modificată după primul război mondial, a fost extinsă şi amenajată cum o cunoaştem astăzi, cu vitralii, cu elegantul interior în stil neo-bizantin, cu balustradele de lemn sculptat şi cu picturi murale.\n
+Cei care au înfiinţat berăria, adăpostită iniţial în prăvăliile hanului Zlătari încă din 1879, au fost Nicolae Mircea, împreună cu fraţii săi Ignat şi Victor. Faima berăriei a crescut repede mai ales datorită preparatelor sale culinare. Specialitatea casei erau crenvurștii cu hrean, salata de boeuf, frankfurterii (cârnaţi afumaţi), ridichea neagră şi măslinele (acestea două erau oferite gratuit). Vinurile erau de soi, nu se serveau decât după ce zăboviseră ani buni în pivniţă, treabă cu care se ocupau oameni anume pregătiţi cum ar fi Moş Ghiţă, simbolul berăriei, a cărui statuie străjuieşte şi astăzi balustrada din dreapta. Moş Ghiţă, pivnicerul, a lucrat zeci de ani la Caru\' cu bere, coborând de mii şi mii de ori în pivniţa ticsită de butoaie de bere şi vin alături de nelipsitu-i felinar.\n 
+După moartea proprietarului, afacerea a fost preluată de către Dumitru Marinescu Bragadiru, până la depăşirea greutăţilor crizei economice, după care a revenit în posesia familiei Mircea.\n
+Client statornic era badea Gheorghe, adică poetul George Coşbuc (1866 - 1918), dar nu rareori treceau pragul berăriei şi Caragiale însoţit de nelipsitul său amic actorul Iancu Brezeanu, Octavian Goga, Ioan Slavici, Barbu Delavrancea, Mateiu Caragiale etc.. Tot pe Stavropoleos se mai afla la acea vreme şi birtul «La Pisica Neagră», renumit pentru vinul său.\n
+Când a fost construit, Caru’ era ultramodern, avea sistem propriu de climatizare, sursă proprie de apă, iar rezidurile piereau într-o instalaţie proprie de ardere. Și acum fumul de ţigară este absorbit prin boltă, printr-o instalaţie care nu se vede cu ochiul liber iar prin perete, prin nişte fante, vine aerul cald sau cel rece.\n 
+Construit în stil gotic, restaurantul aminteşte de berăriile tradiţionale nemţeşti.\n
+După 1949, când clădirea este rechiziţionată de stat, localul a continuat să funcţioneze cu vechii salariaţi, însă treptat s-a impus o administraţie de tip socialistă, localul nemaifiind apreciat la adevărata valoare, ajungându-se chiar în situaţia ca picturile murale să fie acoperite cu vopsea.\n
+Decoraţiunile au fost restaurate în perioada 1983-1988 şi apoi curăţate în 2006.\n 
+Deasupra uşii, lângă felinare apare cocoşul, pisica şi dragonul, semn că localul e deschis \"de când cântă cocoşii şi până ce apar vârcolacii\", sau  conform vorbei strămoşeşti: \"trebuie să te trezeşti dimineaţa în zori ca un cocoş şi să fii sprinten toată ziua ca o pisică\".\n
+Interiorul, cu elementele sale specifice, a constituit cadrul natural la care au apelat regizorii pentru filmarea multor secvenţe din filmele \"Două lozuri\", \"Telegrame\", \"Darclee\" etc.. \n
+Ieşim în bulevardul Calea Victoriei şi facem dreapta pentru a vizita Biserica Zlătari. \n
+</string>
+<string name="CV.54.source">
+<a href="http://bucurestiinoisivechi.blogspot.com/2010/07/carul-cu-bere-arhitect-siegfried.html">bucurestiinoisivechi.blogspot.com </a>, 
+<a href="http://alinaturcitu.ro/palatul-berii-din-romania-E28093-opera-unui-taran-ridicat-din-grajdurile-ardealului/">alinaturcitu.ro </a>, 
+<a href=" http://casecarenumaiplang.ro/caruE28099-cu-bere-2">casecarenumaiplang.ro </a>,
+<a href="http://www.librarie.net/carti/131575/Bucuresti-ghid-turistic-istoric-artistic-editia-Bucuresti">Bucuresti - ghid turistic,istoric, artistic de Silvia Colfescu</a>
+</string>
+<string name="CV.54.foto">cv_54_carul_cu_bere_via_locuridinromania</string>
+<string name="CV.54.foto_source"> <a href=" http://www.locuridinromania.ro/beraria-carul-cu-bere-din-bucuresti.html"> locuridinromania.ro </a> </string>
+
+<string name="CV.55.name">Biserica Zlătari</string>
+<string name="CV.55.info">Are hramul Sf. Mare Mucenic Dimitrie şi Sf. Mare Mucenic Gheorghe fiind construită iniţial din lemn, pe la jumătatea sec. al XVII-lea, pe timpul lui Matei Basarab (domnitor 1632-1654), de nişte \"zlătari\" adică aurari sau argintari (\"zolot\" în limba slavă înseamnă aur) din mahalaua \"popii Manta\" (Bălăceanului), pe locul Zlătarilor de la Sărindar, donat Elenei, fiica lui Radu Vodă Şerban (domnitor 1602-1610 și 1611) şi mamă a Cantacuzinilor din Muntenia.\n 
+Biserica a mai fost refăcută de două ori, ultima dată aproape în formă ei actuală, pe la 1850. În sec. al XVIII-lea se construise aici hanul Zlătari, unul dintre marile hanuri bucureştene, renumit loc de adunare al bancherilor (zarafi) şi argintarilor. Clădirile hanului mai adăposteau, după cum spune Constantin Bacalbaşa în \"Bucureştii de altădată\", cofetăria lui Lambru Paltator, foarte căutată de elevii de la Colegiul Sf. Sava, \"apoi băcănia lui Păun Popescu, unde, la ora dejunului şi a prânzului se lua ţuică\".\n
+În urma pagubelor din timpul cutremurelor din 1802 și 1838, atât biserica cât și hanul sunt reconstruite de egumenul Calistrat Livis după planurile arh. Xavier Villacrosse și este pictată de Gheorghe Tattarescu. Arhitectul catalan Xavier Villacrosse este cunoscut pentru realizarea Palatului Ghica Tei, Casa Golescu care era pe locul unde este acum Muzeului Naţional de Artă, Mânăstirea Radu Vodă etc..\n
+Pe la 1860-1862 clădirea hanului se compunea din parter şi etaj având aproape 200 de camere şi prăvălii. Prăvăliile de jos erau închiriate la \"marşande (magazine de modă), lipscarii, băcănii, cârciumi şi la oameni de diferite religiuni\".\n 
+Din perioada anilor 1867-1887 etajul hanului a fost ocupat de Ministerul Instrucţiei Publice şi al Cultelor. În anul 1870, în Hanul Zlătari se găsea una din cele mai mari şi mai bine asortate băcănii din Bucureşti, proprietatea lui Păun Popescu.\n
+În anul 1903, hanul şi turnul-clopotniţă, cu picturi făcute de pictorul grec Diamantopoulos au fost dărâmate pentru lărgirea Căii Victoriei. Atunci s-a descoperit o frescă, azi pierdută, arătând Naşterea Maicii Domnului şi o inscripţie de închinare la Patriarhia din Alexandria.\n
+Biserica Zlătari a fost restaurată între anii 1907-1908, prin grija arh. Jean Pompilian (1872-1938). \n
+Cutremurul din 1940 afectează turlele bisericii, acestea fiind refăcute atunci provizoriu, iar între anii 1971-1973, reclădite în forma de astăzi.\n
+</string>
+<string name="CV.55.source">
+<a href="http://www.zf.ro/ziarul-de-duminica/hanul-zlatari-emanuel-badescu-galerie-foto-8563064/"> zf.ro </a>, 
+<a href=" http://www.crestinortodox.ro/biserici-manastiri/biserica-zlatari-sfantul-ciprian-68029.html"> crestinortodox.ro </a>
+</string>
+<string name="CV.55.foto">cv_55_biserica_zlatari</string>
+<string name="CV.55.foto_source"> <a href=" http://www.crestinortodox.ro/biserici-manastiri/biserica-zlatari-sfantul-ciprian-68029.html"> crestinortodox.ro </a>
+</string>
+
+<string name="CV.56.name">Palatul CEC</string>
+<string name="CV.56.info">Originile C.E.C. (Casa de Economii şi Consemnaţiuni) se regăsesc în eforturile elitelor politice şi economice din timpul lui Alexandru Ioan Cuza (domnitor între 1859–1866) de a pune ordine în finanţele publice ale tânărului stat român, rezultat în urma Unirii din 1859.\n 
+În planul de organizare al creditului, publicat în 1864 ca anexă la bugetul statului, sunt menţionate instituţiile financiare, într-o ordine ce sugera urgenţa înfiinţării lor. Astfel, prima apare \"Banca Fonciară\", urmată de \"Banca de Scont şi Circulaţiune\", \"Casa de Economie\", \"Casa pentru  înlesnirea micilor agricultori şi meseriaşi\", \"Muntele de Pietate\" şi \"Casa de Depozite şi Consignaţii\".\n 
+În 1880 se publică în Monitorul Oficial decretele de înfiinţare a Casei de Economie, instituţie anexă a Casei de Depuneri şi Consemnaţiuni care îşi schimbă denumirea în Casa de Depuneri, Consemnaţiuni şi Economie (C.D.C.E) iar în 1881 îşi începe activitatea Casa de Economie, instituţie autonomă financiară dar aflată sub administrarea C.D.C.E.\n
+CEC-ul a funcţionat la început în diverse imobile, după care în anul 1875 s-a început construirea unui sediu propriu.\n
+Prima clădire a fost construită pe locurile unde a existat Mânăstirea Sf. Ioan cel Mare, clădită de Andrei Vistierul, socrul lui Preda Buzescu şi boier în divanul lui Mihai Viteazul (domnitor între 1593-1601). Tot aici se afla unul din hanurile vestite ale Bucureştilor, fostă stăreţie a mănăstirii care a devenit o vreme, sediul Casei de Depuneri. \n
+Nemaifiind îngrijită, biserica şi hanul se degradează şi sunt demolate în 1875. Câteva dintre sculpturile care împodobeau biserica se mai păstrează şi
+astăzi în lapidariul bisericii Stavropoleos.\n
+Construcţia actualului sediu conţine elemente specifice arhitecturii franceze de la sfârşitul sec. XIX, conform planurilor arh. Paul Gottereau care a realizat şi Biblioteca Central Universitară.\n
+Piatra de temelie a Palatului CEC a fost pusă în 8 iulie 1897, în prezenţa Regelui Carol I (rege al României între 1866 –1914) și a Reginei Elisabeta (Elisabeth Pauline Ottilie Luise zu Wied - 1843-1916 prima regină a României). Construcţia a fost terminată în anul 1900 şi de atunci CEC-ul a funcţionat în această clădire fără a se face alte modificări notabile.\n
+Peste drum de Palatul CEC se află Muzeul Naţional de Istorie.\n
+</string>
+<string name="CV.56.source">
+<a href="http://ro.wikipedia.org/wiki/Palatul_C.E.C.">ro.wikipedia.org</a>, 
+<a href=" https://www.cec.ro/home/despre-cec-bank/istoric.aspx">cec.ro </a>,
+<a href="http://www.librarie.net/carti/131575/Bucuresti-ghid-turistic-istoric-artistic-editia-Bucuresti">Bucuresti - ghid turistic,istoric, artistic de Silvia Colfescu</a>
+</string>
+<string name="CV.56.foto">cv_56_cec_via_ebay</string>
+<string name="CV.56.foto_source"> <a href="http://www.ebay.com">ebay.com</a></string>
+
+<string name="CV.57.name">Muzeul Naţional de Istorie</string>
+<string name="CV.57.info">În 1690, pe locul unde este astăzi muzeul, a fost ridicat de către principele Constantin Brâncoveanu (1688-1714), Hanul Constantin Vodă, unul dintre marile hanuri din Bucureşti, construit peste casele Agăi Constantin Bălăceanu, ginerele fostului domnitor Șerban Cantacuzino (domnitor între 1678-1688) dar şi vărul lui Brâncoveanu, pretendent la tron şi duşman de moarte. Moşia marii familii a boierilor Bălăceni se întindea în perimetrul delimitat acum de Calea Victoriei, străzile Franceză, Smârdan şi Stavropoleos.\n 
+Trupele celor doi adversari s-au confruntat în 1690 la Zărneşti (Braşov) unde Brâncoveanu învinge. Drept răzbunare, dărâmă casele lui Bălăceanu şi  îi înfinge capul într-o suliţă pusă pe ruinele caselor.\n
+Hanul Constantin Vodă dispare între anii 1849-1862, ruinându-se treptat mai ales în urma incendiului din 1847.\n 
+Pe fostul amplasament al hanului, în 1871, a fost ridicată o construcţie masivă din lemn în care a funcţionat la început Circul Hüttermann, iar mai  apoi Circul Suhr. Construcţia improvizată din lemn, modestă ca arhitectură, a fost dărâmată în anul 1877, terenul viran rezultat prin dispariţia clădirii a fost cunoscut sub numele Piaţa Constantin Vodă. Aici s-a perindat și Café chantant-ul \"Walhalla\" iar la intersecţia Căii Victoriei cu strada Franceză a funcţionat în 1864 \"Conservatorul de Muzică şi Declamaţiune\" sub conducerea lui Alexandru Flechtenmacher.\n 
+În anul 1894, se hotărăşte construirea unui sediu pentru Poşta Centrală a Bucureştiului, găzduit până în acel moment în casele Bărcănescu (Paltul Bursei de astăzi) din strada Uliţa Doamnei.\n
+Piatra de temelie a Palatului Poştei Centrale a fost pusă în 1894 de Regele Carol I, iar inaugurarea lui a avut loc în toamna anului 1900.\n 
+Proiectul palatului a fost înfăptuit după planurile arh. Alexandru Săvulescu, inspirat, se spune, de Poşta din Geneva (Elveţia). Palatul are o faţadă în stil neoclasic, cu un vast portic sprijinit pe zece coloane dorice (robuste) angajate la pilaştri (stâlpi dreptunghiulari) solizi. Decorul statuar este opera fraţilor sculptori Carol şi Frederic Storck cunoscuţi pentru Monumentul funerar Karl Storck și Carol Storck din Cimitirul Evanghelic, realizat de Frederic și statuile alegorice de pe faţada Palatului de Justiţie, statuia lui Carol Davila, Fântâna Lahovari din Piaţa Naţiunilor Unite de Carol Storck.\n
+Palatul este construit într-o formă rectangulară, fiind format dintr-un subsol înalt, un parter şi două etaje.\n
+Până în anul 1971 clădirea a găzduit sediul central al Poştei din Bucureşti. În anii \'60, Oficiul PTTR Bucureşti asigura o serie de servicii printre care: corespondenţă, mesagerii, mandate poştale, telegrame, abonamente radiofonice, convorbiri telefonice naţionale şi internaţionale, operaţiuni CEC, presă și filatelie. În interiorul palatului funcţiona şi un birou de voiaj al CFR.\n 
+Încă din 1834, prin donaţia colecţiei de antichităţi din domeniul ştiinţelor naturii şi istoriei a lui Mihail Ghica, s-a înfiinţat, în cadrul Colegiului de la Sfântul Sava din Bucureşti, Muzeul Naţional de Istorie Naturală şi Antichităţi.\n
+Colecţia muzeului se îmbogăţeşte aşa că începând cu 1972, clădirea Poştei Centrale a fost transformată în Muzeul Naţional de Istorie a României (MNIR), aici fiind expus tezaurul României (descoperit la Pietroasa şi la Apahida) şi o copie în mărime naturală a celebrului monument \"Columna lui Traian\" din Roma (anul 113).\n
+Structura clădirii a fost serios afectată de cutremurele din 1940 şi 1977, muzeul aflându-se în reparaţii în ultimul deceniu. \n
+Muzeul poate fi vizitat de Miercuri până Duminică în program de vară: 10:00 - 18:00 sau program de iarnă: 09:00 - 17:00, Luni și Marţi fiind închis. Mai multe detalii pe <a href="http://www.mnir.ro">www.mnir.ro</a>
+</string> 
+<string name="CV.57.source">
+<a href=" http://www.bucurestiulintrozi.ro/harta/locatie/FostulPalatalPoştelor,aziMuzeulNaţionaldeIstorieaRomâniei-187.html"> bucurestiulintrozi.ro </a>, 
+<a href=" http://www.mnir.ro/ro/Istoric.aspx"> mnir.ro </a>,
+<a href="http://www.librarie.net/carti/131575/Bucuresti-ghid-turistic-istoric-artistic-editia-Bucuresti">Bucuresti - ghid turistic,istoric, artistic de Silvia Colfescu</a>
+</string>
+<string name="CV.57.foto">cv_57_posta_centrala_via_vederi</string>
+<string name="CV.57.foto_source"> <a href="http://vederi.ro">vederi.ro</a></string>
+
+<string name="CV.58.name">Casa Vasile Tarpu</string>
+<string name="CV.58.info">Facem stânga pe strada Franceză unde prima clădire poartă numerele 2-4. Aceasta a fost afectată de lărgirea Căii Victoriei din 1909 şi de alinierea clădirilor, când s-a dărâmat casa de pe colţ, lăsând vederii calcanul (peretele lipit de altă casă). \n
+Această clădire, un palat cu restaurant la parter, a fost, așa cum ne spune Silvia Colfescu care a studiat această zonă, \"casa negustorului Vasile Tarpu, pe care arh. Wilhelm Bast a remaniat-o în 1895, supraînălţând-o şi dându-i aspectul care se păstrează până astăzi\".  \n
+</string>
+<string name="CV.58.source">
+<a href=" http://silviacolfescu.blogspot.com/2011/11/case-pe-strada-franceza-1.html"> silviacolfescu.blogspot.com </a>
+</string>
+<string name="CV.58.foto">cv_58_casa_vasile_tarpu_via_silviacolfescu</string>
+<string name="CV.58.foto_source"><a href=" http://silviacolfescu.blogspot.com/2011/11/case-pe-strada-franceza-1.html"> silviacolfescu.blogspot.com </a>
+</string>
+
+<string name="CV.59.name">Casa lui Isak Mărcuş</string>
+<string name="CV.59.info">La nr. 6, pe o parcelă îngustă care ajunge până în strada Ion C. Filitti (istoric, jurist și diplomat), se află casa lui Isak Mărcuş, construită în 1896 de arh. A. I. Rosescu. La balcoane, printre ornamentele feroneriilor, proprietarul şi-a pus iniţiala M.\n
+</string>
+<string name="CV.59.source">
+<a href=" http://silviacolfescu.blogspot.com/2011/11/case-pe-strada-franceza-1.html"> silviacolfescu.blogspot.com </a>,
+<a href=" http://www.jurnalul.ro/jurnalul-national/strada-franceza-numarul-6-313949.htm"> jurnalul.ro </a>
+</string>
+<string name="CV.59.foto">cv_59_casa_lui_isak_marcus_via_silviacolfescu</string>
+<string name="CV.59.foto_source"> <a href="http://silviacolfescu.blogspot.com/2011/11/case-pe-strada-franceza-1.html"> silviacolfescu.blogspot.com </a></string>
+
+<string name="CV.60.name">Casa Iulia Haşdeu</string>
+<string name="CV.60.info">La nr. 14 găsim casa unde s-a născut Iulia Haşdeu (1869-1888), tânără intelectuală, poetă, fiica savantului Bogdan Petriceicu Haşdeu.\n
+Iulia a fost un copil supradotat, la opt ani neîmpliniţi a trecut examenele cumulate ale celor patru clase primare iar la 11 ani a absolvit Colegiul Naţional \"Sfântul Sava\", iar în paralel a urmat cursurile Conservatorului de Muzică din Bucureşti după care a plecat la studii la Paris. Începând de la vârsta de 16 ani, a studiat la Sorbona, uimindu-şi profesorii cu talentul său, fiind primul român care a absolvit această facultate.\n
+Primul ei volum de poezii, Bourgeons d\'Avril (Muguri de aprilie), scris în 1887, apare doi ani mai târziu, sub pseudonimul Camille Armand în volumul Euvres posthumes.\n
+La 29 septembrie 1888, la vârsta de 18 ani, Iulia Haşdeu a murit de tuberculoză şi a fost înmormântată la Cimitirul Bellu. Tatăl Iuliei, foarte afectat de moartea ei, a construit, în memoria acesteia, un castel la Câmpina (Prahova), cunoscut sub numele de Castelul Iulia Haşdeu pe care l-a transformat în loc de meditaţie şi discuţie cu spiritul fetei. \n
+</string>
+<string name="CV.60.source">
+<a href=" http://ro.wikipedia.org/wiki/Iulia_Haşdeu">ro.wikipedia.org</a>, 
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/CasaîncaresanăscutIuliaHaşdeu-67.html">bucurestiulintrozi.ro </a>
+</string>
+<string name="CV.60.foto">cv_60_casa_iulia_hasdeu_via_wikimapia</string>
+<string name="CV.60.foto_source"> <a href="http://wikimapia.org">wikimapia.org</a> </string>
+
+<string name="CV.61.name">Casa M. Russu</string>
+<string name="CV.61.info">La nr. 18 se află casa pe care M. Russu şi-a construit-o în \"anno domini 1892\", anul apare pe faţada împodobită cu o avalanşă de ornamente împrumutate de la mai multe stiluri: lei, frunze de acant (plantă asemănătoare scaiului), ove (formă de ou), palmete (frunze de palmier), denticuli (forma unui dinte folosit la cornişe - susţine acoperişul).\n
+Într-un cartuş discret aşezat la partea superioară a construcţiei este înscris numele arhitectului: R. Kraft, arhitectul mai multor clădiri din Capitală, de la sfârşitul sec. XIX. \n
+</string>
+<string name="CV.61.source">
+<a href=" http://silviacolfescu.blogspot.com/2011/11/case-pe-strada-franceza-2.html"> silviacolfescu.blogspot.com </a>
+</string>
+<string name="CV.61.foto">cv_61_casa_m_russu_via_silviacolfescu</string>
+<string name="CV.61.foto_source"> <a href=" http://silviacolfescu.blogspot.com/2011/11/case-pe-strada-franceza-2.html"> silviacolfescu.blogspot.com </a>
+</string>
+
+<string name="CV.62.name">Universitatea Ecologică</string>
+<string name="CV.62.info">Are sediul la nr. 22 într-o clădire care a aparţinut lui Henrik Prager, probabil o rudă a bogatului blănar Sigmund Prager, care cumpărase casa Cantacuzino/ Ienăchiţă Văcărescu/ Bellu din Calea Victoriei nr. 9, în imediata vecinătate.\n
+Universitatea Ecologică din Bucureşti a fost înfiinţată în 1990 şi este prima instituţie particulară de învăţământ superior din România şi singura universitate cu profil ecologic. \n
+</string>
+<string name="CV.62.source">
+<a href=" http://silviacolfescu.blogspot.com/2011/11/case-pe-strada-franceza-2.html"> silviacolfescu.blogspot.com </a>
+</string>
+<string name="CV.62.foto">cv_62_universitatea_ecologica_via_wikimapia</string>
+<string name="CV.62.foto_source"> <a href="http://wikimapia.org">wikimapia.org</a> </string>
+
+<string name="CV.63.name">Biserica Sf. Dumitru</string>
+<string name="CV.63.info">Cunoscută şi sub numele de \"Biserica de Jurământ\", a fost în a doua jumătate a sec. XVI o biserică din lemn, în jurul căreia erau înălţate câteva chilii, alcătuind astfel un mic lăcaş mănăstiresc închinat mănăstirii Vladatos din Salonic. A fost distrusă la scurtă vreme, poate pe vremea ocupării Bucureştilor de către Sinan Paşa în 1596, dar mai târziu este menţionată într-un document din 1640.\n
+A fost reconstruită sau reparată pe la 1674 de aga Constantin Bălăceanu şi tatăl său, vornicul Badea Bălăceanu zis Uşurelul, porecla şi-o dobândise făcând drumul călare neîntrerupt de la Bucureşti la Iaşi, într-o zi şi-o noapte, o ispravă nerepetată de atunci şi până în zilele noastre. Cum biserica se afla vecină cu casele lor, i s-a mai spus şi biserica Bălăceanului.\n 
+Mai târziu, între 1741-1746, Stroe Râmniceanu \"vătaf de copii\" adică funcţionar ce se ocupa de problemele legale privitoare la copii, călugărit sub numele de Isaia, și împreună cu nepotul său, \"logofătul de vistierie\" Radu Atanasievici, încep reconstrucţia bisericii de astă dată \"din zid nu din lemn\".\n
+Biserica va deveni metoh (subordonată) al Episcopiilor Râmnicului şi Buzăului în 1745. În secolul următor se degradează aşa că episcopul Costandie Filitti, îngrijindu-se de metohul său, porneşte lucrările de reparaţie pe la 1819. Chesarie, urmaşul său în scaunul episcopal, le-a terminat în 1846 pentru ca, după marele foc din 1847, episcopul Filotei să fie şi el nevoit să contribuie la renovarea lăcaşului în 1852.\n 
+După primul război mondial găsim biserica din nou în paragină, academicianul I. C. Filitti, urmaş al episcopului Costandie, opunându-se vehement demolării.\n
+Numele de \"Biserica de Jurământ\" vine de la obiceiul ca aici să fie făcute jurămintele solemne, tradiţia cerând ca împricinatul să se înfăşoare cu brâul Maicii Domnului şi să jure dinaintea uşilor împărăteşti, în prezenţa arhiereului şi a preoţilor că va spune adevărul.\n
+Catapeteasma bisericii este realizată în stil baroc de sculptorul Dumitru Spătaru. \n
+</string>
+<string name="CV.63.source">
+<a href=" http://www.bucurestiulintrozi.ro/harta/locatie/BisericaSfântuDumitru-66.html"> bucurestiulintrozi.ro </a>, 
+<a href=" http://www.apmnir.ro/map.php"> apmnir.ro </a>
+</string>
+<string name="CV.63.foto">cv_63_biserica_sf_dumitru_posta_via_picasa</string>
+<string name="CV.63.foto_source"> <a href="http://turistinbucurestiro.blogspot.com">turistinbucurestiro.blogspot.com</a></string>
+
+<string name="CV.64.name">Spitalul PTTR</string>
+<string name="CV.64.info">Mergem pe strada Poştei, prin spatele Muzeului de Istorie şi facem dreapta pe strada Sfântul Dumitru (fostă Măndinești) unde, pe colţ putem admira impozantelor faţade ale fostului Spital PTTR (Spitalul clinic Prof. Dr. Doc Ovidiu Marina), construit în 1914 după planurile arh. Petre Antonescu cunoscut pentru construcţia Arculului de Triumf, Palatului Primăriei Capitalei de lângă Cișmigiu şi a Palatului Kretzulescu. \n
+</string>
+<string name="CV.64.source">
+<a href="http://www.monumenteromania.ro/index.php/monumente/detalii/ro/Spitalul20P.T.T.R./1771"> monumenteromania.ro </a>, 
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/SpitalulPTTR-65.html"> bucurestiulintrozi.ro </a>
+</string>
+<string name="CV.64.foto">cv_64_spitalul_pttr_via_wikimapia</string>
+<string name="CV.64.foto_source"> <a href="http://wikimapia.org">wikimapia.org</a> </string>
+
+<string name="CV.65.name">Teatrul de Comedie</string>
+<string name="CV.65.info">Continuăm pe strada Sf. Dumitru, trecem de Spitalul PTTR şi Institutul Naţional de Recuperare (INRMFB) până ajungem la Teatrul de Comedie fondat în 1961 de Radu Beligan când a fost prezentat publicului primul spectacol: \"Celebrul 702\" de Alexandru Mirodan, regia Moni Ghelerter, în rolurile principale avându-i pe Radu Beligan, Sanda Toma, Ion Lucian, Florin Scărlătescu, Mircea Șeptilici, Nicolae Gărdescu și Liliana Ţicău. \n
+În anii \'60 Teatrul de Comedie a parcurs o perioadă de sincronizare artistică cu mișcarea teatrală mondială, fapt dovedit de Premiul Teatrului Naţiunilor pentru \"cea mai bună participare naţională\" obţinut la Paris în 1963 cu spectacolele \"Rinocerii\" de Eugène Ionesco, regia Lucian Giurchescu, \"Troilus și Cresida\" de William Shakespeare și \"Umbra\" de Evgenii Șvarţ, ambele în regia lui David Esrig. \n
+Acest teatru este unic în România prin repertoriul dedicat genului comic, de la Shakespeare, Cehov sau Gogol la comedia bulevardieră, teatrul absurdului sau comedia neagră cu o trupă de actori de prim rang în comedia românească printre care: Horaţiu Mălăele, Vladimir Găitan, Ştefan Bănică, Dorina Chiriac, Emilia Popescu, Tudor Chirilă etc.\n
+În faţa Teatrului de Comedie se află statuia din bronz \"Omul, Spaţiul, Timpul\", realizată de sculptorul bucovinean Ion Mândrescu, o statuie similară, cu acelaşi nume, a fost donată de statul român Consiliului Europei. \n
+Facem dreapta pe strada Tonitza, prin spatele Bisericii Sf. Dumitru, pe lângă statuia \"Omul, Spaţiul, Timpul\".
+</string>
+<string name="CV.65.source">
+<a href=" http://bucureşti.24fun.ro/locaţii/teatrul_de_comedie-309.html">bucureşti24fun.ro </a>,
+<a href="http://www.comedie.ro/index.php?pagina=50ani">comedie.ro</a>,
+<a href="http://www.bucharestdailyphoto.ro/2009/11/omul-spatiul-timpul.html">bucharestdailyphoto.ro</a>
+</string>
+<string name="CV.65.foto">cv_65_teatrul_de_comedie_via_wikimapia </string>
+<string name="CV.65.foto_source"> <a href="http://wikimapia.org">wikimapia.org</a> </string>
+
+<string name="CV.66.name">Strada Tonitza</string>
+<string name="CV.66.info">Având în trecut numele de strada Brâncoveanu, aminteşte de faptul că aceasta ducea către moşia Brâncovenilor, situată în fosta meandră (cotitură) a Dâmboviţei, astăzi dispărută după regularizarea cursului râului. Numele poate fi şi un omagiu adus marelui domnitor care a dispus prelungirea străzii Franceze din acest loc până în Calea Victoriei, fostul Pod al Mogoşoaiei.\n
+Nicolae Tonitza (1886 - 1940) a fost un pictor și grafician român cunoscut mai ales pentru lucrările \"Portret de copil\" (1926) şi \"Fetiţa pădurarului\" (1924) din imaginea de mai sus.\n
+</string>
+<string name="CV.66.source">
+<a href=" http://ro.wikipedia.org/wiki/Nicolae_Tonitza">ro.wikipedia.org</a>
+</string>
+<string name="CV.66.foto">cv_66_nicolae_tonitza_fetita_padurarului_via_wiki</string>
+<string name="CV.66.foto_source"> <a href="http://ro.wikipedia.org">ro.wikipedia.org</a></string>
+
+<string name="CV.67.name">Casa Miron S. Vlasto</string>
+<string name="CV.67.info">Mergem pâna în strada Franceză, facem stânga, unde găsim casa lui Miron S. Vlasto construită în 1872.\n 
+Miron S. Vlasto a fost ales primul preşedinte al Camerei de Comerţ şi Industrie Bucureşti pe care a condus-o între anii 1868-1871. În această perioadă, Camera iniţiază procedura de intabulare a firmelor, solicitând Ministerului Justiţiei să facă demersurile necesare, ceea ce a dus la crearea Oficiului Registrului Comerţului de mai târziu. Vlasto a intervenit la Ministerul Finanţelor pentru crearea de birouri vamale și a pledat pentru reglementarea repausului duminical.\n
+</string>
+<string name="CV.67.source">
+<a href=" http://ro.wikipedia.org/wiki/Camera_de_comerC89B_C899i_industrie_BucureC899ti">ro.wikipedia.org</a>
+</string>
+<string name="CV.67.foto">cv_67_casa_miron_s_vlasto_via_silviacolfescu</string>
+<string name="CV.67.foto_source"> <a href="http://silviacolfescu.blogspot.com/2011/12/case-pe-strada-franceza-3-casa-miron.html"> silviacolfescu.blogspot.com </a>
+</string>
+
+<string name="CV.68.name">Sala Studio</string>
+<string name="CV.68.info">Continuăm pe strada Franceză, înspre Șelari, unde la nr. 9, pe stânga, se afla odinioară \"Studioul de teatru Casandra UNATC\" (Universitatea Naţională de Artă Teatrală şi Cinematografică) înfiinţat în 1957.\n
+Primul spectacol prezentat a fost \"Plicul\" de Liviu Rebreanu, interpretat de studenţii clasei profesorului Ion Finteșteanu (1899-1984), printre care Florin Piersic și Leopoldina Bălănuţa. Ion Finteșteanu i-a avut ca asistenţi pe Sanda Manu şi pe Dem Rădulescu.\n
+Din 1957 şi până în prezent, pe această scenă şi-au făcut debutul toţi marii actori şi regizori români în peste 300 de premiere teatrale studenţeşti cum ar fi: Victor Rebengiuc, Mariana Mihuţ, Dan Puric, George Ivaşcu, Ileana Stana Ionescu sau Alexa Visarion.\n
+Iniţial, clădirea, construită după desenele arh. I. Friederich în 1891, era în stil academist de factură neoclasică. După 1920, ea a fost total transformată, căpătând actuala înfăţişare.\n
+Imobilul a găzduit Sala Studio a ANTF \"I. L. Caragiale\" și a fost retrocedat moştenitorilor. \n
+Ajungem acum în strada Şelari unde facem dreapta.\n
+</string>
+<string name="CV.68.source">
+<a href="http://silviacolfescu.blogspot.com/2012/01/case-pe-strada-franceza-5.html"> silviacolfescu.blogspot.com </a>, 
+<a href="http://www.infoarte.ro/teatru/Studioul-de-teatru-Casandra-8.html"> infoarte.ro </a>
+</string>
+<string name="CV.68.foto">cv_68_sala_studio_via_silviacolfescu</string>
+<string name="CV.68.foto_source"> <a href="http://silviacolfescu.blogspot.com/2012/01/case-pe-strada-franceza-5.html"> silviacolfescu.blogspot.com </a></string>
+
+<string name="CV.69.name">Podul Rahovei</string>
+<string name="CV.69.info">Acum mult timp, strada Şelari se unea cu strada Calea Rahovei prin Podul Calicilor (azi dispărut) dând în Calea Mehedinţilor. Iniţial, podul pornea de la \"Poarta de sus\" a Curţii Domneşti, unde s-a constituit mai târziu Hanul Roşu.\n
+Până în sec. XVII, pe malul drept al Dâmboviţei nu existau decât mănăstirea Mihai Vodă şi bordeiele pe jumătate îngropate în pământ ale calicilor (oameni liberi, toleraţi de domnie şi biserică în schimbul unor servicii).\n
+În 1654, Constantin Şerban, domnitorul Ţării Românești între 1654-1658, a construit pe o colină de pe malul drept o mănăstire, viitoarea mitropolie, ale cărei proprietăţi ajungeau către nord-vest până la Podul Calicilor (Haidâm).\n
+După ce Brâncoveanu a început să dăruiască locuri în mahalaua calicilor şi boierii au început să-şi construiască locuinţe de-a lungul Podului Calicilor, săracii au fost împinşi mai spre margine. Numele drumului a fost schimbat cu timpul în Podul Calitei, după numele unei boieroaice, fiind şi asemănător fonetic cu cel vechi. \n
+Drumul începea de la Dâmboviţa, din dreptul unui pod care făcea legătura cu Uliţa Şelari, traversa râul şi mergea, mai întâi pe lângă Biserica Domniţa Bălaşa din spatele Palatului de Justiţie, apoi printre case negustoreşti şi cocioabe, până în afara oraşului.\n 
+După un timp a devenit Calea Craiovei (1860) iar după 1878, Calea Rahovei, amintind de Războiul de Independenţă (1877-1878).\n 
+Sub domnia Regelui Carol I, Dâmboviţa a fost regularizată, Curtea Judecătorească a fost demolată pentru construcţia Palatului Justiţiei, Biserica Domniţa Bălaşa a căpătat un nou aspect şi s-au construit Halele Centrale din Piaţa Mare (Piaţa Unirii).\n 
+Podul Rahova, cunoscut și ca Podul de Piatră, a fost demolat în 1938 când regele Carol al II-lea a iniţiat o acţiune de curăţare a Pieţei 8 Iunie (Unirii), sistematizare şi reamenajare a spaţiului urban. Pentru aceasta, Dâmboviţa a fost acoperită cu un planşeu de beton de la Piaţa Senatului (Naţiunile Unite) până la Piaţa 8 Iunie, Splaiul Independenţei devenind un bulevard în toată regula.\n
+</string>
+<string name="CV.69.source">
+<a href="http://www.zf.ro/ziarul-de-duminica/vedere-in-timp-de-pe-podul-calicilor-de-emanuel-badescu-7747793"> zf.ro </a>, 
+<a href="http://www.bucurestiivechisinoi.ro/2010/01/despre-calea-rahovei/"> bucurestiivechisinoi.ro </a>, 
+<a href="http://www.rezistenta.net/2009/02/podul-rahova.html"> rezistenta.net </a>
+</string>
+<string name="CV.69.foto">cv_69_rahova_regina_via_tramclub</string>
+<string name="CV.69.foto_source"><a href="http://www.tramclub.ro">tramclub.ro </a></string>
+
+<string name="CV.70.name">Hanul Roşu</string>
+<string name="CV.70.info">La intersecţia străzii Franceză cu Șelari, pe locul restaurantului de culoare vișinie, a existat Hanul Roşu.\n
+Aşa cum figurează în planul din 1770, cel mai vechi document cartografic al Bucureştilor, Podul Rahovei pornea chiar de la \"Poarta de Sus\" a Curţii Domneşti, poartă căreia Șerban Cantacuzino îi construise un turn semeţ, distrus de cutremurul din 1738. Datorită respectivei construcţii, podul de peste Dâmboviţa s-a numit o vreme \"Podul Turnului\" sau \"Podul de la Turn\".\n 
+În locul turnului prăbuşit s-a înălţat altul din lemn vopsit în roşu, care a servit şi ca foişor de foc (turn de observaţie pentru apărarea împotriva incendiilor). Când Constantin Hangerli (domnitor între 1797-1799) a desfiinţat vechea Curte Domnească parcelând terenul, a fost vândut și locul pe care era foișorul. \n
+A durat până în 1799, când turnul a fost demolat de marele ban Radu Golescu, care a clădit acolo Hanul Roşu (vezi poză - dreapta), al cărui nume amintea de turnul de demult. Alături de han, Nicolae Trăsnea, epitropul Spitalului Sf. Pantelimon a construit \"Baia Sf. Pantelimon\". Ambele clădiri au fost distruse de marele incendiu din martie 1847.\n
+Hanul a fost refăcut într-un stil neogotic abia după 1850, păstrând forma şi zidurile originale însă nu şi aspectul. Între anii 1940-1960, Hanul Roşu, a pierdut toată decoraţia de stuc şi frumosul balcon-bovindou (ieşit în afară din zidul faţadei) metalic, semicilindric, aflat pe colţ, deasupra intrării. Hanul a mai fost cunoscut și sub numele de Hotel de Valachie care adăpostea pe atunci un \"Cazino burghez\".\n
+În acest han a fost instalată prima râşniţă de cafea din Bucureşti pe la 1847, numită şi moara de cafea englezească ce \"scotea într-un ceas 10 oca (12,5 kg) de cafea pisată\".\n
+Se spune că în camerele fostului Han Roşu a fost găzduit Alexandru Ioan Cuza, pe vremea când sosise la Bucureşti în 1859 pentru alegerea sa ca domnitor al Principatelor Unite. \n
+Peste drum de Hanul Roşu, înspre Splaiul Independenţei, se găsea odinioară Hanul Verde.\n
+</string>
+<string name="CV.70.source">
+<a href="http://art-historia.blogspot.com/2009/03/hanul-rosu-hanul-verde-si-podul-rahova.html"> art-historia.blogspot.com </a>,
+<a href="http://www.humanitas.ro"> Alexandru Ofrim - Străzi vechi din Bucureştiul de azi </a>
+</string>
+<string name="CV.70.foto">cv_70_hanul_rosu_via_vederi</string>
+<string name="CV.70.foto_source"> <a href="http://vederi.ro">vederi.ro</a> </string>
+
+<string name="CV.71.name">Hanul Verde</string>
+<string name="CV.71.info">A fost construit în 1798 de Constantin Hangerli, domnitor fanariot al Ţării Românești între 1797 - 1799, cam în aceeaşi perioadă cu Hanul Roşu.\n 
+În vederea lărgirii Căii Rahovei şi a podului aferent, Hanul Verde a fost demolat însă lucrările s-au oprit aşa că fundaţiile Hanului Verde au fost îngropate, iar Hanul Roşu a fost salvat.\n
+Hanul Verde era cunoscut în interbelic drept "imobilul Dattelkremer" după numele lui Marco Dattelkremer care nu numai că era proprietarul fostului han, dar, încă din anii \'20 a avut acolo un cunoscut magazin de mobilă care a continuat să funcţioneze în blocul construit pe locul hanului. Și astăzi poate fi zărit acest magazin însă și-a pierdut din farmecul de altă dată. Blocul construit pe locul hanului este unul de raport, adică ridicat în scopul speculei imobiliare. \n
+În Hanul Verde a avut atelierul Carol Popp de Szathmari (1812-1887), primul fotograf de artă şi documentarist din Regatul Românesc, unul dintre primii zece fotografi din Europa. A realizat primul reportaj fotografic de război din lume în timpul Războiului Crimeii (1853-1856), fiind recunoscut ca primul foto-jurnalist. Szathmari aprofundează arta fotografiei şi devine ulterior pictor şi fotograf de curte pentru Alexandru Ioan Cuza şi pentru Carol I.\n
+În 2011, în urma lucrărilor pentru pavarea străzii Șelari, s-au redescoperit ruinele Hanului Verde. \n
+</string>
+<string name="CV.71.source">
+<a href=" http://www.rezistenta.net/2011/12/hanul-verde-redescoperit.html"> rezistenta.net </a>, 
+<a href="http://ro.wikipedia.org/wiki/Carol_Popp_de_SzathmC3A1ry">ro.wikipedia.org</a>, 
+<a href="http://art-historia.blogspot.com/2009/03/hanul-rosu-hanul-verde-si-podul-rahova.html"> art-historia.blogspot.com </a>, 
+<a href="http://punctum.ro/expoziţii/carol-szathmari"> punctum.ro </a>
+</string>
+<string name="CV.71.foto">cv_71_hanul_verde_via_libertatea</string>
+<string name="CV.71.foto_source"> 
+<a href="http://www.libertatea.ro/detalii/articol/ruinele-Hanului-Verde-bucuresti-centrul-vechi-367727.html"> libertatea.ro </a> 
+</string>
+
+<string name="CV.72.name">Hotelul Regina</string>
+<string name="CV.72.info">Lângă Hanul Verde, cu faţade pe strada Șelari şi Splaiul Independenţei, se ridică clădirea fostului Hotel Regina (vezi foto stânga), construită la începutul sec. XX, care a devenit prin anii \'50 cămin studenţesc al \"Facultăţii de Petrol şi Gaze\" şi apoi iarăşi hotel, sub numele de Rahova apoi Central ca mai târziu să intre în posesia Ministerului de Interne. \n
+</string>
+<string name="CV.72.source"> 
+<a href="http://www.bucurestiulintrozi.ro">bucurestiulintrozi.ro</a>
+</string>
+<string name="CV.72.foto">cv_72_hotel_regina</string>
+<string name="CV.72.foto_source">
+<a href="http://www.vederi.ro">vederi.ro</a>
+</string>
+
+<string name="CV.73.name">Hotelul Concordia</string>
+<string name="CV.73.info">Traseul continuă pe strada Șelari, trecem de strada Franceză și facem prima la stânga pe Smârdan, unde pe partea dreaptă, spre jumătatea străzii, la nr. 39, găsim o clădire acoperită cu placaj de lemn. Este vorba de fostul Hotel Concordia, contemporan cu Hotelul Fieschi, şi care, la fel ca cel din urmă avea restaurant, cafenea şi biliard, numărându-se la început printre hotelurile selecte ale urbei. Peste drum se găsea Concordia Veche a cărui cafenea era căutată mai ales de evrei.\n
+Chiar dacă perioada sa de glorie n-a durat mult, Hotelul Concordia are un loc important în istoria ţării pentru că, la primul etaj, în camera 5 în \"seara zilei de 23 ianuarie 1859 s-a hotărât dubla alegere a lui Alexandru Ioan Cuza, de către fruntaşii partidei naţionale, ca domn al Ţării Româneşti\" după cum scria pe placa de marmură din dreapta intrării.\n
+</string>
+<string name="CV.73.source">
+<a href=" http://www.bucurestiulintrozi.ro/harta/locatie/FostulHotelConcordia-79.html">bucurestiulintrozi.ro</a>
+</string>
+<string name="CV.73.foto">cv_73_hotelconcordia_via_bucurestiulintrozo</string>
+<string name="CV.73.foto_source"> 
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/FostulHotelConcordia-79.html">bucurestiulintrozi.ro</a>
+</string>
+
+<string name="CV.74.name">Legenda Zarazei</string>
+<string name="CV.74.info">Pe strada Şelari, la nr. 16, a existat clădirea Clubului Hermes, unde aveau loc şedinţe de sindicat înainte de Revoluţie.\n
+Această stradă este pomenită în cartea \"De ce iubim femeile\" de Mircea Cărtărescu care a înfiripat legenda Zarazei şi a cântăreţului Cristian Vasile. Povestea spune că pe str. Şelari, în localul Vulpea Roşie, Cristian Vasile îşi încânta ascultătorii cu celebrele lui tangouri care i-au adus faimă în Bucureştiul de altădată. \n
+La Vulpea Roşie era aglomerat în fiecare seară şi, oricât de grele ar fi fost vremurile, bucureştenii aveau să se bucure de cântecele de dragoste ale lui Cristian Vasile.\n
+Zaraza, care în ţigăneşte înseamnă \"minunată\", era una dintre cele mai cunoscute curtezane ale Micului Paris. Totul se schimbă când cei doi se  întâlnesc şi se îndrăgostesc nebuneşte. De atunci, Zaraza a rămas fidelă cântăreţului, iar Cristian Vasile nu pleca nicăieri fără femeia pe care o adora. Cristian Vasile cucereşte iremediabil publicul cu noul său tango, Zaraza.\n
+În aceeaşi perioadă în care trăia Cristian Vasile, Bucureştiul mai aprecia un alt cântăreţ, pe Zavaidoc. Era cunoscută rivalitatea dintre cei doi cântăreţi care înnebuneau saloanele de dans ale Bucureştilor, însă în momentul în care Zaraza cucereşte inimile petrecăreţilor, Zavaidoc îi pune gând rău lui Cristian Vasile așa că angajează pe cineva să-l omoare, însă criminalul avea alt plan. \n 
+Într-o seară, pe când Zaraza iese să cumpere tutun, matahala lui Zavaidoc o omoară. Se spune că la aflarea acestei veşti, cântăreţul Cristian Vasile a înnebunit. După ce este incinerat corpul Zarazei, Cristian Vasile fură urna cu cenuşă a femeii iubite şi se spune că timp de 4 luni de zile a mâncat din ea, iar la final şi-a turnat terebentină pe gât, în speranţa că va muri. A reuşit doar să îşi distrugă coardele vocale, încheindu-şi astfel cariera.\n
+<i>\n\t Vreau să-mi spui, frumoasă Zaraza, \n \t Cine te-a iubit, \n \t Câţi au plâns nebuni pentru tine \n \t Şi câţi au murit.\n \t Vreau să-mi dai gura-ţi dulce, Zaraza, \n \t Să mă-mbete mereu, \n \t De a ta sărutare, Zaraza, \n \t Vreau să mor şi eu… \n </i> este celebrul tango \"Zaraza\" cântat de Cristian Vasile. \n 
+</string>
+<string name="CV.74.source">
+<a href=" http://timp-liber.acasă.ro/unde-iesim-16/selari---strada-cu-bordel-din-centrul-vechi-13066.html">timpliber.acasă.ro</a>, 
+<a href="http://www.historia.ro/exclusiv_web/general/articol/legenda-frumoasei-zaraza-existat-nu"> historia.ro </a>,
+<a href=" http://bucuresti-strictsecret.blogspot.com/2007/11/zaraza-all-inclusive-observator.html"> bucuresti-strictsecret.blogspot.com </a>
+</string>
+<string name="CV.74.foto">cv_74_cristian_vasile_zaraza_via_wiki</string>
+<string name="CV.74.foto_source"> <a href="http://ro.wikipedia.org">ro.wikipedia.org</a> </string>
+
+
+<string name="CV.75.name">Hanul Ghermani şi Tipografia Naţională </string>
+<string name="CV.75.info">Pe Uliţa Germană, actuala stradă Smârdan, pe partea dreaptă, aproape de intersecţia cu strada Stavropoleos, se afla la începutul sec. al XIX-lea, Hanul Ghermani. \n
+Deşi pare onomastic, numele lui derivă din adjectivul ghermanos care în greacă înseamnă german. Hanul nemţesc era o construcţie solidă, cu o curte pătrată la mijloc şi cu poartă solidă la intrare.\n
+În anul 1863, în prăvăliile din curte fusese instalată \"Tipografia Naţională\" unde au fost tipărite printre primele cărţi de literatură românească. Tipografia a fost înfiinţată de librarul Iosif Romanov în anul 1855, sub numele \"Tipografia Naţională a lui Iosif Romanov şi Compania\", cu sediul în Hanul Gherman, uliţa Germană nr. 27. Era cel mai mare şi cel mai modern stabiliment particular din acea vreme. În gazeta \"România\" din anul 1857, printr-o \"înştiinţare\" se făcea cunoscut că tipografia putea rivaliza cu cele mai moderne de acest fel din Europa.\n 
+Iosif Romanov l-a avut ca asociat pe Ştefan Rasidescu, fostul director al Tipografiei Mitropoliei iar şef de atelier era vestitul tipograf vienez Francisc Göbl.\n
+În perioada 1855-1863, în această tipografie au fost tipărite 120 de cărţi de literatură română şi universală, de istorie, filozofie, artă militară şi 20 de periodice şi calendare. Ziare unioniste ca \"România\", \"Concordia\" şi \"Dâmboviţa\" au fost tipărite tot aici, conţinând articole semnate de mulţi dintre cei care au făurit România modernă. \n 
+</string>
+<string name="CV.75.source">
+<a href=" http://ro.wikipedia.org/wiki/Tipografia_NaC89BionalC483_a_lui_Iosif_Romanov">ro.wikipedia.org</a>, 
+<a href="http://www.bucurestiulintrozi.ro/harta/locatie/FostulHotelConcordia-79.html"> bucurestiulintrozi.ro </a>
+</string>
+<string name="CV.75.foto">cv_75_curierul_romanesc_1829_via_biblacad</string>
+<string name="CV.75.foto_source">
+<a href="http://www.biblacad.ro/bnr/index.html">biblacad.ro</a>
+</string>
+
+<string name="CV.76.name">z. Sfârșit</string>
+<string name="CV.76.info">Aici se termină turul Centrului Vechi, sper că v-a plăcut călătoria noastră. \n
+Pentru cei care doresc să afle mai multe despre istoria Bucureștiului le recomand aplicaţia Android \"București Calea Victoriei\" pe care o puteţi găsi pe Google Play dar și cărţile următoare:\n
+\"Străzi vechi din Bucureștiul de azi\" de Alexandru Ofrim \n
+\"Bucureștii de altădată\" de Constantin Bacalbașa \n
+\"Bucureștii în date, întâmplări și ilustraţii\" de Radu Oltean \n
+\"București - ghid turistic, istoric, artistic\" de Silvia Colfescu. \n
+Pentru cei care doresc să achiziţioneze cărţi și poze vechi din Bucureștiul de altădată le recomand \"Libraria Anticariat Unu\" de pe strada Academiei, nr. 4 - 6 (zona Centrul Vechi - Universitate).\n 
+Mai multe pe <a href="http://www.anticariat-unu.ro"> www.anticariat-unu.ro </a>\n 
+</string>
+<string name="CV.76.source"></string>
+<string name="CV.76.foto"></string>
+<string name="CV.76.foto_source"></string>
+
+
+<!-- # Date de Test  -->
+<string name="CV.77.name"></string>
+<string name="CV.77.info"></string>
+<string name="CV.77.source"></string>
+<string name="CV.77.foto"></string>
+<string name="tot">Piaţa Unirii, Strada și bazarul Bazaca, Hanul Manuc, Hotel Europa Royale, Strada Căldărari, Strada Franceză, Curtea Veche, Biserica Curtea Veche, Piaţa de Flori (Anton), Strada Şepcari, Strada Covaci, Cafeneaua Veche, Eminescu, Hanul Gabroveni, Palatul Doamnei Păuna, Hotelul Fieschi, Curtea Sticlarilor, Restaurantul lui Iordache Ionescu, Strada Șelari, Strada Gabroveni şi Zarafi, Strada Lipscani, Lupoaica din Piaţa Roma, Magazinul Voaleta, Hanul cu Tei, Teatrul de pe Lipscani, Case istorice, Strada Smârdan, Sediul Societăţii de Asigurări Naţionala, Strada Doamnei, Palatul Bursei, Creditul Funciar Rural, Centrul Ceh, Biserica Sf. Nicolae, Cinematograful Doina, Banca Naţională - corpul Nordic (nou), Grădina Blanduziei, Clădirea Tehnoimport, Palatul Marmorosch-Blank, Strada Eugen Carada, Pasajul Macca-Vilacrosse, Prefectura Poliţiei, Magazinul Victoria, Bucharest Financial Plaza, Palatul Societăţii Dacia, Clădirea Băncii Chrissovelloni, Banca de Scont, Banca Naţională - corpul Sudic, Hanul Şerban Vodă, Hanul Grecilor, Palatul Băncii Generale Române, Strada Stavropoleos, Banca Fortuna şi Hotelul Brener, Banca Creditul Român, Biserica Stavropoleos, Caru\' cu bere, Biserica Zlătari, Palatul CEC, Muzeul Naţional de Istorie, Casa Vasile Tarpu, Casa lui Isak Mărcuş, Casa Iulia Haşdeu, Casa M. su, Universitatea Ecologică, Biserica Sfântu Dumitru, Spitalul PTTR, Teatrul de Comedie, Strada Tonitza, Casa Miron S. Vlasto, Sala Studio, Podul Rahovei, Hanul Roşu, Hanul Verde, Hotelul Regina, Hotelul Concordia, Legenda Zarazei, Hanul Ghermani şi Tipografia Naţională, 
+
+Ț --->  Ţ
+ț ---> ţ 
+</string>
+</resources>

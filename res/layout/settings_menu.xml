@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutSettings"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/messageText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.00"
+        android:bufferType="spannable"
+        android:gravity="top|center_horizontal"
+        android:text="@string/menu_settings"
+        android:textSize="23dip" />
+
+    <TextView
+        android:id="@+id/settingsTextTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left|top"
+        android:text="@string/font_size"
+        android:textSize="18dip" />
+
+    <SeekBar
+        android:id="@+id/textSizeBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="36"
+        android:progress="10" />
+
+    <TextView
+        android:id="@+id/settingsText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="20dip" />
+
+    <RelativeLayout
+        android:id="@+id/layoutSettings"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <!-- butoane -->
+
+        <Button
+            android:id="@+id/minusText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dip"
+            android:layout_marginRight="15dip"
+            android:background="@drawable/back"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/plusText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dip"
+            android:layout_marginRight="15dip"
+            android:layout_toRightOf="@id/minusText"
+            android:background="@drawable/forward"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/backFromSettBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/undo"
+        android:padding="10dip" />
+
+</LinearLayout>

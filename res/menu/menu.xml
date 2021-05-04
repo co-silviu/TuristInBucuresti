@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/info_2"
+        android:title="@string/menu_about"/>
+    <item
+        android:id="@+id/source"
+        android:icon="@drawable/source_2"
+        android:title="@string/menu_source"/>
+    <item
+        android:id="@+id/mail"
+        android:icon="@drawable/mail"
+        android:title="@string/menu_feedback"/>
+    
+    <item
+        android:id="@+id/speak"
+        android:icon="@drawable/speak"
+        android:title="@string/menu_tts"/>
+        
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/settings_2"
+        android:title="@string/menu_settings"/>
+    <item
+        android:id="@+id/exit"
+        android:alphabeticShortcut="x"
+        android:icon="@drawable/exit_2"
+        android:title="@string/menu_exit"/>
+
+</menu>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutRoot"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- Trasee si count label -->
+
+    <LinearLayout
+        android:id="@+id/layoutTopSpin"
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:orientation="horizontal"
+        android:padding="2dip"
+        android:visibility="gone" >
+
+        <Spinner
+            android:id="@+id/dropdown_list"
+            android:layout_width="5dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+    </LinearLayout>
+
+    <!-- text tib -->
+
+    <LinearLayout
+        android:id="@+id/layoutInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:id="@+id/scroolView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:fillViewport="true"
+            android:scrollbars="vertical" >
+
+            <LinearLayout
+                android:id="@+id/layoutBtn2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.03"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/imageInfo"
+                    android:layout_width="match_parent"
+                    android:layout_height="183dp"
+                    android:adjustViewBounds="true"
+                    android:baselineAlignBottom="true"
+                    android:cropToPadding="true"
+                    android:scaleType="centerInside"
+                    android:visibility="gone" />
+  
+                <TextView
+                    android:id="@+id/infoStep"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:autoLink="web"
+                    android:bufferType="spannable"
+                    android:gravity="center_vertical|left"
+                    android:hint="no value.."
+                    android:includeFontPadding="true"
+                    android:text="@string/CV.0.info" />
+
+                <RelativeLayout
+                    android:id="@+id/layoutBtn3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.03"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <!-- butoane -->
+
+                    <Button
+                        android:id="@+id/backBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/back"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/goToBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dip"
+                        android:layout_marginRight="13dip"
+                        android:layout_toRightOf="@id/backBtn"
+                        android:background="@drawable/list" />
+
+                    <Button
+                        android:id="@+id/rateBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13dip"
+                        android:layout_marginRight="15dip"
+                        android:layout_toRightOf="@id/goToBtn"
+                        android:background="@drawable/rate" />
+
+                    <Button
+                        android:id="@+id/goUpBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="15dip"
+                        android:layout_toRightOf="@id/rateBtn"
+                        android:background="@drawable/up" />
+
+                    <Button
+                        android:id="@+id/nextBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/goUpBtn"
+                        android:background="@drawable/forward" />
+                </RelativeLayout>
+
+                <Button
+                    android:id="@+id/backBtnMenu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@drawable/undo"
+                    android:padding="10dip"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>
